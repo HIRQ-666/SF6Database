@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF6ActionTrackerApp", "..\HIRQ-666\SF6ActionTracker\SF6ActionTrackerApp\SF6ActionTrackerApp.csproj", "{BBBE49A6-4966-771C-0E98-9988BD5CD61B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF6CharacterDatabaseApp", "SF6CharacterDatabaseApp\SF6CharacterDatabaseApp.csproj", "{1529BFBC-BC3A-5EAB-3FF2-7B1C98CBCD75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BBBE49A6-4966-771C-0E98-9988BD5CD61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBBE49A6-4966-771C-0E98-9988BD5CD61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBBE49A6-4966-771C-0E98-9988BD5CD61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBBE49A6-4966-771C-0E98-9988BD5CD61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1529BFBC-BC3A-5EAB-3FF2-7B1C98CBCD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1529BFBC-BC3A-5EAB-3FF2-7B1C98CBCD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1529BFBC-BC3A-5EAB-3FF2-7B1C98CBCD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1529BFBC-BC3A-5EAB-3FF2-7B1C98CBCD75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

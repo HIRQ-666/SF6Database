@@ -1,5 +1,3 @@
-using SF6CharacterDatabase.Models.Enums; // Enum‚Ì–¼‘O‹óŠÔ
-
 public class AttackData
 {
     public string Name { get; set; } = string.Empty;            // ‹Z–¼
