@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApp1
+namespace SF6CharacterDatabaseApp
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
