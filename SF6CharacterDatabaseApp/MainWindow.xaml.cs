@@ -20,5 +20,21 @@ namespace SF6CharacterDatabaseApp
         {
             InitializeComponent();
         }
+
+        private void OnCharacterSelectClick(object sender, RoutedEventArgs e)
+        {
+            // 仮のウィンドウ。後ほど CharacterSelectWindow.xaml を作成
+            MessageBox.Show("キャラ選択画面を表示（後で実装）");
+        }
+
+        private void OnSettingsClick(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("設定画面は未実装です。");
+        }
+
+        private void OnExitClick(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }

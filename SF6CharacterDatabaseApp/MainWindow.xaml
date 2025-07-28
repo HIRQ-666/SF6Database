@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SF6CharacterDatabaseApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="SF6キャラデータベース - メインメニュー" Height="350" Width="400">
     <Grid>
-
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="キャラ選択" Width="200" Height="40" Margin="0 0 0 10" Click="OnCharacterSelectClick"/>
+            <Button Content="設定" Width="200" Height="40" Margin="0 0 0 10" Click="OnSettingsClick"/>
+            <Button Content="終了" Width="200" Height="40" Click="OnExitClick"/>
+        </StackPanel>
     </Grid>
 </Window>
