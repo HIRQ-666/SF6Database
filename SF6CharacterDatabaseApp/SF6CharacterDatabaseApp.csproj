@@ -13,4 +13,8 @@
     <PackageReference Include="ShowMeTheXAML.MSBuild" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SF6CharacterDatabaseModels\SF6CharacterDatabaseModels.csproj" />
+  </ItemGroup>
+
 </Project>
