@@ -1,7 +1,5 @@
 ﻿using HtmlAgilityPack;
 using SF6CharacterDatabaseModels.Models;
-using SF6CharacterDatabaseModels.Enums;
-using System.Text.RegularExpressions;
 
 namespace SF6DataFetcher.Parsers
 {
