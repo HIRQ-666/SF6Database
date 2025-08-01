@@ -1,10 +1,12 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Playwright;
 using SF6CharacterDatabaseModels.Models;
+using SF6CharacterDatabaseModels.Utilities;
 using SF6DataFetcher.Config;
-using SF6DataFetcher.Parsers;
-using System.Text.Json;
 using SF6DataFetcher.Constants;
+using SF6DataFetcher.Parsers;
+using System.Text.Encodings.Web;
+using System.Text.Json;
 
 namespace SF6DataFetcher
 {
@@ -47,7 +49,11 @@ namespace SF6DataFetcher
             File.WriteAllText(_settings.DebugHtmlFile, innerHtml);
 
             Console.WriteLine(FrameDataMessages.ParsingFrameData);
-            var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml);
+
+            // 🆕 マッピングデータを読み込んで渡す
+            var commandMapper = new CommandMapper(_settings.CommandMappingCsvPath);
+            var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper);
+
             Console.WriteLine($"{FrameDataMessages.AttackCount}{attacks.Count}");
 
             await SaveJsonAsync(attacks, _settings.OutputJsonFile);
@@ -76,7 +82,12 @@ namespace SF6DataFetcher
 
         private async Task SaveJsonAsync(List<AttackData> data, string path)
         {
-            var json = JsonSerializer.Serialize(data, new JsonSerializerOptions { WriteIndented = true });
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = true,
+                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping // ← コレがポイント
+            };
+            var json = JsonSerializer.Serialize(data, options);
             await File.WriteAllTextAsync(path, json);
             Console.WriteLine($"{FrameDataMessages.OutputJsonSaved}{path}");
         }
