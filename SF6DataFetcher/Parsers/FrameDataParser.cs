@@ -1,11 +1,12 @@
 ﻿using HtmlAgilityPack;
 using SF6CharacterDatabaseModels.Models;
+using SF6CharacterDatabaseModels.Utilities;
 
 namespace SF6DataFetcher.Parsers
 {
     public static class FrameDataParser
     {
-        public static List<AttackData> ParseFrameDataFromHtml(string html)
+        public static List<AttackData> ParseFrameDataFromHtml(string html, CommandMapper commandMapper)
         {
             var doc = new HtmlDocument();
             doc.LoadHtml(html);
@@ -22,7 +23,7 @@ namespace SF6DataFetcher.Parsers
                 var attack = new AttackData
                 {
                     Name = FrameCellParser.ParseAttackName(cells[0]),
-                    Command = FrameCellParser.ParseCommandFromIcons(cells[0]),
+                    Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),
                     StartFrame = FrameCellParser.ParseFrameValue(cells[1].InnerText),
                     ActiveFrame = FrameCellParser.ParseFrameValue(cells[2].InnerText),
                     StiffnessFrame = FrameCellParser.ParseFrameValue(cells[3].InnerText),

@@ -1,6 +1,7 @@
 ﻿using HtmlAgilityPack;
 using SF6CharacterDatabaseModels.Enums;
 using SF6CharacterDatabaseModels.Models;
+using SF6CharacterDatabaseModels.Utilities;
 using System.Text.RegularExpressions;
 
 
@@ -14,12 +15,17 @@ namespace SF6DataFetcher.Parsers
             return span?.InnerText.Trim() ?? string.Empty;
         }
 
-        public static string ParseCommandFromIcons(HtmlNode cell)
+        public static string ParseCommandFromIcons(HtmlNode cell, CommandMapper commandMapper)
         {
             var icons = cell.SelectNodes(".//img");
             if (icons == null || icons.Count == 0) return string.Empty;
 
-            return string.Join(" ", icons.Select(img => img.GetAttributeValue("alt", "").Trim()));
+            return string.Join(" ", icons.Select(img =>
+            {
+                var src = img.GetAttributeValue("src", "").Trim();
+                var filename = Path.GetFileName(src); // ファイル名だけ取得
+                return commandMapper.GetSymbolByImageName(filename);
+            }));
         }
 
         public static CancelType ParseCancelType(HtmlNode cell)

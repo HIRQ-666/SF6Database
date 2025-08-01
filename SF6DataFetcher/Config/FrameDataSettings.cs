@@ -5,6 +5,7 @@
         public string CharacterUrl { get; set; } = "";
         public string DebugHtmlFile { get; set; } = "";
         public string OutputJsonFile { get; set; } = "";
+        public string CommandMappingCsvPath { get; set; } = "";
 
         public int GotoTimeout { get; set; }
         public int WaitForSelectorTimeout { get; set; }
