@@ -26,10 +26,6 @@ namespace SF6DataFetcher.Parsers
                     Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),                   
                     CancelType = FrameCellParser.ParseCancelType(cells[6]),
                     Damage = FrameCellParser.ParseFrameValue(cells[7].InnerText),
-                    DriveGaugeIncrease = FrameCellParser.ParseFrameValue(cells[9].InnerText),
-                    DriveGaugeDecreaseGuard = FrameCellParser.ParseFrameValue(cells[10].InnerText),
-                    DriveGaugeDecreasePanish = FrameCellParser.ParseFrameValue(cells[11].InnerText),
-                    SAGaugeIncrease = FrameCellParser.ParseFrameValue(cells[12].InnerText),
                     AttackType = FrameCellParser.ParseAttackAttribute(cells[13]),
                     Notes = cells[14].InnerText.Trim()
                 };
@@ -66,6 +62,14 @@ namespace SF6DataFetcher.Parsers
                 };
 
                 attack.Corrections = FrameCellParser.ParseCorrectionValues(cells[8]);
+
+                attack.GaugeEffect = new GaugeEffect
+                {
+                    DriveIncrease = FrameCellParser.ParseFrameValue(cells[9].InnerText),
+                    DriveDecreaseGuard = FrameCellParser.ParseFrameValue(cells[10].InnerText),
+                    DriveDecreasePanish = FrameCellParser.ParseFrameValue(cells[11].InnerText),
+                    SAIncrease = FrameCellParser.ParseFrameValue(cells[12].InnerText)
+                };
 
                 result.Add(attack);
             }
