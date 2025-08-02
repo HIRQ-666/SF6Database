@@ -3,9 +3,12 @@
     public class FrameDataSettings
     {
         public bool UseLocalHtml { get; set; }
-        public string CharacterUrl { get; set; } = "";
-        public string DebugHtmlFile { get; set; } = "";
-        public string OutputJsonFile { get; set; } = "";
+        public string CharacterMappingsFile { get; set; } = "";
+        public string CharacterUrlTemplate { get; set; } = "";
+        public string DebugHtmlDirectory { get; set; } = "";
+        public string OutputJsonDirectory { get; set; } = "";
+        public string DebugHtmlFileFormat { get; set; } = "debug_{characterName}_framearea.html";
+        public string OutputJsonFileFormat { get; set; } = "attackdata_{characterName}.json";
         public string CommandMappingCsvPath { get; set; } = "";
 
         public int GotoTimeout { get; set; }

@@ -19,4 +19,9 @@
     <ProjectReference Include="..\SF6CharacterDatabaseModels\SF6CharacterDatabaseModels.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Output\Json\" />
+    <Folder Include="Output\Html\" />
+  </ItemGroup>
+
 </Project>

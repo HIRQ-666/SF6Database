@@ -17,6 +17,7 @@ namespace SF6CharacterDatabaseModels.Models
         public GaugeEffect GaugeEffect { get; set; } = new();                             // ゲージへの影響
         public AttackAttribute AttackType { get; set; } = AttackAttribute.Other;          // 攻撃の属性
         public string Notes { get; set; } = string.Empty;                                 // 備考
+        public DateTime LastUpdated { get; set; } = DateTime.UtcNow;                      // 最終更新日時  
 
         public override string ToString()
         {
