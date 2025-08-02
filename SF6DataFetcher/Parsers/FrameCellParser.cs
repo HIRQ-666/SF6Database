@@ -121,5 +121,27 @@ namespace SF6DataFetcher.Parsers
             var match = Regex.Match(text, @"全体\s*(\d+)");
             return match.Success && int.TryParse(match.Groups[1].Value, out int value) ? value : -999;
         }
+
+        public static HitResult ParseHitResult(string text)
+        {
+            if (string.IsNullOrWhiteSpace(text))
+                return new HitResult(); // Frame = -999, Effect = None
+
+            text = text.Trim();
+
+            if (text.Contains("※") || text.Contains("D") || text.Contains("ダウン"))
+            {
+                // ダウンだがフレーム数があるかをチェック
+                var frameMatch = Regex.Match(text, @"\d+");
+                int frame = frameMatch.Success ? int.Parse(frameMatch.Value) : -999;
+                return new HitResult(frame, HitEffectType.Down); // または HardKnockDown に切り替え可能
+            }
+
+            // フレーム数のみ
+            if (int.TryParse(text.Replace("F", "").Replace("ｆ", "").Trim(), out int value))
+                return new HitResult(value, HitEffectType.None);
+
+            return new HitResult(); // 解析失敗
+        }
     }
 }

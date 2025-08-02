@@ -23,13 +23,7 @@ namespace SF6DataFetcher.Parsers
                 var attack = new AttackData
                 {
                     Name = FrameCellParser.ParseAttackName(cells[0]),
-                    Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),
-                    StartFrame = FrameCellParser.ParseFrameValue(cells[1].InnerText),
-                    ActiveFrame = FrameCellParser.ParseActiveFrame(cells[2].InnerText),
-                    StiffnessFrame = FrameCellParser.ParseFrameValue(cells[3].InnerText),
-                    AllFrame = FrameCellParser.ParseAllFrameValue(cells[3].InnerText),
-                    HitFrame = FrameCellParser.ParseFrameValue(cells[4].InnerText),
-                    GuardFrame = FrameCellParser.ParseFrameValue(cells[5].InnerText),
+                    Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),                   
                     CancelType = FrameCellParser.ParseCancelType(cells[6]),
                     Damage = FrameCellParser.ParseFrameValue(cells[7].InnerText),
                     DriveGaugeIncrease = FrameCellParser.ParseFrameValue(cells[9].InnerText),
@@ -40,8 +34,39 @@ namespace SF6DataFetcher.Parsers
                     Notes = cells[14].InnerText.Trim()
                 };
 
+                attack.FrameInfo = new FrameInfo
+                {
+                    Start = FrameCellParser.ParseFrameValue(cells[1].InnerText),
+                    Active = FrameCellParser.ParseActiveFrame(cells[2].InnerText),
+                    Stiffness = FrameCellParser.ParseFrameValue(cells[3].InnerText),
+                    All = FrameCellParser.ParseAllFrameValue(cells[3].InnerText)
+                };
+
                 FrameCellParser.ParseCorrectionValues(cells[8], attack);
                 result.Add(attack);
+
+                HitResult normalHit = FrameCellParser.ParseHitResult(cells[4].InnerText);
+                HitResult counterHit = new HitResult(
+                    frame: normalHit.Frame != -999 ? normalHit.Frame + 2 : -999,
+                    effect: normalHit.Effect
+                );
+
+                HitResult punishCounterHit = new HitResult(
+                    frame: normalHit.Frame != -999 ? normalHit.Frame + 4 : -999,
+                    effect: normalHit.Effect
+                );
+                HitResult guardHit = new HitResult(
+                    frame: FrameCellParser.ParseFrameValue(cells[5].InnerText),
+                    effect: 0
+                );
+
+                HitResults hitResults = new HitResults
+                {
+                    Normal = normalHit,
+                    Counter = counterHit,
+                    PunishCounter = punishCounterHit,
+                    Guard = guardHit
+                };
             }
 
             return result;

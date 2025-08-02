@@ -9,14 +9,8 @@ namespace SF6CharacterDatabaseModels.Models
         public string Command { get; set; } = string.Empty;         // コマンド
         public CommandStrength CommandType { get; set; }            // コマンド強度
 
-        public int StartFrame { get; set; }                         // 発生フレーム
-        public int ActiveFrame { get; set; }                        // 持続フレーム
-        public int StiffnessFrame { get; set; }                     // 硬直フレーム
-        public int AllFrame { get; set; }                           // 硬直フレーム
-        public int GuardFrame { get; set; }                         // ガード時フレーム
-        public HitResult NormalHit { get; set; } = new();
-        public HitResult CounterHit { get; set; } = new();
-        public HitResult PunishCounterHit { get; set; } = new();
+        public FrameInfo FrameInfo { get; set; } = new();
+        public HitResults HitResults { get; set; } = new();
 
         public CancelType CancelType { get; set; }                  // キャンセルタイプ
         public int Damage { get; set; }                             // ダメージ
