@@ -75,30 +75,51 @@ namespace SF6DataFetcher.Parsers
             return int.TryParse(text, out int value) ? value : -999;
         }
 
-        public static int ParseActiveFrame(string text)
+        public static int ParseActiveFrame(string text, int start)
         {
             if (string.IsNullOrWhiteSpace(text))
-                return 0;
+                return -999;
 
-            text = text.Replace("F", "").Trim();
+            if (text.Contains("着地"))
+                return -999;
 
-            var matches = Regex.Matches(text, @"\d+").Cast<Match>().Select(m => int.Parse(m.Value)).ToList();
+            // 記号を除去（例: ※や*）
+            text = text.Replace("※", "").Replace("*", "").Trim();
 
-            if (matches.Count == 0)
-                return 0;
+            // マッチ: 数値として解釈可能なパターンのみ（先頭0つきの誤認識防止）
+            var matches = Regex.Matches(text, @"\d+");
 
-            if (matches.Count == 1)
-                return 1;
+            // 異常データチェック
+            if (matches.Count == 0) return -999;
 
-            int min = matches.Min();
-            int max = matches.Max();
-            return max - (min - 1);
+            // 数字のうち最大のものを選ぶ（例: 3(5)2 → Max=5）
+            var numbers = matches
+                .Select(m => int.TryParse(m.Value, out int v) ? v : -1)
+                .Where(v => v >= 0 && v < 100)  // 100以上の異常値を除外（任意）
+                .ToList();
+
+            if (numbers.Count == 0) return -999;
+
+            int max = numbers.Max();
+            return max - start + 1;
         }
 
-        public static int ParseAllFrameValue(string text)
+        public static int ParseAllFrame(string frameText, int start, int active, int stiffness)
         {
-            var match = Regex.Match(text, @"全体\s*(\d+)");
-            return match.Success && int.TryParse(match.Groups[1].Value, out int value) ? value : -999;
+            if (string.IsNullOrWhiteSpace(frameText))
+                return start + active + stiffness - 1;
+
+            // 着地が含まれる場合は複雑なので無効値とする
+            if (frameText.Contains("着地"))
+                return -999;
+
+            // 「全体◯F」のような記載があればその数値を優先
+            var match = Regex.Match(frameText, @"全体\s*(\d+)");
+            if (match.Success && int.TryParse(match.Groups[1].Value, out int all))
+                return all;
+
+            // それ以外は自前で計算
+            return start + active + stiffness - 1;
         }
 
         public static HitResult ParseHitResult(string text)
@@ -110,13 +131,11 @@ namespace SF6DataFetcher.Parsers
 
             if (text.Contains("※") || text.Contains("D") || text.Contains("ダウン"))
             {
-                // ダウンだがフレーム数があるかをチェック
                 var frameMatch = Regex.Match(text, @"\d+");
                 int frame = frameMatch.Success ? int.Parse(frameMatch.Value) : -999;
                 return new HitResult(frame, HitEffectType.Down);
             }
 
-            // フレーム数のみ
             if (int.TryParse(text.Replace("F", "").Replace("ｆ", "").Trim(), out int value))
                 return new HitResult(value, HitEffectType.None);
 

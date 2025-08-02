@@ -30,16 +30,25 @@ namespace SF6DataFetcher.Parsers
                     Notes = cells[14].InnerText.Trim()
                 };
 
+                int startFrame = FrameCellParser.ParseFrameValue(cells[1].InnerText);
+                int activeFrame = FrameCellParser.ParseActiveFrame(cells[2].InnerText, startFrame);
+                int stiffnessFrame = FrameCellParser.ParseFrameValue(cells[3].InnerText);
+                int allFrame = FrameCellParser.ParseAllFrame(
+                    cells[3].InnerText,
+                    startFrame,
+                    activeFrame,
+                    stiffnessFrame
+                );
+
                 attack.FrameInfo = new FrameInfo
                 {
-                    Start = FrameCellParser.ParseFrameValue(cells[1].InnerText),
-                    Active = FrameCellParser.ParseActiveFrame(cells[2].InnerText),
-                    Stiffness = FrameCellParser.ParseFrameValue(cells[3].InnerText),
-                    All = FrameCellParser.ParseAllFrameValue(cells[3].InnerText)
+                    Start = startFrame,
+                    Active = activeFrame,
+                    Stiffness = stiffnessFrame,
+                    All = allFrame
                 };
-                Console.WriteLine($"[Debug] HitCellText: '{cells[4].InnerText}'");
+
                 HitResult normalHit = FrameCellParser.ParseHitResult(cells[4].InnerText);
-                Console.WriteLine($"[Debug] Parsed Hit Frame: {normalHit.Frame}, Effect: {normalHit.Effect}");
                 HitResult counterHit = new HitResult(
                     frame: normalHit.Frame != -999 ? normalHit.Frame + 2 : -999,
                     effect: normalHit.Effect
