@@ -61,26 +61,6 @@ namespace SF6DataFetcher.Parsers
             return AttackAttribute.Other;
         }
 
-        public static void ParseCorrectionValues(HtmlNode node, AttackData attack)
-        {
-            var listItems = node.SelectNodes(".//li");
-            if (listItems == null) return;
-
-            foreach (var li in listItems)
-            {
-                var text = li.InnerText.Trim();
-
-                if (text.StartsWith(FrameParseConstants.StartupCorrectionLabel))
-                    attack.StartupCorrectionValue = ParsePercentage(text);
-                else if (text.StartsWith(FrameParseConstants.ComboCorrectionLabel))
-                    attack.ComboCorrectionValue = ParsePercentage(text);
-                else if (text.StartsWith(FrameParseConstants.InstantCorrectionLabel))
-                    attack.InstantCorrectionValue = ParsePercentage(text);
-                else if (text.StartsWith(FrameParseConstants.MultiplicationCorrectionLabel))
-                    attack.MultiplicationCorrectionValue = ParsePercentage(text);
-            }
-        }
-
         public static float ParsePercentage(string text)
         {
             var match = Regex.Match(text, @"(\d+)%");
@@ -98,22 +78,21 @@ namespace SF6DataFetcher.Parsers
         public static int ParseActiveFrame(string text)
         {
             if (string.IsNullOrWhiteSpace(text))
-                return 0;  // 弾などで空欄の場合
+                return 0;
 
             text = text.Replace("F", "").Trim();
 
-            // 数字だけをすべて抽出
             var matches = Regex.Matches(text, @"\d+").Cast<Match>().Select(m => int.Parse(m.Value)).ToList();
 
             if (matches.Count == 0)
                 return 0;
 
             if (matches.Count == 1)
-                return 1; // 1値のみ（例: "3"） → 最低1F持続とみなす
+                return 1;
 
             int min = matches.Min();
             int max = matches.Max();
-            return max - (min - 1);  // 例: 5 - (3 - 1) = 3
+            return max - (min - 1);
         }
 
         public static int ParseAllFrameValue(string text)
@@ -125,7 +104,7 @@ namespace SF6DataFetcher.Parsers
         public static HitResult ParseHitResult(string text)
         {
             if (string.IsNullOrWhiteSpace(text))
-                return new HitResult(); // Frame = -999, Effect = None
+                return new HitResult();
 
             text = text.Trim();
 
@@ -134,14 +113,38 @@ namespace SF6DataFetcher.Parsers
                 // ダウンだがフレーム数があるかをチェック
                 var frameMatch = Regex.Match(text, @"\d+");
                 int frame = frameMatch.Success ? int.Parse(frameMatch.Value) : -999;
-                return new HitResult(frame, HitEffectType.Down); // または HardKnockDown に切り替え可能
+                return new HitResult(frame, HitEffectType.Down);
             }
 
             // フレーム数のみ
             if (int.TryParse(text.Replace("F", "").Replace("ｆ", "").Trim(), out int value))
                 return new HitResult(value, HitEffectType.None);
 
-            return new HitResult(); // 解析失敗
+            return new HitResult();
+        }
+
+        public static CorrectionValues ParseCorrectionValues(HtmlNode node)
+        {
+            CorrectionValues corrections = new CorrectionValues();
+            var listItems = node.SelectNodes(".//li");
+            if (listItems == null) return corrections;
+
+            foreach (var li in listItems)
+            {
+                var text = li.InnerText.Trim();
+                if (listItems == null) return corrections;
+
+                if (text.StartsWith(FrameParseConstants.StartupCorrectionLabel))
+                    corrections.Startup = ParsePercentage(text);
+                else if (text.StartsWith(FrameParseConstants.ComboCorrectionLabel))
+                    corrections.Combo = ParsePercentage(text);
+                else if (text.StartsWith(FrameParseConstants.InstantCorrectionLabel))
+                    corrections.Instant = ParsePercentage(text);
+                else if (text.StartsWith(FrameParseConstants.MultiplicationCorrectionLabel))
+                    corrections.Multiplication = ParsePercentage(text);
+            }
+
+            return corrections;
         }
     }
 }

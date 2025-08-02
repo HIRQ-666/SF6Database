@@ -42,9 +42,6 @@ namespace SF6DataFetcher.Parsers
                     All = FrameCellParser.ParseAllFrameValue(cells[3].InnerText)
                 };
 
-                FrameCellParser.ParseCorrectionValues(cells[8], attack);
-                result.Add(attack);
-
                 HitResult normalHit = FrameCellParser.ParseHitResult(cells[4].InnerText);
                 HitResult counterHit = new HitResult(
                     frame: normalHit.Frame != -999 ? normalHit.Frame + 2 : -999,
@@ -67,6 +64,10 @@ namespace SF6DataFetcher.Parsers
                     PunishCounter = punishCounterHit,
                     Guard = guardHit
                 };
+
+                attack.Corrections = FrameCellParser.ParseCorrectionValues(cells[8]);
+
+                result.Add(attack);
             }
 
             return result;
