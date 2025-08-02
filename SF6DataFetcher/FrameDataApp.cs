@@ -13,6 +13,7 @@ namespace SF6DataFetcher
     public class FrameDataApp
     {
         private readonly FrameDataSettings _settings;
+        private DateTime _startTime = DateTime.UtcNow.ToLocalTime();
 
         public FrameDataApp()
         {
@@ -22,6 +23,7 @@ namespace SF6DataFetcher
                 .Build();
 
             _settings = config.GetRequiredSection("FrameData").Get<FrameDataSettings>()!;
+            Console.WriteLine($"🕒 起動時間: {_startTime.ToLocalTime():yyyy-MM-dd HH:mm:ss} JST");
         }
 
         public async Task RunAsync()
@@ -69,7 +71,7 @@ namespace SF6DataFetcher
             Console.WriteLine(FrameDataMessages.ParsingFrameData);
 
             var commandMapper = new CommandMapper(_settings.CommandMappingCsvPath);
-            var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper);
+            var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper, _startTime);
 
             Console.WriteLine($"{FrameDataMessages.AttackCount}{attacks.Count}");
             await SaveJsonAsync(attacks, _settings.OutputJsonFile);

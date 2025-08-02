@@ -6,7 +6,7 @@ namespace SF6DataFetcher.Parsers
 {
     public static class FrameDataParser
     {
-        public static List<AttackData> ParseFrameDataFromHtml(string html, CommandMapper commandMapper)
+        public static List<AttackData> ParseFrameDataFromHtml(string html, CommandMapper commandMapper,DateTime startTime)
         {
             var doc = new HtmlDocument();
             doc.LoadHtml(html);
@@ -82,6 +82,7 @@ namespace SF6DataFetcher.Parsers
                     DriveDecreasePanish = FrameCellParser.ParseFrameValue(cells[11].InnerText),
                     SAIncrease = FrameCellParser.ParseFrameValue(cells[12].InnerText)
                 };
+                attack.LastUpdated = startTime;
 
                 result.Add(attack);
             }
