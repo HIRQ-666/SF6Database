@@ -50,7 +50,6 @@ namespace SF6DataFetcher
 
             Console.WriteLine(FrameDataMessages.ParsingFrameData);
 
-            // 🆕 マッピングデータを読み込んで渡す
             var commandMapper = new CommandMapper(_settings.CommandMappingCsvPath);
             var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper);
 
@@ -85,7 +84,7 @@ namespace SF6DataFetcher
             var options = new JsonSerializerOptions
             {
                 WriteIndented = true,
-                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping // ← コレがポイント
+                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
             };
             var json = JsonSerializer.Serialize(data, options);
             await File.WriteAllTextAsync(path, json);

@@ -10,6 +10,8 @@
         public const string InstantCorrectionLabel = "即時補正";
         public const string MultiplicationCorrectionLabel = "乗算補正";
 
+        public const string CancelLabel_Able = "C";
+        public const string CancelLabel_SA = "SA";
         public const string CancelLabel_SA2 = "SA2";
         public const string CancelLabel_SA3 = "SA3";
 

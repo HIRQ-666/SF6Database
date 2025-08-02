@@ -25,7 +25,7 @@ namespace SF6DataFetcher.Parsers
                     Name = FrameCellParser.ParseAttackName(cells[0]),
                     Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),
                     StartFrame = FrameCellParser.ParseFrameValue(cells[1].InnerText),
-                    ActiveFrame = FrameCellParser.ParseFrameValue(cells[2].InnerText),
+                    ActiveFrame = FrameCellParser.ParseActiveFrame(cells[2].InnerText),
                     StiffnessFrame = FrameCellParser.ParseFrameValue(cells[3].InnerText),
                     AllFrame = FrameCellParser.ParseAllFrameValue(cells[3].InnerText),
                     HitFrame = FrameCellParser.ParseFrameValue(cells[4].InnerText),

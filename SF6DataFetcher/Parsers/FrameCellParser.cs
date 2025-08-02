@@ -33,8 +33,15 @@ namespace SF6DataFetcher.Parsers
             var span = cell.SelectSingleNode(".//span");
             var text = span?.InnerText?.Trim() ?? "";
 
+            if (text.Contains("※"))
+            {
+                return CancelType.SpecificMoveOnly;
+            }
+
             return text switch
             {
+                FrameParseConstants.CancelLabel_Able => CancelType.Normal,
+                FrameParseConstants.CancelLabel_SA => CancelType.OnlySA,
                 FrameParseConstants.CancelLabel_SA2 => CancelType.OnlySA2Or3,
                 FrameParseConstants.CancelLabel_SA3 => CancelType.OnlySA3,
                 _ => CancelType.None
@@ -85,13 +92,34 @@ namespace SF6DataFetcher.Parsers
             if (string.IsNullOrWhiteSpace(text)) return -1;
 
             text = text.Replace(" ", "").Replace("F", "").Trim();
-            return int.TryParse(text, out int value) ? value : -1;
+            return int.TryParse(text, out int value) ? value : -999;
+        }
+
+        public static int ParseActiveFrame(string text)
+        {
+            if (string.IsNullOrWhiteSpace(text))
+                return 0;  // 弾などで空欄の場合
+
+            text = text.Replace("F", "").Trim();
+
+            // 数字だけをすべて抽出
+            var matches = Regex.Matches(text, @"\d+").Cast<Match>().Select(m => int.Parse(m.Value)).ToList();
+
+            if (matches.Count == 0)
+                return 0;
+
+            if (matches.Count == 1)
+                return 1; // 1値のみ（例: "3"） → 最低1F持続とみなす
+
+            int min = matches.Min();
+            int max = matches.Max();
+            return max - (min - 1);  // 例: 5 - (3 - 1) = 3
         }
 
         public static int ParseAllFrameValue(string text)
         {
             var match = Regex.Match(text, @"全体\s*(\d+)");
-            return match.Success && int.TryParse(match.Groups[1].Value, out int value) ? value : -1;
+            return match.Success && int.TryParse(match.Groups[1].Value, out int value) ? value : -999;
         }
     }
 }
