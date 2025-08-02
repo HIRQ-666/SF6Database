@@ -14,7 +14,9 @@ namespace SF6CharacterDatabaseModels.Models
         public int StiffnessFrame { get; set; }                     // 硬直フレーム
         public int AllFrame { get; set; }                           // 硬直フレーム
         public int GuardFrame { get; set; }                         // ガード時フレーム
-        public int HitFrame { get; set; }                           // ヒット時フレーム
+        public HitResult NormalHit { get; set; } = new();
+        public HitResult CounterHit { get; set; } = new();
+        public HitResult PunishCounterHit { get; set; } = new();
 
         public CancelType CancelType { get; set; }                  // キャンセルタイプ
         public int Damage { get; set; }                             // ダメージ
