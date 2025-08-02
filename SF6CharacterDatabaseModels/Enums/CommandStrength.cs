@@ -2,9 +2,10 @@
 {
     public enum CommandStrength
     {
-        Weak = 0,
-        Medium = 1,
-        Strong = 2,
-        OD = 3
+        None = 0,
+        Light = 1,
+        Medium = 2,
+        Heavy = 3,
+        OD = 4
     }
 }
