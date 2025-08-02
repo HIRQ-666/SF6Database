@@ -1,298 +1,16 @@
 [
   {
     "AttackCategory": 6,
-    "Name": "立ち弱P（ファーストスティンガー）",
+    "Name": "立ち弱P（ノーシ）",
     "Command": "弱P",
     "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 300,
-    "FrameInfo": {
-      "Start": 7,
-      "Active": 2,
-      "Stiffness": -999,
-      "All": -991
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 4,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 6,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0.2,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 250,
-      "DriveDecreaseGuard": -500,
-      "DriveDecreasePanish": -2000,
-      "SAIncrease": 300
-    },
-    "AttackType": 0,
-    "Notes": "※空振り時硬直3F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "立ち弱K（レッグハント）",
-    "Command": "弱K",
-    "CommandType": 0,
     "CancelType": 1,
     "Damage": 300,
     "FrameInfo": {
-      "Start": 5,
-      "Active": 2,
-      "Stiffness": 12,
-      "All": 18
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 7,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -2,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0.2,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 250,
-      "DriveDecreaseGuard": -500,
-      "DriveDecreasePanish": -2000,
-      "SAIncrease": 300
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "立ち中P（トリガーフィスト）",
-    "Command": "中P",
-    "CommandType": 0,
-    "CancelType": 2,
-    "Damage": 600,
-    "FrameInfo": {
-      "Start": 9,
-      "Active": 4,
-      "Stiffness": 16,
-      "All": 28
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 4,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 6,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1500,
-      "DriveDecreaseGuard": -3000,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 500
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "立ち中K（アンブッシュスピア）",
-    "Command": "中K",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 700,
-    "FrameInfo": {
-      "Start": 8,
+      "Start": 6,
       "Active": 3,
-      "Stiffness": -999,
-      "All": -989
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 1,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -6000,
-      "SAIncrease": 700
-    },
-    "AttackType": 0,
-    "Notes": "※空振り時硬直3F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "立ち強P（クラッシャー）",
-    "Command": "強P",
-    "CommandType": 0,
-    "CancelType": 1,
-    "Damage": 800,
-    "FrameInfo": {
-      "Start": 10,
-      "Active": 3,
-      "Stiffness": 23,
-      "All": 35
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 1,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -6,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -5000,
-      "DriveDecreasePanish": -8000,
-      "SAIncrease": 1000
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "立ち強K（キャノンボール）",
-    "Command": "強K",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 900,
-    "FrameInfo": {
-      "Start": 10,
-      "Active": 7,
-      "Stiffness": 16,
-      "All": 32
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 4,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 6,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -5,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 4000,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -10000,
-      "SAIncrease": 1000
-    },
-    "AttackType": 0,
-    "Notes": "空中ヒット時吹き飛びダウンパニッシュカウンター時吹き飛びダウン8-15F足元無敵",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "しゃがみ弱P（ファストジャブ）",
-    "Command": "↓ + 弱P",
-    "CommandType": 0,
-    "CancelType": 1,
-    "Damage": 300,
-    "FrameInfo": {
-      "Start": 4,
-      "Active": 2,
       "Stiffness": 10,
-      "All": 15
+      "All": 18
     },
     "HitResults": {
       "Normal": {
@@ -330,11 +48,11 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "しゃがみ弱K（アンクルスナイプ）",
-    "Command": "↓ + 弱K",
+    "Name": "立ち弱K（ニージニイ・ウダール）",
+    "Command": "弱K",
     "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 200,
+    "CancelType": 1,
+    "Damage": 300,
     "FrameInfo": {
       "Start": 5,
       "Active": 3,
@@ -343,19 +61,301 @@
     },
     "HitResults": {
       "Normal": {
-        "Frame": 0,
+        "Frame": 3,
         "Effect": 0
       },
       "Counter": {
-        "Frame": 2,
+        "Frame": 5,
         "Effect": 0
       },
       "PunishCounter": {
-        "Frame": 4,
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -2,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.2,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 250,
+      "DriveDecreaseGuard": -500,
+      "DriveDecreasePanish": -2000,
+      "SAIncrease": 300
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "立ち中P（シュトゥールム）",
+    "Command": "中P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 700,
+    "FrameInfo": {
+      "Start": 12,
+      "Active": 3,
+      "Stiffness": 21,
+      "All": 35
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 1,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -6,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 3000,
+      "DriveDecreaseGuard": -4000,
+      "DriveDecreasePanish": -6000,
+      "SAIncrease": 500
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "立ち中K（ウームヌィ・ウダール）",
+    "Command": "中K",
+    "CommandType": 0,
+    "CancelType": 1,
+    "Damage": 600,
+    "FrameInfo": {
+      "Start": 8,
+      "Active": 3,
+      "Stiffness": 19,
+      "All": 29
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 7,
         "Effect": 0
       },
       "Guard": {
         "Frame": -3,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1500,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -4000,
+      "SAIncrease": 500
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "立ち強P（キンターヴル）",
+    "Command": "強P",
+    "CommandType": 0,
+    "CancelType": 1,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 12,
+      "Active": 2,
+      "Stiffness": 22,
+      "All": 35
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -3,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.2,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -5000,
+      "DriveDecreasePanish": -8000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 0,
+    "Notes": "空中ヒット時吹き飛びダウンパニッシュカウンター時+25F",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "立ち強K（オボロートニ）",
+    "Command": "強K",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 12,
+      "Active": 4,
+      "Stiffness": 17,
+      "All": 32
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 9,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 11,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": 2,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 3000,
+      "DriveDecreaseGuard": -6000,
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "しゃがみ弱P（ブィストルイ・ウダール）",
+    "Command": "↓ + 弱P",
+    "CommandType": 0,
+    "CancelType": 1,
+    "Damage": 300,
+    "FrameInfo": {
+      "Start": 4,
+      "Active": 2,
+      "Stiffness": 11,
+      "All": 16
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 4,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 6,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 8,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.2,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 250,
+      "DriveDecreaseGuard": -500,
+      "DriveDecreasePanish": -2000,
+      "SAIncrease": 300
+    },
+    "AttackType": 0,
+    "Notes": "連打キャンセル対応",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "しゃがみ弱K（リョーフキー・ウダール）",
+    "Command": "↓ + 弱K",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 200,
+    "FrameInfo": {
+      "Start": 6,
+      "Active": 2,
+      "Stiffness": 10,
+      "All": 17
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 2,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 4,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 6,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -2,
         "Effect": 0
       }
     },
@@ -377,37 +377,37 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "しゃがみ中P（スラッグショット）",
+    "Name": "しゃがみ中P（ズミヤー）",
     "Command": "↓ + 中P",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 600,
     "FrameInfo": {
-      "Start": 6,
-      "Active": 2,
-      "Stiffness": -999,
-      "All": -992
+      "Start": 7,
+      "Active": 4,
+      "Stiffness": 14,
+      "All": 24
     },
     "HitResults": {
       "Normal": {
-        "Frame": 5,
+        "Frame": 6,
         "Effect": 0
       },
       "Counter": {
-        "Frame": 7,
+        "Frame": 8,
         "Effect": 0
       },
       "PunishCounter": {
-        "Frame": 9,
+        "Frame": 10,
         "Effect": 0
       },
       "Guard": {
-        "Frame": 1,
+        "Frame": -2,
         "Effect": 0
       }
     },
     "Corrections": {
-      "Startup": 0.15,
+      "Startup": 0,
       "Combo": 0,
       "Instant": 0,
       "Multiplication": 0
@@ -419,37 +419,37 @@
       "SAIncrease": 500
     },
     "AttackType": 0,
-    "Notes": "※空振り時硬直3F増加",
+    "Notes": "",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "しゃがみ中K（カーフスカッシュ）",
+    "Name": "しゃがみ中K（ズローバ）",
     "Command": "↓ + 中K",
     "CommandType": 0,
-    "CancelType": 1,
-    "Damage": 500,
+    "CancelType": 0,
+    "Damage": 700,
     "FrameInfo": {
-      "Start": 8,
+      "Start": 9,
       "Active": 3,
-      "Stiffness": 19,
-      "All": 29
+      "Stiffness": 17,
+      "All": 28
     },
     "HitResults": {
       "Normal": {
-        "Frame": -2,
+        "Frame": 3,
         "Effect": 0
       },
       "Counter": {
-        "Frame": 0,
+        "Frame": 5,
         "Effect": 0
       },
       "PunishCounter": {
-        "Frame": 2,
+        "Frame": 7,
         "Effect": 0
       },
       "Guard": {
-        "Frame": -6,
+        "Frame": -3,
         "Effect": 0
       }
     },
@@ -460,10 +460,10 @@
       "Multiplication": 0
     },
     "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -2000,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 600
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -4000,
+      "DriveDecreasePanish": -6000,
+      "SAIncrease": 500
     },
     "AttackType": 1,
     "Notes": "",
@@ -471,16 +471,16 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "しゃがみ強P（アンチエアランチャー）",
+    "Name": "しゃがみ強P（マリートヴァ）",
     "Command": "↓ + 強P",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 800,
     "FrameInfo": {
-      "Start": 7,
-      "Active": 5,
-      "Stiffness": 24,
-      "All": 35
+      "Start": 9,
+      "Active": 6,
+      "Stiffness": 20,
+      "All": 34
     },
     "HitResults": {
       "Normal": {
@@ -496,13 +496,13 @@
         "Effect": 0
       },
       "Guard": {
-        "Frame": -13,
+        "Frame": -6,
         "Effect": 0
       }
     },
     "Corrections": {
       "Startup": 0,
-      "Combo": 0.15,
+      "Combo": 0,
       "Instant": 0,
       "Multiplication": 0
     },
@@ -513,12 +513,12 @@
       "SAIncrease": 1000
     },
     "AttackType": 0,
-    "Notes": "強制立ち効果キャンセルは持続の1F目まで",
+    "Notes": "強制立ち効果",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "しゃがみ強K（トレンチブレイク）",
+    "Name": "しゃがみ強K（ジョーキル）",
     "Command": "↓ + 強K",
     "CommandType": 0,
     "CancelType": 0,
@@ -526,8 +526,8 @@
     "FrameInfo": {
       "Start": 10,
       "Active": 3,
-      "Stiffness": 24,
-      "All": 36
+      "Stiffness": 21,
+      "All": 33
     },
     "HitResults": {
       "Normal": {
@@ -543,7 +543,7 @@
         "Effect": 1
       },
       "Guard": {
-        "Frame": -9,
+        "Frame": -6,
         "Effect": 0
       }
     },
@@ -554,8 +554,8 @@
       "Multiplication": 0
     },
     "GaugeEffect": {
-      "DriveIncrease": 3000,
-      "DriveDecreaseGuard": -4000,
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -5000,
       "DriveDecreasePanish": -10000,
       "SAIncrease": 1000
     },
@@ -565,14 +565,14 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "ジャンプ弱P（ワンバレット）",
+    "Name": "ジャンプ弱P（ルイースイ）",
     "Command": "弱P",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 300,
     "FrameInfo": {
       "Start": 5,
-      "Active": 9,
+      "Active": 10,
       "Stiffness": -999,
       "All": -999
     },
@@ -612,14 +612,14 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "ジャンプ弱K（デルタニー）",
+    "Name": "ジャンプ弱K（ヴァローナ）",
     "Command": "弱K",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 300,
     "FrameInfo": {
       "Start": 6,
-      "Active": 6,
+      "Active": 8,
       "Stiffness": -999,
       "All": -999
     },
@@ -659,14 +659,14 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "ジャンプ中P（エア・インターセプター）",
+    "Name": "ジャンプ中P（ローシャッチ）",
     "Command": "中P",
     "CommandType": 0,
-    "CancelType": 1,
+    "CancelType": 0,
     "Damage": 700,
     "FrameInfo": {
-      "Start": 9,
-      "Active": 4,
+      "Start": 12,
+      "Active": 3,
       "Stiffness": -999,
       "All": -999
     },
@@ -696,21 +696,21 @@
     },
     "GaugeEffect": {
       "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -3000,
+      "DriveDecreaseGuard": -2500,
       "DriveDecreasePanish": -4000,
       "SAIncrease": 500
     },
     "AttackType": 2,
-    "Notes": "空中ヒット時吹き飛びダウン",
+    "Notes": "",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "ジャンプ中K（バーチカルテイル）",
+    "Name": "ジャンプ中K（コンダ）",
     "Command": "中K",
     "CommandType": 0,
     "CancelType": 0,
-    "Damage": 500,
+    "Damage": 600,
     "FrameInfo": {
       "Start": 7,
       "Active": 6,
@@ -748,19 +748,19 @@
       "SAIncrease": 500
     },
     "AttackType": 2,
-    "Notes": "めくり性能",
+    "Notes": "空中ヒット時吹き飛びダウン",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "ジャンプ強P（ガンメタルハンマー）",
+    "Name": "ジャンプ強P（イディナローク）",
     "Command": "強P",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
     "FrameInfo": {
       "Start": 9,
-      "Active": 6,
+      "Active": 5,
       "Stiffness": -999,
       "All": -999
     },
@@ -800,13 +800,13 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "ジャンプ強K（ヘブンリーストライク）",
+    "Name": "ジャンプ強K（ジャール・プチーツァ）",
     "Command": "強K",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
     "FrameInfo": {
-      "Start": 10,
+      "Start": 11,
       "Active": 6,
       "Stiffness": -999,
       "All": -999
@@ -847,28 +847,28 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "ローハイド",
-    "Command": "→ + 中P",
+    "Name": "ギリオチーナ",
+    "Command": "→ + 中K",
     "CommandType": 0,
     "CancelType": 0,
-    "Damage": 600,
+    "Damage": 700,
     "FrameInfo": {
-      "Start": 21,
+      "Start": 22,
       "Active": 2,
-      "Stiffness": 21,
-      "All": 43
+      "Stiffness": 19,
+      "All": 42
     },
     "HitResults": {
       "Normal": {
-        "Frame": 2,
+        "Frame": 3,
         "Effect": 0
       },
       "Counter": {
-        "Frame": 4,
+        "Frame": 5,
         "Effect": 0
       },
       "PunishCounter": {
-        "Frame": 6,
+        "Frame": 7,
         "Effect": 0
       },
       "Guard": {
@@ -889,84 +889,37 @@
       "SAIncrease": 500
     },
     "AttackType": 2,
-    "Notes": "空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "サプレッサー",
-    "Command": "← + 強P",
-    "CommandType": 0,
-    "CancelType": 1,
-    "Damage": 800,
-    "FrameInfo": {
-      "Start": 16,
-      "Active": 3,
-      "Stiffness": 20,
-      "All": 38
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 7,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 3000,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -10000,
-      "SAIncrease": 1000
-    },
-    "AttackType": 0,
     "Notes": "",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "アウトローキック",
-    "Command": "← + 強K",
+    "Name": "シャーロスチ",
+    "Command": "↘ + 強P",
     "CommandType": 0,
     "CancelType": 0,
-    "Damage": 1000,
+    "Damage": 900,
     "FrameInfo": {
-      "Start": 12,
-      "Active": 4,
-      "Stiffness": 24,
-      "All": 39
+      "Start": 16,
+      "Active": 3,
+      "Stiffness": 31,
+      "All": 49
     },
     "HitResults": {
       "Normal": {
-        "Frame": 4,
-        "Effect": 0
+        "Frame": -999,
+        "Effect": 1
       },
       "Counter": {
-        "Frame": 6,
-        "Effect": 0
+        "Frame": -999,
+        "Effect": 1
       },
       "PunishCounter": {
-        "Frame": 8,
-        "Effect": 0
+        "Frame": -999,
+        "Effect": 1
       },
       "Guard": {
-        "Frame": -3,
+        "Frame": -14,
         "Effect": 0
       }
     },
@@ -978,542 +931,25 @@
     },
     "GaugeEffect": {
       "DriveIncrease": 3000,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -10000,
-      "SAIncrease": 1000
-    },
-    "AttackType": 0,
-    "Notes": "パニッシュカウンター時+17F空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "ダブルインパクト（1段目）",
-    "Command": "→ + 強P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 800,
-    "FrameInfo": {
-      "Start": 16,
-      "Active": 3,
-      "Stiffness": -999,
-      "All": -981
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 7,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
       "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -7000,
-      "SAIncrease": 500
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 1000
     },
-    "AttackType": 0,
-    "Notes": "※空振り時硬直4F増加",
+    "AttackType": 1,
+    "Notes": "カウンター/パニッシュカウンター時ダウン時間延長",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "ダブルインパクト（2段目）",
-    "Command": "→ + 強P ⇒ 強P",
+    "Name": "ヴィリーナ",
+    "Command": "→ + 強K",
     "CommandType": 0,
     "CancelType": 1,
-    "Damage": 600,
+    "Damage": 900,
     "FrameInfo": {
       "Start": 11,
-      "Active": 2,
-      "Stiffness": 34,
-      "All": 46
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -19,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0.2,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -2000,
-      "DriveDecreasePanish": -7000,
-      "SAIncrease": 500
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "トリプルインパクト（2段目）",
-    "Command": "弱P ⇒ 中P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 400,
-    "FrameInfo": {
-      "Start": 8,
-      "Active": 4,
-      "Stiffness": 20,
-      "All": 31
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -2,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 0,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -9,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 500,
-      "DriveDecreaseGuard": -1000,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 400
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "トリプルインパクト（3段目）",
-    "Command": "弱P ⇒ 中P ⇒ 強P",
-    "CommandType": 0,
-    "CancelType": 1,
-    "Damage": 800,
-    "FrameInfo": {
-      "Start": 10,
-      "Active": 3,
-      "Stiffness": 27,
-      "All": 39
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -14,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 500,
-      "DriveDecreaseGuard": -1500,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 400
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "スナップバックコンボ（2段目）",
-    "Command": "中P ⇒ 中P",
-    "CommandType": 0,
-    "CancelType": 2,
-    "Damage": 300,
-    "FrameInfo": {
-      "Start": 12,
-      "Active": 2,
-      "Stiffness": 23,
-      "All": 36
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 0,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 4,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 400,
-      "DriveDecreaseGuard": -1000,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 300
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "ノーズブレイカー",
-    "Command": "↓ + 中K ⇒ ↓ + 強P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 600,
-    "FrameInfo": {
-      "Start": 9,
-      "Active": 3,
-      "Stiffness": 25,
-      "All": 36
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 4,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 6,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -3000,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 600
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "スナップバックコンボ（3段目）",
-    "Command": "中P ⇒ 中P ⇒ 中P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 300,
-    "FrameInfo": {
-      "Start": 11,
-      "Active": 2,
-      "Stiffness": 29,
-      "All": 41
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -6,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": -4,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": -2,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -14,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -1000,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 300
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "スナップバックコンボ（4段目）",
-    "Command": "中P ⇒ 中P ⇒ 中P ⇒ 中P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 500,
-    "FrameInfo": {
-      "Start": 11,
-      "Active": 2,
-      "Stiffness": 27,
-      "All": 39
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -12,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -1500,
-      "DriveDecreasePanish": -4000,
-      "SAIncrease": 500
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "弱 サンドブラスト",
-    "Command": "↓ ↘ → + 弱P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 600,
-    "FrameInfo": {
-      "Start": 14,
-      "Active": 5,
-      "Stiffness": -999,
-      "All": 47
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -3,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": -1,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 1,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -3000,
-      "DriveDecreasePanish": -2000,
-      "SAIncrease": 600
-    },
-    "AttackType": 3,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "中 サンドブラスト",
-    "Command": "↓ ↘ → + 中P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 600,
-    "FrameInfo": {
-      "Start": 17,
-      "Active": 7,
-      "Stiffness": -999,
-      "All": 47
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 0,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 2,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 4,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -5,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -3000,
-      "DriveDecreasePanish": -2000,
-      "SAIncrease": 600
-    },
-    "AttackType": 3,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "強 サンドブラスト",
-    "Command": "↓ ↘ → + 強P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 600,
-    "FrameInfo": {
-      "Start": 20,
-      "Active": 10,
-      "Stiffness": -999,
-      "All": 47
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 7,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -2,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 1000,
-      "DriveDecreaseGuard": -3000,
-      "DriveDecreasePanish": -2000,
-      "SAIncrease": 600
-    },
-    "AttackType": 3,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD サンドブラスト",
-    "Command": "↓ ↘ → + P P",
-    "CommandType": 0,
-    "CancelType": 3,
-    "Damage": 800,
-    "FrameInfo": {
-      "Start": 16,
-      "Active": -999,
-      "Stiffness": -999,
+      "Active": 6,
+      "Stiffness": 24,
       "All": 40
     },
     "HitResults": {
@@ -1530,7 +966,430 @@
         "Effect": 1
       },
       "Guard": {
+        "Frame": -5,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2500,
+      "DriveDecreaseGuard": -5000,
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 0,
+    "Notes": "空中ヒット時吹き飛びダウン",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "グロームストレルカ（1段目）",
+    "Command": "← + 中P",
+    "CommandType": 0,
+    "CancelType": 1,
+    "Damage": 500,
+    "FrameInfo": {
+      "Start": 8,
+      "Active": 3,
+      "Stiffness": 16,
+      "All": 26
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 9,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1500,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -4000,
+      "SAIncrease": 400
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "グロームストレルカ（2段目）",
+    "Command": "← + 中P ⇒ 中P",
+    "CommandType": 0,
+    "CancelType": 1,
+    "Damage": 500,
+    "FrameInfo": {
+      "Start": 10,
+      "Active": 3,
+      "Stiffness": 20,
+      "All": 32
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -6,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0.2,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 800,
+      "DriveDecreaseGuard": -2000,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 400
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "ジラント",
+    "Command": "強K ⇒ 強P",
+    "CommandType": 0,
+    "CancelType": 1,
+    "Damage": 500,
+    "FrameInfo": {
+      "Start": 20,
+      "Active": 3,
+      "Stiffness": 20,
+      "All": 42
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -3,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -4000,
+      "SAIncrease": 500
+    },
+    "AttackType": 0,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "ジラントルカー",
+    "Command": "強K ⇒ 強P ⇒ 強P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 21,
+      "Active": 3,
+      "Stiffness": 22,
+      "All": 45
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -4,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -5000,
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 2,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "ジラントナガー",
+    "Command": "強K ⇒ 強P ⇒ 強K",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 21,
+      "Active": 3,
+      "Stiffness": 22,
+      "All": 45
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 3,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 5,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 7,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -4,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -5000,
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 1,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "弱 トリグラフ",
+    "Command": "↓ ↓ + 弱P",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 22,
+      "Active": 10,
+      "Stiffness": -999,
+      "All": 55
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
         "Frame": -2,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 800
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "中 トリグラフ",
+    "Command": "↓ ↓ + 中P",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 22,
+      "Active": 10,
+      "Stiffness": -999,
+      "All": 55
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": -2,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 800
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "強 トリグラフ",
+    "Command": "↓ ↓ + 強P",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 22,
+      "Active": 10,
+      "Stiffness": -999,
+      "All": 55
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": -2,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 800
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD 弱 トリグラフ",
+    "Command": "↓ ↓ + 弱P 中P",
+    "CommandType": 0,
+    "CancelType": 3,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 20,
+      "Active": 20,
+      "Stiffness": -999,
+      "All": 53
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": 3,
         "Effect": 0
       }
     },
@@ -1544,7 +1403,7 @@
       "DriveIncrease": 0,
       "DriveDecreaseGuard": -3000,
       "DriveDecreasePanish": -5000,
-      "SAIncrease": 600
+      "SAIncrease": 1000
     },
     "AttackType": 3,
     "Notes": "",
@@ -1552,13 +1411,765 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "フェイタルショット",
-    "Command": "P P",
+    "Name": "OD 中 トリグラフ",
+    "Command": "↓ ↓ + 弱P 強P",
     "CommandType": 0,
     "CancelType": 3,
     "Damage": 1000,
     "FrameInfo": {
-      "Start": 8,
+      "Start": 20,
+      "Active": 20,
+      "Stiffness": -999,
+      "All": 53
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": 3,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD 強 トリグラフ",
+    "Command": "↓ ↓ + 中P 強P",
+    "CommandType": 0,
+    "CancelType": 3,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 20,
+      "Active": 20,
+      "Stiffness": -999,
+      "All": 53
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": 3,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "弱 ストリボーグ",
+    "Command": "↓ ↘ → + 弱P",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 16,
+      "Active": 6,
+      "Stiffness": -999,
+      "All": 49
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": -10,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -3500,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 0,
+    "Notes": "ジャストパリィ時はドライブゲージを10000増加飛び道具相殺判定あり",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "中 ストリボーグ",
+    "Command": "↓ ↘ → + 中P",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 1200,
+    "FrameInfo": {
+      "Start": 20,
+      "Active": 7,
+      "Stiffness": -999,
+      "All": 53
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": -8,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -3500,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 0,
+    "Notes": "ジャストパリィ時はドライブゲージを10000増加飛び道具相殺判定あり",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "強 ストリボーグ",
+    "Command": "↓ ↘ → + 強P",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 28,
+      "Active": 15,
+      "Stiffness": -999,
+      "All": 61
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": 4,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": -3500,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 0,
+    "Notes": "ジャストパリィ時はドライブゲージを10000増加飛び道具相殺判定ありジャストパリィ時硬直3F増加",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD ストリボーグ",
+    "Command": "↓ ↘ → + P P",
+    "CommandType": 0,
+    "CancelType": 3,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 19,
+      "Active": 12,
+      "Stiffness": -999,
+      "All": 52
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": 2,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3500,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 0,
+    "Notes": "ジャストパリィ時はドライブゲージを10000増加飛び道具相殺判定ありジャストパリィ時硬直3F増加初段のみSA2/SA3/CAでキャンセル可能",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "弱 ヴィーハト",
+    "Command": "↓ ↙ ← + 弱P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 150,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 50
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "中 ヴィーハト",
+    "Command": "↓ ↙ ← + 中P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 150,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 50
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "強 ヴィーハト",
+    "Command": "↓ ↙ ← + 強P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 150,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 50
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD 弱 ヴィーハト",
+    "Command": "↓ ↙ ← + 弱P 中P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 110,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 40
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD 中 ヴィーハト",
+    "Command": "↓ ↙ ← + 弱P 強P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 110,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 40
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD 強 ヴィーハト",
+    "Command": "↓ ↙ ← + 中P 強P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 110,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 40
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 800
+    },
+    "AttackType": 3,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "ヴィーハト・アクノ",
+    "Command": "↓ ↙ ← + 弱P or 中P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 0,
+    "FrameInfo": {
+      "Start": -1,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 44
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": 0,
+      "DriveDecreasePanish": 0,
+      "SAIncrease": 0
+    },
+    "AttackType": 7,
+    "Notes": "6-25F\u3000完全無敵26F目から空中判定31F目から行動可",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "ヴィーハト・チェーニ",
+    "Command": "↓ ↙ ← + 強P",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 0,
+    "FrameInfo": {
+      "Start": -1,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 40
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": 0,
+      "DriveDecreasePanish": 0,
+      "SAIncrease": 0
+    },
+    "AttackType": 7,
+    "Notes": "",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "アムネジア",
+    "Command": "↓ ↓ + K",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 3,
+      "Active": 18,
+      "Stiffness": 35,
+      "All": 55
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 1000
+    },
+    "AttackType": 3,
+    "Notes": "当身成立時にドライブゲージ10000増加当身成立時に飛び道具が発生※コンボの3段目以降に補正がかかる",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD アムネジア",
+    "Command": "↓ ↓ + K K",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1200,
+    "FrameInfo": {
+      "Start": 1,
+      "Active": 20,
+      "Stiffness": 35,
+      "All": 55
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 0,
+      "DriveDecreaseGuard": -3000,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 1200
+    },
+    "AttackType": 3,
+    "Notes": "当身成立時に飛び道具が発生※コンボの3段目以降に補正がかかる",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "弱 トルバラン",
+    "Command": "↓ ↘ → + 弱K",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 22,
       "Active": -999,
       "Stiffness": -999,
       "All": 50
@@ -1577,743 +2188,226 @@
         "Effect": 1
       },
       "Guard": {
-        "Frame": -21,
+        "Frame": -6,
         "Effect": 0
       }
     },
     "Corrections": {
       "Startup": 0,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 600
+    },
+    "AttackType": 3,
+    "Notes": "発生は密着で発動した場合の数値",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "中 トルバラン",
+    "Command": "↓ ↘ → + 中K",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 26,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 50
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 6,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 8,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 10,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -8,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.2,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 600
+    },
+    "AttackType": 5,
+    "Notes": "発生は密着で発動した場合の数値",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "強 トルバラン",
+    "Command": "↓ ↘ → + 強K",
+    "CommandType": 0,
+    "CancelType": 4,
+    "Damage": 1000,
+    "FrameInfo": {
+      "Start": 26,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 50
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": 6,
+        "Effect": 0
+      },
+      "Counter": {
+        "Frame": 8,
+        "Effect": 0
+      },
+      "PunishCounter": {
+        "Frame": 10,
+        "Effect": 0
+      },
+      "Guard": {
+        "Frame": -8,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.2,
+      "Combo": 0,
+      "Instant": 0,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 1000,
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -3000,
+      "SAIncrease": 600
+    },
+    "AttackType": 4,
+    "Notes": "発生は密着で発動した場合の数値",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "OD トルバラン",
+    "Command": "↓ ↘ → + K K",
+    "CommandType": 0,
+    "CancelType": 3,
+    "Damage": 800,
+    "FrameInfo": {
+      "Start": 22,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 50
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": 25,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.2,
       "Combo": 0,
       "Instant": 0,
       "Multiplication": 0
     },
     "GaugeEffect": {
       "DriveIncrease": 0,
-      "DriveDecreaseGuard": -1000,
-      "DriveDecreasePanish": -7000,
-      "SAIncrease": 1000
-    },
-    "AttackType": 3,
-    "Notes": "発動時にドライブゲージを10000消費",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "弱 フラッシュナックル",
-    "Command": "↓ ↙ ← + 弱P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 700,
-    "FrameInfo": {
-      "Start": 13,
-      "Active": 3,
-      "Stiffness": 31,
-      "All": 46
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -18,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -3000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 500
-    },
-    "AttackType": 0,
-    "Notes": "18F以上ボタンホールドすると性能変化18-20Fの間に離すとジャスト版が発生",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "弱 フラッシュナックル（ホールド）",
-    "Command": "↓ ↙ ← + 弱P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 800,
-    "FrameInfo": {
-      "Start": 26,
-      "Active": 4,
-      "Stiffness": 25,
-      "All": 54
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2250,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -6000,
-      "SAIncrease": 600
-    },
-    "AttackType": 0,
-    "Notes": "28-29F\u3000相殺判定2段目にコンボ補正がかかる",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "弱 フラッシュナックル（ジャスト）",
-    "Command": "↓ ↙ ← + 弱P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 900,
-    "FrameInfo": {
-      "Start": 26,
-      "Active": 4,
-      "Stiffness": 25,
-      "All": 54
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2250,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -6000,
-      "SAIncrease": 700
-    },
-    "AttackType": 0,
-    "Notes": "28-29F\u3000相殺判定2段目にコンボ補正がかかる",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "中 フラッシュナックル",
-    "Command": "↓ ↙ ← + 中P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 900,
-    "FrameInfo": {
-      "Start": 19,
-      "Active": 3,
-      "Stiffness": 27,
-      "All": 48
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": 3,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": 5,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": 7,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
       "DriveDecreaseGuard": -5000,
-      "DriveDecreasePanish": -7000,
-      "SAIncrease": 700
-    },
-    "AttackType": 0,
-    "Notes": "18F以上ボタンホールドすると性能変化18-20Fの間に離すとジャスト版が発生",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "中 フラッシュナックル（ホールド）",
-    "Command": "↓ ↙ ← + 中P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 1000,
-    "FrameInfo": {
-      "Start": 29,
-      "Active": 4,
-      "Stiffness": 26,
-      "All": 58
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -8000,
+      "DriveDecreasePanish": -5000,
       "SAIncrease": 800
     },
-    "AttackType": 0,
-    "Notes": "32-33F\u3000相殺判定2段目にコンボ補正がかかる",
+    "AttackType": 3,
+    "Notes": "発生は密着で発動した場合の数値初段のみSA2/SA3/CAでキャンセル可能",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "中 フラッシュナックル（ジャスト）",
-    "Command": "↓ ↙ ← + 中P",
+    "Name": "アブニマーチ",
+    "Command": "↓ ↙ ← + K",
     "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 1100,
+    "CancelType": 0,
+    "Damage": 1800,
     "FrameInfo": {
-      "Start": 29,
-      "Active": 4,
-      "Stiffness": 26,
-      "All": 58
+      "Start": 26,
+      "Active": -999,
+      "Stiffness": -999,
+      "All": 72
     },
     "HitResults": {
       "Normal": {
         "Frame": -999,
-        "Effect": 1
+        "Effect": 0
       },
       "Counter": {
         "Frame": -999,
-        "Effect": 1
+        "Effect": 0
       },
       "PunishCounter": {
         "Frame": -999,
-        "Effect": 1
+        "Effect": 0
       },
       "Guard": {
-        "Frame": -3,
+        "Frame": -1,
         "Effect": 0
       }
     },
     "Corrections": {
       "Startup": 0,
       "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -8000,
-      "SAIncrease": 900
-    },
-    "AttackType": 0,
-    "Notes": "31-32F\u3000相殺判定2段目にコンボ補正がかかる",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "強 フラッシュナックル",
-    "Command": "↓ ↙ ← + 強P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 1000,
-    "FrameInfo": {
-      "Start": 22,
-      "Active": 3,
-      "Stiffness": 21,
-      "All": 45
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -4,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
+      "Instant": 0.1,
       "Multiplication": 0
     },
     "GaugeEffect": {
       "DriveIncrease": 2500,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -8000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "18F以上ボタンホールドすると性能変化18-20Fの間に離すとジャスト版が発生",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "強 フラッシュナックル（ホールド）",
-    "Command": "↓ ↙ ← + 強P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 1300,
-    "FrameInfo": {
-      "Start": 33,
-      "Active": 4,
-      "Stiffness": 24,
-      "All": 60
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": 4,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 3000,
-      "DriveDecreaseGuard": -7000,
-      "DriveDecreasePanish": -9000,
-      "SAIncrease": 1100
-    },
-    "AttackType": 0,
-    "Notes": "35-36F\u3000相殺判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "強 フラッシュナックル（ジャスト）",
-    "Command": "↓ ↙ ← + 強P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 1600,
-    "FrameInfo": {
-      "Start": 33,
-      "Active": 4,
-      "Stiffness": 24,
-      "All": 60
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": 4,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 3000,
-      "DriveDecreaseGuard": -7000,
-      "DriveDecreasePanish": -9000,
-      "SAIncrease": 1200
-    },
-    "AttackType": 0,
-    "Notes": "35-36F\u3000相殺判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD フラッシュナックル",
-    "Command": "↓ ↙ ← + P P",
-    "CommandType": 0,
-    "CancelType": 3,
-    "Damage": 400,
-    "FrameInfo": {
-      "Start": 15,
-      "Active": 1,
-      "Stiffness": 39,
-      "All": 54
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -22,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -3000,
-      "SAIncrease": 500
-    },
-    "AttackType": 0,
-    "Notes": "ヒット時2段目に派生初段ヒット時のみDDTへ派生可",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD フラッシュナックル（2段目）",
-    "Command": "↓ ↙ ← + P P",
-    "CommandType": 0,
-    "CancelType": 3,
-    "Damage": 400,
-    "FrameInfo": {
-      "Start": 33,
-      "Active": 4,
-      "Stiffness": 16,
-      "All": 52
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -1,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
       "DriveDecreaseGuard": 0,
-      "DriveDecreasePanish": -3000,
-      "SAIncrease": 350
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "DDT",
-    "Command": "P P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 2500,
-    "FrameInfo": {
-      "Start": 1,
-      "Active": 1,
-      "Stiffness": -1,
-      "All": 0
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -1,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": 0,
-      "DriveDecreasePanish": 0,
+      "DriveDecreasePanish": -10000,
       "SAIncrease": 3000
     },
-    "AttackType": 0,
-    "Notes": "発動時にドライブゲージを10000消費",
+    "AttackType": 7,
+    "Notes": "■クラシック操作パニッシュカウンター時のダメージ2070発生、全体は密着で発動した場合の数値■モダン操作時パニッシュカウンター時のダメージ（1656）",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "エアフラッシュナックル",
-    "Command": "↓ ↙ ← + P",
+    "Name": "OD アブニマーチ",
+    "Command": "↓ ↙ ← + K K",
     "CommandType": 0,
     "CancelType": 0,
-    "Damage": 700,
+    "Damage": 2600,
     "FrameInfo": {
-      "Start": 14,
-      "Active": 5,
-      "Stiffness": -999,
-      "All": -999
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -1,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -6000,
-      "DriveDecreasePanish": -8000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "※高空で空振り時硬直7F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "エアフラッシュナックル（ホールド）",
-    "Command": "↓ ↙ ← + P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 1000,
-    "FrameInfo": {
-      "Start": 23,
-      "Active": 6,
-      "Stiffness": -999,
-      "All": -999
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -1,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -7000,
-      "DriveDecreasePanish": -9000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD エアフラッシュナックル",
-    "Command": "↓ ↙ ← + P P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 1300,
-    "FrameInfo": {
-      "Start": 14,
-      "Active": 6,
-      "Stiffness": -999,
-      "All": -999
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -1,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": -7000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "アベンジャー",
-    "Command": "↓ ↘ → + K",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 0,
-    "FrameInfo": {
-      "Start": -1,
+      "Start": 26,
       "Active": -999,
       "Stiffness": -999,
-      "All": 45
+      "All": 72
     },
     "HitResults": {
       "Normal": {
@@ -2336,360 +2430,31 @@
     "Corrections": {
       "Startup": 0,
       "Combo": 0,
-      "Instant": 0,
+      "Instant": 0.1,
       "Multiplication": 0
     },
     "GaugeEffect": {
       "DriveIncrease": 0,
       "DriveDecreaseGuard": 0,
-      "DriveDecreasePanish": 0,
-      "SAIncrease": 0
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 3000
     },
     "AttackType": 7,
-    "Notes": "13-31F\u3000専用技に派生可",
+    "Notes": "■クラシック操作パニッシュカウンター時のダメージ2990発生、全体は密着で発動した場合の数値■モダン操作時パニッシュカウンター時のダメージ（2392）",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "OD アベンジャー",
-    "Command": "↓ ↘ → + K K",
+    "Name": "SA1 チェルノボーグ",
+    "Command": "↓ ↘ → ↓ ↘ → + P",
     "CommandType": 0,
     "CancelType": 0,
-    "Damage": 0,
+    "Damage": 2000,
     "FrameInfo": {
-      "Start": -1,
+      "Start": 8,
       "Active": -999,
       "Stiffness": -999,
-      "All": 45
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 0
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 0
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 0
-      },
-      "Guard": {
-        "Frame": -1,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": 0,
-      "DriveDecreasePanish": 0,
-      "SAIncrease": 0
-    },
-    "AttackType": 7,
-    "Notes": "3-35F\u3000アーマー判定（1回）12-31F\u3000専用技に派生可",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "ノーチェイサー",
-    "Command": "P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": 900,
-    "FrameInfo": {
-      "Start": 12,
-      "Active": 10,
-      "Stiffness": 16,
-      "All": 37
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -6,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -5000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 1000
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD ノーチェイサー",
-    "Command": "P",
-    "CommandType": 0,
-    "CancelType": 3,
-    "Damage": 1300,
-    "FrameInfo": {
-      "Start": 12,
-      "Active": 10,
-      "Stiffness": 16,
-      "All": 37
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -6,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0.5,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": -5000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 1250
-    },
-    "AttackType": 0,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "インパラー",
-    "Command": "K",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 1200,
-    "FrameInfo": {
-      "Start": 13,
-      "Active": 1,
-      "Stiffness": 22,
-      "All": 35
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -8,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2200,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 1200
-    },
-    "AttackType": 2,
-    "Notes": "空振り時硬直5F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD インパラー",
-    "Command": "K",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 1200,
-    "FrameInfo": {
-      "Start": 13,
-      "Active": 1,
-      "Stiffness": 19,
-      "All": 32
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -3,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0.5,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 1250
-    },
-    "AttackType": 2,
-    "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "弱 ライジングアッパー",
-    "Command": "→ ↓ ↘ + 弱P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": -999,
-    "FrameInfo": {
-      "Start": 5,
-      "Active": 10,
-      "Stiffness": -999,
-      "All": -999
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -27,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵8-36F\u3000空中判定※持続の3F目以降は個別ダメージ（800）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "中 ライジングアッパー",
-    "Command": "→ ↓ ↘ + 中P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": -999,
-    "FrameInfo": {
-      "Start": 6,
-      "Active": 10,
-      "Stiffness": -999,
-      "All": -999
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -29,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "1-8F\u3000空中判定の打撃・空弾属性に対して無敵9-39F\u3000空中判定※持続の3F目以降は個別ダメージ（800）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "強 ライジングアッパー",
-    "Command": "→ ↓ ↘ + 強P",
-    "CommandType": 0,
-    "CancelType": 4,
-    "Damage": -999,
-    "FrameInfo": {
-      "Start": 9,
-      "Active": 10,
-      "Stiffness": -999,
-      "All": -999
+      "All": 84
     },
     "HitResults": {
       "Normal": {
@@ -2716,87 +2481,40 @@
       "Multiplication": 0
     },
     "GaugeEffect": {
-      "DriveIncrease": 2000,
-      "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 800
-    },
-    "AttackType": 0,
-    "Notes": "1-9F\u3000空中判定の打撃・空弾属性に対して無敵11-43F\u3000空中判定※持続の2F目以降は個別ダメージ（800）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "OD ライジングアッパー",
-    "Command": "→ ↓ ↘ + P P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 1400,
-    "FrameInfo": {
-      "Start": 6,
-      "Active": 10,
-      "Stiffness": -999,
-      "All": -999
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -40,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
       "DriveIncrease": 0,
-      "DriveDecreaseGuard": -2000,
-      "DriveDecreasePanish": 0,
-      "SAIncrease": 1000
+      "DriveDecreaseGuard": -2500,
+      "DriveDecreasePanish": -5000,
+      "SAIncrease": 0
     },
     "AttackType": 0,
-    "Notes": "1-10F\u3000完全無敵8-50F\u3000空中判定ヒット時のみスラムダンクへ派生可",
+    "Notes": "1-10F\u3000打撃・投げに対して無敵最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しない",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "スラムダンク",
-    "Command": "P P",
+    "Name": "SA2 ラヴーシュカ",
+    "Command": "↓ ↙ ← ↓ ↙ ← + P",
     "CommandType": 0,
     "CancelType": 0,
-    "Damage": 600,
+    "Damage": 2000,
     "FrameInfo": {
-      "Start": 16,
-      "Active": 3,
+      "Start": 29,
+      "Active": -999,
       "Stiffness": -999,
-      "All": -999
+      "All": 13
     },
     "HitResults": {
       "Normal": {
         "Frame": -999,
-        "Effect": 1
+        "Effect": 0
       },
       "Counter": {
         "Frame": -999,
-        "Effect": 1
+        "Effect": 0
       },
       "PunishCounter": {
         "Frame": -999,
-        "Effect": 1
+        "Effect": 0
       },
       "Guard": {
         "Frame": -1,
@@ -2812,119 +2530,25 @@
     "GaugeEffect": {
       "DriveIncrease": 0,
       "DriveDecreaseGuard": -4000,
-      "DriveDecreasePanish": 0,
-      "SAIncrease": 700
-    },
-    "AttackType": 2,
-    "Notes": "発動時にドライブゲージを10000消費",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "SA1 バルカンブラスト",
-    "Command": "↓ ↘ → ↓ ↘ → + P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 2000,
-    "FrameInfo": {
-      "Start": 6,
-      "Active": -999,
-      "Stiffness": -999,
-      "All": 108
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -29,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": -2500,
-      "DriveDecreasePanish": -5000,
-      "SAIncrease": 0
-    },
-    "AttackType": 3,
-    "Notes": "1-6F\u3000打撃・投げに対して無敵最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
-  },
-  {
-    "AttackCategory": 6,
-    "Name": "SA2 イレイザー",
-    "Command": "↓ ↙ ← ↓ ↙ ← + P",
-    "CommandType": 0,
-    "CancelType": 0,
-    "Damage": 2800,
-    "FrameInfo": {
-      "Start": 5,
-      "Active": 3,
-      "Stiffness": 51,
-      "All": 58
-    },
-    "HitResults": {
-      "Normal": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Counter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "PunishCounter": {
-        "Frame": -999,
-        "Effect": 1
-      },
-      "Guard": {
-        "Frame": -29,
-        "Effect": 0
-      }
-    },
-    "Corrections": {
-      "Startup": 0,
-      "Combo": 0,
-      "Instant": 0,
-      "Multiplication": 0
-    },
-    "GaugeEffect": {
-      "DriveIncrease": 0,
-      "DriveDecreaseGuard": -5000,
       "DriveDecreasePanish": -10000,
       "SAIncrease": 0
     },
     "AttackType": 0,
-    "Notes": "1-7F\u3000完全無敵ヒット時2段目以降に派生最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
+    "Notes": "最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない※コンボの3段目以降に補正がかかる",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "SA3 ペイルライダー",
+    "Name": "SA3 ザプリェット",
     "Command": "↓ ↘ → ↓ ↘ → + K",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 4000,
     "FrameInfo": {
-      "Start": 10,
-      "Active": 4,
-      "Stiffness": 92,
-      "All": 105
+      "Start": 18,
+      "Active": 6,
+      "Stiffness": 62,
+      "All": 85
     },
     "HitResults": {
       "Normal": {
@@ -2940,7 +2564,7 @@
         "Effect": 1
       },
       "Guard": {
-        "Frame": -42,
+        "Frame": -50,
         "Effect": 0
       }
     },
@@ -2957,21 +2581,21 @@
       "SAIncrease": 0
     },
     "AttackType": 0,
-    "Notes": "相手との距離に応じて発生が変化密着発動時発生10F\u30001-13F完全無敵最遠距離発動時発生27F\u30001-13F完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
+    "Notes": "1-23F\u3000完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "CA ペイルライダー",
+    "Name": "CA ザプリェット",
     "Command": "↓ ↘ → ↓ ↘ → + K",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 4500,
     "FrameInfo": {
-      "Start": 10,
-      "Active": 4,
-      "Stiffness": 92,
-      "All": 105
+      "Start": 18,
+      "Active": 6,
+      "Stiffness": 62,
+      "All": 85
     },
     "HitResults": {
       "Normal": {
@@ -2987,7 +2611,7 @@
         "Effect": 1
       },
       "Guard": {
-        "Frame": -42,
+        "Frame": -50,
         "Effect": 0
       }
     },
@@ -3004,12 +2628,12 @@
       "SAIncrease": 0
     },
     "AttackType": 0,
-    "Notes": "相手との距離に応じて発生が変化密着発動時発生10F\u30001-13F完全無敵最遠距離発動時発生27F\u30001-13F完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
+    "Notes": "1-23F\u3000完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "スウィーパー",
+    "Name": "ラヴィーナ",
     "Command": "N or → + 弱P 弱K",
     "CommandType": 0,
     "CancelType": 0,
@@ -3039,7 +2663,7 @@
       }
     },
     "Corrections": {
-      "Startup": 0,
+      "Startup": 0.4,
       "Combo": 0,
       "Instant": 0.2,
       "Multiplication": 0
@@ -3056,7 +2680,7 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "スクラッパー",
+    "Name": "ウラガーン",
     "Command": "← + 弱P 弱K",
     "CommandType": 0,
     "CancelType": 0,
@@ -3066,6 +2690,53 @@
       "Active": 3,
       "Stiffness": 23,
       "All": 30
+    },
+    "HitResults": {
+      "Normal": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Counter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "PunishCounter": {
+        "Frame": -999,
+        "Effect": 1
+      },
+      "Guard": {
+        "Frame": -1,
+        "Effect": 0
+      }
+    },
+    "Corrections": {
+      "Startup": 0.4,
+      "Combo": 0,
+      "Instant": 0.2,
+      "Multiplication": 0
+    },
+    "GaugeEffect": {
+      "DriveIncrease": 2000,
+      "DriveDecreaseGuard": 0,
+      "DriveDecreasePanish": -10000,
+      "SAIncrease": 2000
+    },
+    "AttackType": 7,
+    "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
+    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+  },
+  {
+    "AttackCategory": 6,
+    "Name": "タルナード",
+    "Command": "弱P 弱K",
+    "CommandType": 0,
+    "CancelType": 0,
+    "Damage": 1200,
+    "FrameInfo": {
+      "Start": 5,
+      "Active": 3,
+      "Stiffness": -999,
+      "All": -999
     },
     "HitResults": {
       "Normal": {
@@ -3112,7 +2783,7 @@
       "Start": -1,
       "Active": -999,
       "Stiffness": -999,
-      "All": 19
+      "All": 22
     },
     "HitResults": {
       "Normal": {
@@ -3197,7 +2868,7 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "ドライブインパクト（マズルフラッシュ）",
+    "Name": "ドライブインパクト（エスパーダ）",
     "Command": "強P 強K",
     "CommandType": 0,
     "CancelType": 0,
@@ -3239,12 +2910,12 @@
       "SAIncrease": 0
     },
     "AttackType": 0,
-    "Notes": "1-27F\u3000 アーマー判定（2回）ヒットバックでステージ端に到達すると壁やられが発生パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
+    "Notes": "1-27F\u3000 アーマー判定（2回）パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒットきりもみダウン・SAゲージ3000増加",
     "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
   },
   {
     "AttackCategory": 6,
-    "Name": "[ガード時]ドライブリバーサル（バッターリングラム）",
+    "Name": "[ガード時]ドライブリバーサル（エクシリオ）",
     "Command": "→ + 強P 強K",
     "CommandType": 0,
     "CancelType": 0,
@@ -3291,7 +2962,7 @@
   },
   {
     "AttackCategory": 6,
-    "Name": "[起き上がり時]ドライブリバーサル（バッターリングラム）",
+    "Name": "[起き上がり時]ドライブリバーサル（エクシリオ）",
     "Command": "→ + 強P 強K",
     "CommandType": 0,
     "CancelType": 0,
