@@ -2,6 +2,7 @@
 {
     public class FrameDataSettings
     {
+        public bool UseLocalHtml { get; set; }
         public string CharacterUrl { get; set; } = "";
         public string DebugHtmlFile { get; set; } = "";
         public string OutputJsonFile { get; set; } = "";

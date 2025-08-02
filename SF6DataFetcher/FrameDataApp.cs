@@ -26,39 +26,53 @@ namespace SF6DataFetcher
 
         public async Task RunAsync()
         {
-            Console.WriteLine(FrameDataMessages.InitPlaywright);
-            using var playwright = await Playwright.CreateAsync();
-            var browser = await playwright.Chromium.LaunchAsync(new() { Headless = false });
+            string innerHtml;
 
-            var page = await CreateConfiguredPageAsync(browser);
-
-            Console.WriteLine(FrameDataMessages.LoadingPage);
-            await page.GotoAsync(_settings.CharacterUrl, new() { Timeout = _settings.GotoTimeout });
-
-            Console.WriteLine(FrameDataMessages.WaitingFrameArea);
-            await page.WaitForSelectorAsync("#framearea table", new() { Timeout = _settings.WaitForSelectorTimeout });
-            await Task.Delay(_settings.ExtraWaitMilliseconds);
-
-            string innerHtml = await ExtractHtmlFromFrameAreaAsync(page);
-            if (string.IsNullOrWhiteSpace(innerHtml))
+            if (_settings.UseLocalHtml)
             {
-                Console.WriteLine(FrameDataMessages.FrameAreaNotFound);
-                return;
-            }
+                Console.WriteLine(FrameDataMessages.UsingLocalHtml);
+                if (!File.Exists(_settings.DebugHtmlFile))
+                {
+                    Console.WriteLine($"{FrameDataMessages.LocalHtmlNotFound}{_settings.DebugHtmlFile}");
+                    return;
+                }
 
-            File.WriteAllText(_settings.DebugHtmlFile, innerHtml);
+                innerHtml = File.ReadAllText(_settings.DebugHtmlFile);
+            }
+            else
+            {
+                Console.WriteLine(FrameDataMessages.InitPlaywright);
+                using var playwright = await Playwright.CreateAsync();
+                var browser = await playwright.Chromium.LaunchAsync(new() { Headless = false });
+
+                var page = await CreateConfiguredPageAsync(browser);
+
+                Console.WriteLine(FrameDataMessages.LoadingPage);
+                await page.GotoAsync(_settings.CharacterUrl, new() { Timeout = _settings.GotoTimeout });
+
+                Console.WriteLine(FrameDataMessages.WaitingFrameArea);
+                await page.WaitForSelectorAsync("#framearea table", new() { Timeout = _settings.WaitForSelectorTimeout });
+                await Task.Delay(_settings.ExtraWaitMilliseconds);
+
+                innerHtml = await ExtractHtmlFromFrameAreaAsync(page);
+                if (string.IsNullOrWhiteSpace(innerHtml))
+                {
+                    Console.WriteLine(FrameDataMessages.FrameAreaNotFound);
+                    return;
+                }
+
+                File.WriteAllText(_settings.DebugHtmlFile, innerHtml);
+                await browser.CloseAsync();
+            }
+            Console.WriteLine(FrameDataMessages.HtmlLoaded);
 
             Console.WriteLine(FrameDataMessages.ParsingFrameData);
 
-            // 🆕 マッピングデータを読み込んで渡す
             var commandMapper = new CommandMapper(_settings.CommandMappingCsvPath);
             var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper);
 
             Console.WriteLine($"{FrameDataMessages.AttackCount}{attacks.Count}");
-
             await SaveJsonAsync(attacks, _settings.OutputJsonFile);
-
-            await browser.CloseAsync();
         }
 
         private async Task<IPage> CreateConfiguredPageAsync(IBrowser browser)
@@ -85,7 +99,7 @@ namespace SF6DataFetcher
             var options = new JsonSerializerOptions
             {
                 WriteIndented = true,
-                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping // ← コレがポイント
+                Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
             };
             var json = JsonSerializer.Serialize(data, options);
             await File.WriteAllTextAsync(path, json);

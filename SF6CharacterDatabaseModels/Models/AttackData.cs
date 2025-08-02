@@ -1,35 +1,60 @@
 using SF6CharacterDatabaseModels.Enums;
+using System.Text;
 
 namespace SF6CharacterDatabaseModels.Models
 {
     public class AttackData
     {
         public AttackCategory AttackCategory { get; set; } = AttackCategory.Other;        // 技のカテゴリ（通常技、必殺技、スーパーアーツなど）
-        public string Name { get; set; } = string.Empty;            // 技名
-        public string Command { get; set; } = string.Empty;         // コマンド
-        public CommandStrength CommandType { get; set; }            // コマンド強度
+        public string Name { get; set; } = string.Empty;                                  // 技名
+        public string Command { get; set; } = string.Empty;                               // コマンド
+        public CommandStrength CommandType { get; set; } = CommandStrength.None;          // コマンド強度
+        public CancelType CancelType { get; set; } = CancelType.None;                     // キャンセルタイプ
+        public int Damage { get; set; }                                                   // ダメージ
+        public FrameInfo FrameInfo { get; set; } = new();                                 // フレーム情報
+        public HitResults HitResults { get; set; } = new();                               // ヒット結果
+        public CorrectionValues Corrections { get; set; } = new();                        // 補正情報
+        public GaugeEffect GaugeEffect { get; set; } = new();                             // ゲージへの影響
+        public AttackAttribute AttackType { get; set; } = AttackAttribute.Other;          // 攻撃の属性
+        public string Notes { get; set; } = string.Empty;                                 // 備考
 
-        public int StartFrame { get; set; }                         // 発生フレーム
-        public int ActiveFrame { get; set; }                        // 持続フレーム
-        public int StiffnessFrame { get; set; }                     // 硬直フレーム
-        public int AllFrame { get; set; }                           // 硬直フレーム
-        public int GuardFrame { get; set; }                         // ガード時フレーム
-        public int HitFrame { get; set; }                           // ヒット時フレーム
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine($"Name: {Name}");
+            sb.AppendLine($"Command: {Command}");
+            sb.AppendLine($"Category: {AttackCategory}");
+            sb.AppendLine($"CommandType: {CommandType}");
+            sb.AppendLine($"CancelType: {CancelType}");
+            sb.AppendLine($"Damage: {Damage}");
+            sb.AppendLine($"AttackType: {AttackType}");
+            sb.AppendLine($"Notes: {Notes}");
 
-        public CancelType CancelType { get; set; }                  // キャンセルタイプ
-        public int Damage { get; set; }                             // ダメージ
+            sb.AppendLine($"[FrameInfo]");
+            sb.AppendLine($"  Start: {FrameInfo.Start}");
+            sb.AppendLine($"  Active: {FrameInfo.Active}");
+            sb.AppendLine($"  Stiffness: {FrameInfo.Stiffness}");
+            sb.AppendLine($"  All: {FrameInfo.All}");
 
-        public float StartupCorrectionValue { get; set; }           // 始動補正値
-        public float ComboCorrectionValue { get; set; }             // コンボ補正値
-        public float InstantCorrectionValue { get; set; }           // 即時補正値
-        public float MultiplicationCorrectionValue { get; set; }    // 乗算補正値
+            sb.AppendLine($"[HitResults]");
+            sb.AppendLine($"  Normal: {HitResults.Normal.Frame}F ({HitResults.Normal.Effect})");
+            sb.AppendLine($"  Counter: {HitResults.Counter.Frame}F ({HitResults.Counter.Effect})");
+            sb.AppendLine($"  Punish: {HitResults.PunishCounter.Frame}F ({HitResults.PunishCounter.Effect})");
+            sb.AppendLine($"  Guard: {HitResults.Guard}F");
 
-        public int DriveGaugeIncrease { get; set; }                 // Dゲージ増加量
-        public int DriveGaugeDecreaseGuard { get; set; }            // Dゲージ減少量（ガード）
-        public int DriveGaugeDecreasePanish { get; set; }           // Dゲージ減少量（パニッシュカウンター）
-        public int SAGaugeIncrease { get; set; }                    // SAゲージ増加量
+            sb.AppendLine($"[Corrections]");
+            sb.AppendLine($"  Startup: {Corrections.Startup * 100}%");
+            sb.AppendLine($"  Combo: {Corrections.Combo * 100}%");
+            sb.AppendLine($"  Instant: {Corrections.Instant * 100}%");
+            sb.AppendLine($"  Multiplication: {Corrections.Multiplication * 100}%");
 
-        public AttackAttribute AttackType { get; set; }             // 攻撃の属性
-        public string Notes { get; set; } = string.Empty;           // 備考
+            sb.AppendLine($"[GaugeEffect]");
+            sb.AppendLine($"  Drive+ : {GaugeEffect.DriveIncrease}");
+            sb.AppendLine($"  Drive-Guard : {GaugeEffect.DriveDecreaseGuard}");
+            sb.AppendLine($"  Drive-Punish : {GaugeEffect.DriveDecreasePanish}");
+            sb.AppendLine($"  SA+ : {GaugeEffect.SAIncrease}");
+
+            return sb.ToString();
+        }
     }
 }

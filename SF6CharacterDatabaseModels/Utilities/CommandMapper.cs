@@ -23,11 +23,6 @@ namespace SF6CharacterDatabaseModels.Utilities
                     TenKey = cols[3].Trim()
                 })
                 .ToDictionary(m => m.ImageName, m => m);
-
-            foreach (var kv in _mappingByImage)
-            {
-                Console.WriteLine($"[マッピング] {kv.Key} => {kv.Value.Symbol}");
-            }
         }
 
         public string GetSymbol(string imageName)
