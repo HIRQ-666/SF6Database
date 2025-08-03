@@ -1,8 +1,10 @@
 ﻿Name,ImageName,Symbol,TenKey
 Down-Left,key-dl.png,↙,1
 Down,key-d.png,↓,2
+Down-Charge,key-dc.png,↓タメ,2タメ
 Down-Right,key-dr.png,↘,3
 Left,key-l.png,←,4
+Left-Charge,key-lc.png,←タメ,4タメ
 Neutral,key-nutral.png,N,5
 Right,key-r.png,→,6
 Up-Left,key-ul.png,↖,7

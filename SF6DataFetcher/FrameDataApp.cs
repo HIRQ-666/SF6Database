@@ -55,8 +55,8 @@ namespace SF6DataFetcher
                 Console.WriteLine(string.Format(FrameDataMessages.StartCharacterProcessing, characterName, urlName));
 
                 string url = _settings.CharacterUrlTemplate.Replace("{urlName}", urlName);
-                string debugHtmlPath = Path.Combine(_settings.DebugHtmlDirectory, _settings.DebugHtmlFileFormat.Replace("{characterName}", characterName));
-                string outputJsonPath = Path.Combine(_settings.OutputJsonDirectory, _settings.OutputJsonFileFormat.Replace("{characterName}", characterName));
+                string debugHtmlPath = Path.Combine(_settings.DebugHtmlDirectory, _settings.DebugHtmlFileFormat.Replace("{characterName}", urlName));
+                string outputJsonPath = Path.Combine(_settings.OutputJsonDirectory, _settings.OutputJsonFileFormat.Replace("{characterName}", urlName));
 
                 string innerHtml;
 

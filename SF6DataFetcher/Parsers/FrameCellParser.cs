@@ -15,18 +15,60 @@ namespace SF6DataFetcher.Parsers
             return span?.InnerText.Trim() ?? string.Empty;
         }
 
-        public static string ParseCommandFromIcons(HtmlNode cell, CommandMapper commandMapper)
+        public static string ExtractNotesWithParentheses(string innerText)
         {
-            var icons = cell.SelectNodes(".//img");
-            if (icons == null || icons.Count == 0) return string.Empty;
+            var notes = new List<string>();
+            int depth = 0;
+            int start = -1;
 
-            return string.Join(" ", icons.Select(img =>
+            for (int i = 0; i < innerText.Length; i++)
             {
-                var src = img.GetAttributeValue("src", "").Trim();
-                var filename = Path.GetFileName(src); // ファイル名だけ取得
-                return commandMapper.GetSymbolByImageName(filename);
-            }));
+                if (innerText[i] == '（')
+                {
+                    if (depth == 0) start = i;
+                    depth++;
+                }
+                else if (innerText[i] == '）')
+                {
+                    depth--;
+                    if (depth == 0 && start != -1)
+                    {
+                        string note = innerText.Substring(start, i - start + 1);
+                        notes.Add(note.Trim());
+                        start = -1;
+                    }
+                }
+            }
+
+            var result = string.Join(",", notes);
+            return result;
         }
+
+        public static string ParseCommandFromIcons(HtmlNode cell, CommandMapper mapper)
+        {
+            string innerText = cell.InnerText?.Trim() ?? "";
+
+            var icons = cell.SelectNodes(".//img");
+            if (icons == null || icons.Count == 0)
+            {
+                Console.WriteLine("[DEBUG] No icons found.");
+                return "";
+            }
+
+            var commandSymbols = icons.Select(img =>
+            {
+                var src = img.GetAttributeValue("src", "");
+                var fileName = Path.GetFileName(src);
+                var symbol = mapper.GetSymbolByImageName(fileName);
+                return symbol;
+            });
+
+            string command = string.Join(" ", commandSymbols);
+
+            return command;
+        }
+
+
 
         public static CancelType ParseCancelType(HtmlNode cell)
         {

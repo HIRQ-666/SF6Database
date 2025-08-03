@@ -3,6 +3,7 @@
     "AttackCategory": 6,
     "Name": "立ち弱P （ジャブ）",
     "Command": "弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 300,
@@ -44,12 +45,13 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち弱K （ローキック）",
     "Command": "弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 300,
@@ -91,12 +93,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち中P （ストレート）",
     "Command": "中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 700,
@@ -138,12 +141,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち中K （ミドルキック）",
     "Command": "中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 700,
@@ -185,12 +189,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち強P （ボディ）",
     "Command": "強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 800,
@@ -232,12 +237,13 @@
     },
     "AttackType": 0,
     "Notes": "ガード時硬直2F減少",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち強K （回し蹴り）",
     "Command": "強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -279,12 +285,13 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンター時に膝崩れダウンに\u3000＋18",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ弱P （しゃがみジャブ）",
     "Command": "↓ + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 300,
@@ -326,12 +333,13 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（足払い蹴り）",
     "Command": "↓ + 弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 200,
@@ -373,12 +381,13 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ中P （しゃがみストレート）",
     "Command": "↓ + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 600,
@@ -420,12 +429,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ中K （ヒールキック）",
     "Command": "↓ + 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 500,
@@ -467,12 +477,13 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ強P（ワイルドアッパー）",
     "Command": "↓ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 800,
@@ -514,12 +525,13 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果ヒット・ガード時硬直3F減少",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ強K （スライドキック）",
     "Command": "↓ + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -561,12 +573,13 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ弱P （ジャンプ手刀）",
     "Command": "弱P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 300,
@@ -608,12 +621,13 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ弱K （ジャンプ前蹴り）",
     "Command": "弱K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 300,
@@ -655,12 +669,13 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ中P （ジャンプバックナックル）",
     "Command": "中P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -702,12 +717,13 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ中K （ナイト・ブレイカー）",
     "Command": "中K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 700,
@@ -749,12 +765,13 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ強P （ジャンプ正拳突き）",
     "Command": "強P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -796,12 +813,13 @@
     },
     "AttackType": 2,
     "Notes": "空中カウンター/パニッシュカウンター時叩きつけダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ強K （ジャンプテリーキック）",
     "Command": "強K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -843,12 +861,13 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ハンマーパンチ",
     "Command": "→ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -890,12 +909,13 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "パワードライブ",
     "Command": "中P ⇒ 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1100,
@@ -937,12 +957,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "パワーシュート",
     "Command": "中P ⇒ 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 600,
@@ -984,12 +1005,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "パワーダンク",
     "Command": "中P ⇒ 強K ⇒ 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1300,
@@ -1031,12 +1053,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "パッシングスウェー",
     "Command": "中P ⇒ 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 400,
@@ -1078,12 +1101,13 @@
     },
     "AttackType": 0,
     "Notes": "ヒット時のみ20-40F 完全無敵",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプラリアットパンチ",
     "Command": "中P ⇒ 中K ⇒ 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -1125,12 +1149,13 @@
     },
     "AttackType": 0,
     "Notes": "1-25F\u3000完全無敵14-25F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプニーアタック",
     "Command": "中P ⇒ 中K ⇒ 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -1172,12 +1197,13 @@
     },
     "AttackType": 0,
     "Notes": "1-25F\u3000完全無敵16-25F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ファイヤーキック",
     "Command": "↓ + 中K ⇒ ↓ + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 500,
@@ -1219,12 +1245,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 パワーウェイブ",
     "Command": "↓ ↘ → + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 600,
@@ -1266,12 +1293,13 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 パワーウェイブ",
     "Command": "↓ ↘ → + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 700,
@@ -1313,12 +1341,13 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ラウンドウェイブ",
     "Command": "↓ ↘ → + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 900,
@@ -1360,12 +1389,13 @@
     },
     "AttackType": 4,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD パワーウェイブ",
     "Command": "↓ ↘ → + P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 3,
     "Damage": 800,
@@ -1407,12 +1437,13 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "クイックバーン",
     "Command": "↓ ↙ ← + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 900,
@@ -1454,12 +1485,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD クイックバーン",
     "Command": "↓ ↙ ← + 弱P 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 3,
     "Damage": 1400,
@@ -1501,12 +1533,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 バーンナックル",
     "Command": "↓ ↙ ← + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 1000,
@@ -1548,12 +1581,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 バーンナックル",
     "Command": "↓ ↙ ← + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 1200,
@@ -1595,12 +1629,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD バーンナックル",
     "Command": "↓ ↙ ← + P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 3,
     "Damage": 1400,
@@ -1642,12 +1677,13 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンター時吹き飛び時間延長",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 パワーチャージ",
     "Command": "↓ ↘ → + 弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 700,
@@ -1689,12 +1725,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 パワーチャージ",
     "Command": "↓ ↘ → + 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 800,
@@ -1736,12 +1773,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 パワーチャージ",
     "Command": "↓ ↘ → + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 800,
@@ -1783,12 +1821,13 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛び変化ヒット時のみパワーチャージを除く必殺技にキャンセル可能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD パワーチャージ",
     "Command": "↓ ↘ → + K K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 3,
     "Damage": 800,
@@ -1830,12 +1869,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 クラックシュート",
     "Command": "↓ ↙ ← + 弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 700,
@@ -1877,12 +1917,13 @@
     },
     "AttackType": 0,
     "Notes": "7-23F\u3000空中判定パニッシュカウンター時ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 クラックシュート",
     "Command": "↓ ↙ ← + 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -1924,12 +1965,13 @@
     },
     "AttackType": 0,
     "Notes": "9-25F\u3000空中判定カウンター/パニッシュカウンター時ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 クラックシュート",
     "Command": "↓ ↙ ← + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1100,
@@ -1971,12 +2013,13 @@
     },
     "AttackType": 0,
     "Notes": "12-34F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD クラックシュート",
     "Command": "↓ ↙ ← + K K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -2018,12 +2061,13 @@
     },
     "AttackType": 0,
     "Notes": "8-25F\u3000空中判定パニッシュカウンター時ハードノックダウン空中ヒット時床バウンド",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 ライジングタックル",
     "Command": "→ ↓ ↘ + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 1000,
@@ -2065,12 +2109,13 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵6-35F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 ライジングタックル",
     "Command": "→ ↓ ↘ + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 1200,
@@ -2112,12 +2157,13 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵8-43F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 ライジングタックル",
     "Command": "→ ↓ ↘ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 1300,
@@ -2159,12 +2205,13 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000空中判定の打撃・空弾属性に対して無敵8-53F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD ライジングタックル",
     "Command": "→ ↓ ↘ + P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1600,
@@ -2206,12 +2253,13 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000完全無敵7-54F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA1 バスターウルフ",
     "Command": "↓ ↘ → ↓ ↘ → + K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2000,
@@ -2253,12 +2301,13 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000打撃・投げに対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ30％",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA2 パワーゲイザー",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2600,
@@ -2300,12 +2349,13 @@
     },
     "AttackType": 3,
     "Notes": "ヒット時のみ25～38Fまでツインゲイザーに派生可能1-17F 完全無敵18-25F\u3000空中判定の打撃・空弾属性に対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA2 ツインゲイザー",
     "Command": "P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1100,
@@ -2347,12 +2397,13 @@
     },
     "AttackType": 3,
     "Notes": "ヒット時のみ38～42Fまでトリプルゲイザー、トリプルゲイザー(不発)に派生可能最低保障ダメージ40％",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA2 トリプルゲイザー",
     "Command": "P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2500,
@@ -2394,12 +2445,13 @@
     },
     "AttackType": 3,
     "Notes": "1-139F\u3000完全無敵最低保障ダメージ40％",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA2 トリプルゲイザー(不発)",
     "Command": "P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -2441,12 +2493,13 @@
     },
     "AttackType": 7,
     "Notes": "SAゲージが不足時に発動",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA3 ライジングファング",
     "Command": "↓ ↘ → ↓ ↘ → + P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 4000,
@@ -2488,12 +2541,13 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "CA ライジングファング",
     "Command": "↓ ↘ → ↓ ↘ → + P",
+    "CommandNote": "（体力25%以下で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 4500,
@@ -2535,12 +2589,13 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "グラスピングアッパー",
     "Command": "N or → + 弱P 弱K",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -2582,12 +2637,13 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "バスタースルー",
     "Command": "← + 弱P 弱K",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -2629,12 +2685,13 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -2676,12 +2733,13 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -2723,12 +2781,13 @@
     },
     "AttackType": 7,
     "Notes": "1-15F 投げ無敵",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ドライブインパクト （バックスピンキック）",
     "Command": "強P 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -2770,12 +2829,13 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）ヒットバックでステージ端に到達すると壁やられが発生パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（バックナックル）",
     "Command": "→ + 強P 強K",
+    "CommandNote": "（ガード中 or ドライブパリィ成立中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -2817,12 +2877,13 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（バックナックル）",
     "Command": "→ + 強P 強K",
+    "CommandNote": "（起き上がり時に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -2864,12 +2925,13 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 0,
@@ -2911,12 +2973,13 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -2958,12 +3021,13 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -3005,12 +3069,13 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
+    "CommandNote": "（ドライブパリィ中に）",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 0,
@@ -3052,12 +3117,13 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ →",
+    "CommandNote": "（必殺技キャンセル可能な攻撃ヒット中に）",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 0,
@@ -3099,6 +3165,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   }
 ]
