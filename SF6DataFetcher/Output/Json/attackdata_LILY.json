@@ -3,6 +3,7 @@
     "AttackCategory": 6,
     "Name": "立ち弱P（コンドルビーク）",
     "Command": "弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 350,
@@ -44,12 +45,13 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち弱K（ストマックプレスキック）",
     "Command": "弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 300,
@@ -91,12 +93,13 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち中P（タタンカホーン）",
     "Command": "中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -138,12 +141,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち中K（ロンリーキック）",
     "Command": "中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 600,
@@ -185,12 +189,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち強P（メキシカンクロスホーン）",
     "Command": "強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 900,
@@ -232,12 +237,13 @@
     },
     "AttackType": 0,
     "Notes": "地上パニッシュカウンター時膝崩れ空中パニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "立ち強K（ヘビートラースキック）",
     "Command": "強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -279,12 +285,13 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ弱P（リリーショット）",
     "Command": "↓ + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 300,
@@ -326,12 +333,13 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（ロープレスキック）",
     "Command": "↓ + 弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 200,
@@ -373,12 +381,13 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ中P（ホーリーアース）",
     "Command": "↓ + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 2,
     "Damage": 700,
@@ -420,12 +429,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ中K（ヒールスライドキック）",
     "Command": "↓ + 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 500,
@@ -467,12 +477,13 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ強P（ハンマーアクス）",
     "Command": "↓ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 1000,
@@ -514,12 +525,13 @@
     },
     "AttackType": 0,
     "Notes": "空中カウンター/空中パニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "しゃがみ強K（スコールキック）",
     "Command": "↓ + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -561,12 +573,13 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウン※初段がガード時のみ2段目が上段判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ弱P（アローシュート）",
     "Command": "弱P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 300,
@@ -608,12 +621,13 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ弱K（ビガーニーキック）",
     "Command": "弱K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 300,
@@ -655,12 +669,13 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ中P（アングリーボウ）",
     "Command": "中P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 700,
@@ -702,12 +717,13 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ中K（デザートトゥーキック）",
     "Command": "中K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -749,12 +765,13 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ強P（アズテックストライク）",
     "Command": "強P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -796,12 +813,13 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャンプ強K（アングリードロップキック）",
     "Command": "強K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -843,12 +861,13 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "スラストリッジ",
     "Command": "↘ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -890,12 +909,13 @@
     },
     "AttackType": 2,
     "Notes": "5-19F足元無敵強制しゃがみ効果空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ホーンブレイク",
     "Command": "← + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 1000,
@@ -937,12 +957,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "グレートスピン",
     "Command": "↓ + 強P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -984,12 +1005,13 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ダブルアロー",
     "Command": "中P ⇒ 中P",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 700,
@@ -1031,12 +1053,13 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン※SA2 スカイサンダーバードでのみキャンセル可能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "デザートストーム（1段目）",
     "Command": "→ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 1,
     "Damage": 900,
@@ -1078,12 +1101,13 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "デザートストーム（2段目）",
     "Command": "→ + 強P ⇒ 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -1125,12 +1149,13 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "デザートストーム（3段目）",
     "Command": "→ + 強P ⇒ 強P ⇒ 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -1172,12 +1197,13 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 コンドルウィンド",
     "Command": "↓ ↙ ← + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -1219,12 +1245,13 @@
     },
     "AttackType": 7,
     "Notes": "最速でボタンを離した場合46F目で風纏いを1つストックボタンホールド時71F目で2つ目、91F目で3つ目をストック次回発動するコンドルスパイア、トマホークバスター、コンドルダイブ、サンダーバード、スカイサンダーバードの性質変化",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 コンドルウィンド",
     "Command": "↓ ↙ ← + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 900,
@@ -1266,12 +1293,13 @@
     },
     "AttackType": 0,
     "Notes": "発動から45F目までにボタンを離した場合、攻撃持続1F目で風纏いをストックボタンホールド時46F目で1つ目、71F目で2つ目、91F目で3つ目をストック次回発動するコンドルスパイア、トマホークバスター、コンドルダイブ、サンダーバード、スカイサンダーバードの性質変化空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 コンドルウィンド",
     "Command": "↓ ↙ ← + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 4,
     "Damage": 1100,
@@ -1313,12 +1341,13 @@
     },
     "AttackType": 0,
     "Notes": "発動から45F目までにボタンを離した場合、攻撃持続1F目で風纏いをストックボタンホールド時46F目で1つ目、71F目で2つ目、91F目で3つ目をストック次回発動するコンドルスパイア、トマホークバスター、コンドルダイブ、サンダーバード、スカイサンダーバードの性質変化",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD コンドルウィンド",
     "Command": "↓ ↙ ← + P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 3,
     "Damage": 1200,
@@ -1360,12 +1389,13 @@
     },
     "AttackType": 0,
     "Notes": "発動から25F目までにボタンを離した場合、攻撃持続1F目で風纏いをストックボタンホールド時は38F目でストック、全体40F次回発動するコンドルスパイア、トマホークバスター、コンドルダイブ、サンダーバード、スカイサンダーバードの性質変化",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 コンドルスパイア",
     "Command": "↓ ↘ → + 弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -1407,12 +1437,13 @@
     },
     "AttackType": 0,
     "Notes": "8-30F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 コンドルスパイア",
     "Command": "↓ ↘ → + 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -1454,12 +1485,13 @@
     },
     "AttackType": 0,
     "Notes": "9-35F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 コンドルスパイア",
     "Command": "↓ ↘ → + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -1501,12 +1533,13 @@
     },
     "AttackType": 0,
     "Notes": "11-39F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD コンドルスパイア",
     "Command": "↓ ↘ → + K K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 1000,
@@ -1548,12 +1581,13 @@
     },
     "AttackType": 0,
     "Notes": "7-29F\u3000空中判定※SA2 スカイサンダーバードでのみキャンセル可能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]弱 コンドルスパイア",
     "Command": "↓ ↘ → + 弱K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -1595,12 +1629,13 @@
     },
     "AttackType": 0,
     "Notes": "9-39F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]中 コンドルスパイア",
     "Command": "↓ ↘ → + 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1100,
@@ -1642,12 +1677,13 @@
     },
     "AttackType": 0,
     "Notes": "13-43F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]強 コンドルスパイア",
     "Command": "↓ ↘ → + 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -1689,12 +1725,13 @@
     },
     "AttackType": 0,
     "Notes": "17-47F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]OD コンドルスパイア",
     "Command": "↓ ↘ → + K K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 1200,
@@ -1736,12 +1773,13 @@
     },
     "AttackType": 0,
     "Notes": "9-34F\u3000空中判定9-32F\u3000飛び道具に対して無敵※SA2 スカイサンダーバードでのみキャンセル可能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 トマホークバスター",
     "Command": "→ ↓ ↘ + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 900,
@@ -1783,12 +1821,13 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵7-37F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 トマホークバスター",
     "Command": "→ ↓ ↘ + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -1830,12 +1869,13 @@
     },
     "AttackType": 0,
     "Notes": "1-12F\u3000空中判定の打撃・空弾属性に対して無敵9-44F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 トマホークバスター",
     "Command": "→ ↓ ↘ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -1877,12 +1917,13 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵11-49F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD トマホークバスター",
     "Command": "→ ↓ ↘ + P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 1400,
@@ -1924,12 +1965,13 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵1-10F\u3000投げに対して無敵7-45F\u3000空中判定※OD コンドルダイブへのみ派生可能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]弱 トマホークバスター",
     "Command": "→ ↓ ↘ + 弱P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -1971,12 +2013,13 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵7-37F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]中 トマホークバスター",
     "Command": "→ ↓ ↘ + 中P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -2018,12 +2061,13 @@
     },
     "AttackType": 0,
     "Notes": "1-12F\u3000空中判定の打撃・空弾属性に対して無敵9-44F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]強 トマホークバスター",
     "Command": "→ ↓ ↘ + 強P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1400,
@@ -2065,12 +2109,13 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵11-49F\u3000空中判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]OD トマホークバスター",
     "Command": "→ ↓ ↘ + P P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 1600,
@@ -2112,12 +2157,13 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵1-10F\u3000投げに対して無敵7-45F\u3000空中判定※OD コンドルダイブへのみ派生可能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "コンドルダイブ",
     "Command": "P P",
+    "CommandNote": "（垂直 or 前ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -2159,12 +2205,13 @@
     },
     "AttackType": 0,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD コンドルダイブ",
     "Command": "P P P",
+    "CommandNote": "（垂直 or 前ジャンプ中に）,（ODトマホークバスター中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1400,
@@ -2206,12 +2253,13 @@
     },
     "AttackType": 0,
     "Notes": "めくり性能※OD トマホークバスターからの派生版はコンボ補正35%",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]コンドルダイブ",
     "Command": "P P",
+    "CommandNote": "（垂直 or 前ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1000,
@@ -2253,12 +2301,13 @@
     },
     "AttackType": 0,
     "Notes": "めくり性能初段ヒット時、次のフレームで2段目が発生",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]OD コンドルダイブ",
     "Command": "P P P",
+    "CommandNote": "（垂直 or 前ジャンプ中に）,（ODトマホークバスター中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1600,
@@ -2300,12 +2349,13 @@
     },
     "AttackType": 0,
     "Notes": "めくり性能初段ヒット時、次のフレームで2段目が発生※OD トマホークバスターからの派生版はコンボ補正35%",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "弱 メキシカンタイフーン",
     "Command": "key-circle.png + 弱P",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2000,
@@ -2347,12 +2397,13 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時ダメージ（2300）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "中 メキシカンタイフーン",
     "Command": "key-circle.png + 中P",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2400,
@@ -2394,12 +2445,13 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時ダメージ（2760）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "強 メキシカンタイフーン",
     "Command": "key-circle.png + 強P",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2800,
@@ -2441,12 +2493,13 @@
     },
     "AttackType": 7,
     "Notes": "■クラシック操作パニッシュカウンター時ダメージ（3220）■モダン操作時パニッシュカウンター時個別ダメージ（3220）※簡易入力時（2576）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "OD メキシカンタイフーン",
     "Command": "key-circle.png + P P",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2900,
@@ -2488,12 +2541,13 @@
     },
     "AttackType": 7,
     "Notes": "■クラシック操作パニッシュカウンター時ダメージ（3350）■モダン操作時パニッシュカウンター時個別ダメージ（3350）※簡易入力時（2680）",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA1 ブリージングホーク",
     "Command": "↓ ↘ → ↓ ↘ → + P",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2200,
@@ -2535,12 +2589,13 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000打撃・投げに対して無敵2段目ヒット時に派生最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA2 サンダーバード",
     "Command": "↓ ↘ → ↓ ↘ → + K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2600,
@@ -2582,12 +2637,13 @@
     },
     "AttackType": 0,
     "Notes": "1-12F\u3000完全無敵13-41F\u3000飛び道具無敵13-80F\u3000空中判定最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]SA2 サンダーバード",
     "Command": "↓ ↘ → ↓ ↘ → + K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2900,
@@ -2629,12 +2685,13 @@
     },
     "AttackType": 0,
     "Notes": "1-12F\u3000完全無敵13-41F\u3000飛び道具無敵13-80F\u3000空中判定最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA2 スカイサンダーバード",
     "Command": "↓ ↘ → ↓ ↘ → + K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2600,
@@ -2676,12 +2733,13 @@
     },
     "AttackType": 0,
     "Notes": "1-12F\u3000完全無敵13-41F\u3000飛び道具無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[風纏い]SA2 スカイサンダーバード",
     "Command": "↓ ↘ → ↓ ↘ → + K",
+    "CommandNote": "（ジャンプ中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 2900,
@@ -2723,12 +2781,13 @@
     },
     "AttackType": 0,
     "Notes": "1-12F\u3000完全無敵13-41F\u3000飛び道具無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "SA3 レイジングタイフーン",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 4500,
@@ -2770,12 +2829,13 @@
     },
     "AttackType": 7,
     "Notes": "1-8F\u3000完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技からキャンセル時のみ20％",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "CA レイジングタイフーン",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
+    "CommandNote": "（近距離で）,（体力25%以下で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 5000,
@@ -2817,12 +2877,13 @@
     },
     "AttackType": 7,
     "Notes": "1-8F\u3000完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技からキャンセル時のみ20％",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "キャニオンスロー",
     "Command": "N or → + 弱P 弱K",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -2864,12 +2925,13 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "クリフフォール",
     "Command": "← + 弱P 弱K",
+    "CommandNote": "（近距離で）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 1200,
@@ -2911,12 +2973,13 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -2958,12 +3021,13 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -3005,12 +3069,13 @@
     },
     "AttackType": 7,
     "Notes": "1-15F 投げ無敵",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ドライブインパクト（アースレイジ）",
     "Command": "強P 強K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 800,
@@ -3052,12 +3117,13 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛びダウン・SAゲージ3000増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（クロスハンマー）",
     "Command": "→ + 強P 強K",
+    "CommandNote": "（ガード中 or ドライブパリィ成立中に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -3099,12 +3165,13 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（クロスハンマー）",
     "Command": "→ + 強P 強K",
+    "CommandNote": "（起き上がり時に）",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 500,
@@ -3146,12 +3213,13 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 0,
@@ -3193,12 +3261,13 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -3240,12 +3309,13 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
+    "CommandNote": "",
     "CommandType": 0,
     "CancelType": 0,
     "Damage": 0,
@@ -3287,12 +3357,13 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
+    "CommandNote": "（ドライブパリィ中に）",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 0,
@@ -3334,12 +3405,13 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   },
   {
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ → or N or → + 中P 中K",
+    "CommandNote": "（必殺技キャンセル可能な攻撃ヒット中に）",
     "CommandType": 0,
     "CancelType": 5,
     "Damage": 0,
@@ -3381,6 +3453,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-02T18:23:34.8630473+09:00"
+    "LastUpdated": "2025-08-03T21:49:02.1130224+09:00"
   }
 ]

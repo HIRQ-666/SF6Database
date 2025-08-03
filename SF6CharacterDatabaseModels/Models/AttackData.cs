@@ -8,6 +8,7 @@ namespace SF6CharacterDatabaseModels.Models
         public AttackCategory AttackCategory { get; set; } = AttackCategory.Other;        // 技のカテゴリ（通常技、必殺技、スーパーアーツなど）
         public string Name { get; set; } = string.Empty;                                  // 技名
         public string Command { get; set; } = string.Empty;                               // コマンド
+        public string CommandNote { get; set; } = string.Empty;                           // コマンドの備考
         public CommandStrength CommandType { get; set; } = CommandStrength.None;          // コマンド強度
         public CancelType CancelType { get; set; } = CancelType.None;                     // キャンセルタイプ
         public int Damage { get; set; }                                                   // ダメージ

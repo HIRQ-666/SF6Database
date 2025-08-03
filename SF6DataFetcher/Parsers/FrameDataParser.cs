@@ -23,12 +23,19 @@ namespace SF6DataFetcher.Parsers
                 var attack = new AttackData
                 {
                     Name = FrameCellParser.ParseAttackName(cells[0]),
-                    Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),                   
+                    Command = FrameCellParser.ParseCommandFromIcons(cells[0], commandMapper),
                     CancelType = FrameCellParser.ParseCancelType(cells[6]),
                     Damage = FrameCellParser.ParseFrameValue(cells[7].InnerText),
                     AttackType = FrameCellParser.ParseAttackAttribute(cells[13]),
                     Notes = cells[14].InnerText.Trim()
                 };
+                Console.WriteLine($"[DEBUG] AttackName: {attack.Name}");
+                string innerText = cells[0].InnerText;
+                if (!string.IsNullOrWhiteSpace(attack.Name) && innerText.Contains(attack.Name))
+                {
+                    innerText = innerText.Replace(attack.Name, "").Trim();
+                }
+                attack.CommandNote = FrameCellParser.ExtractNotesWithParentheses(innerText);
 
                 int startFrame = FrameCellParser.ParseFrameValue(cells[1].InnerText);
                 int activeFrame = FrameCellParser.ParseActiveFrame(cells[2].InnerText, startFrame);
