@@ -1,5 +1,6 @@
 [
   {
+    "AttackId": "9d68d033-35ae-4f67-be23-97efdefd8d57",
     "AttackCategory": 6,
     "Name": "立ち弱P（扇打）",
     "Command": "弱P",
@@ -45,9 +46,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8f5d2eda-34cc-4a8c-8171-dbb3b694a9ba",
     "AttackCategory": 6,
     "Name": "立ち弱K（飛燕脚）",
     "Command": "弱K",
@@ -93,9 +95,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ca346baf-4f1b-4964-8da8-dc6b9844e854",
     "AttackCategory": 6,
     "Name": "立ち中P（扇子突き）",
     "Command": "中P",
@@ -141,9 +144,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "dc3b4f3b-8449-474e-bb2c-6000757ad749",
     "AttackCategory": 6,
     "Name": "立ち中K（舞蹴撃）",
     "Command": "中K",
@@ -189,9 +193,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "925ebb23-880b-4f1f-b045-fbd4978122a0",
     "AttackCategory": 6,
     "Name": "立ち強P（大扇打）",
     "Command": "強P",
@@ -237,9 +242,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "88a8d1bd-7e0f-441b-86e8-34e73580b1c1",
     "AttackCategory": 6,
     "Name": "立ち強K（背面蹴り）",
     "Command": "強K",
@@ -285,9 +291,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直3F増加パニッシュカウンター時に膝崩れダウンに\u3000＋22",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ab7b76d2-c020-4c64-9288-7a897d86b430",
     "AttackCategory": 6,
     "Name": "しゃがみ弱P（龍尾髪）",
     "Command": "↓ + 弱P",
@@ -333,9 +340,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "529a3e7e-b065-4940-9857-54b9b7f891be",
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（摺り蹴り）",
     "Command": "↓ + 弱K",
@@ -381,9 +389,10 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "de60d6fb-20e8-449d-bbe9-775c5a40a4e8",
     "AttackCategory": 6,
     "Name": "しゃがみ中P（背面ひじ打ち）",
     "Command": "↓ + 中P",
@@ -429,9 +438,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直2F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bbdd5d5f-ae84-439d-9467-27df00cf1436",
     "AttackCategory": 6,
     "Name": "しゃがみ中K（捌き蹴り）",
     "Command": "↓ + 中K",
@@ -477,9 +487,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d5e84688-be68-41f8-b720-44d9cc39f469",
     "AttackCategory": 6,
     "Name": "しゃがみ強P（回転扇打）",
     "Command": "↓ + 強P",
@@ -525,9 +536,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e0741932-0838-438c-b713-abd12c6b64d1",
     "AttackCategory": 6,
     "Name": "しゃがみ強K（反り蹴り）",
     "Command": "↓ + 強K",
@@ -573,9 +585,10 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウン空振り時硬直3F増加ガード時硬直1F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7a805093-1832-4f85-9099-9d81414acb8a",
     "AttackCategory": 6,
     "Name": "ジャンプ弱P（翔扇打）",
     "Command": "弱P",
@@ -621,9 +634,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f5a764fa-2ae3-4ff1-9633-a3243b5f3ed1",
     "AttackCategory": 6,
     "Name": "ジャンプ弱K（翔脚）",
     "Command": "弱K",
@@ -669,9 +683,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3d4417f6-4e5f-479e-a83b-37c8358ff6b5",
     "AttackCategory": 6,
     "Name": "ジャンプ中P（天仰扇）",
     "Command": "中P",
@@ -717,9 +732,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "468deb8f-c949-43ce-a25d-7af59137def7",
     "AttackCategory": 6,
     "Name": "ジャンプ中K（前蹴り）",
     "Command": "中K",
@@ -765,9 +781,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d07f1ae3-fec2-40c6-893d-7ab2b4b02c24",
     "AttackCategory": 6,
     "Name": "ジャンプ強P（刃扇天翔刺し）",
     "Command": "強P",
@@ -813,9 +830,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "31d9926c-8a4d-4b12-9b48-d0cd54ddaab4",
     "AttackCategory": 6,
     "Name": "ジャンプ強K（隼蹴撃）",
     "Command": "強K",
@@ -861,9 +879,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9d7d1432-a84b-4e32-b6f3-5eb20b47e920",
     "AttackCategory": 6,
     "Name": "扇骨打ち",
     "Command": "→ + 中P",
@@ -909,9 +928,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "19ac3577-dc9b-4d31-895f-a580d50dca16",
     "AttackCategory": 6,
     "Name": "飛燕連脚（2段目）",
     "Command": "弱K ⇒ 弱K",
@@ -957,9 +977,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b02f883b-fc64-41b8-9a20-e8fc77f2b550",
     "AttackCategory": 6,
     "Name": "飛燕連脚（3段目）",
     "Command": "弱K ⇒ 弱K ⇒ 弱K",
@@ -1005,9 +1026,10 @@
     },
     "AttackType": 0,
     "Notes": "18F～33Fまで、ムササビの舞(OD版を含む)、空中超必殺忍蜂に派生可能10-35F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5a7b3b5b-cfe9-4774-b26c-3468db5e4c4c",
     "AttackCategory": 6,
     "Name": "星孔雀（1段目）",
     "Command": "← + 強K",
@@ -1053,9 +1075,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f7fd621a-ffa5-4ce6-b231-189c07f5987a",
     "AttackCategory": 6,
     "Name": "星孔雀（2段目）",
     "Command": "← + 強K ⇒ 強K",
@@ -1101,9 +1124,10 @@
     },
     "AttackType": 0,
     "Notes": "ヒット時のみ10-58F 完全無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d5d72740-8f84-4830-adb3-ae0457f4d9a4",
     "AttackCategory": 6,
     "Name": "弱 花蝶扇",
     "Command": "↓ ↘ → + 弱P",
@@ -1149,9 +1173,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c12e261c-6fde-4bb0-ac1f-a8be56879108",
     "AttackCategory": 6,
     "Name": "弱 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + 弱P",
@@ -1197,9 +1222,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f7cf17f4-b732-456b-8cb1-ca9bf6436a07",
     "AttackCategory": 6,
     "Name": "[強化版]弱 花蝶扇",
     "Command": "↓ ↘ → + 弱P",
@@ -1245,9 +1271,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b4a903b1-d186-484e-bf6e-75d18da490c1",
     "AttackCategory": 6,
     "Name": "[強化版]弱 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + 弱P",
@@ -1293,9 +1320,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f12620be-88dc-4a79-880a-7a96b6af121c",
     "AttackCategory": 6,
     "Name": "中 花蝶扇",
     "Command": "↓ ↘ → + 中P",
@@ -1341,9 +1369,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "eb5610b4-b977-4008-873b-3023fa3c3a1e",
     "AttackCategory": 6,
     "Name": "中 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + 中P",
@@ -1389,9 +1418,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9a84d639-c428-4658-83aa-23e7e2ee3b48",
     "AttackCategory": 6,
     "Name": "[強化版]中 花蝶扇",
     "Command": "↓ ↘ → + 中P",
@@ -1437,9 +1467,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d3c75399-01ac-451b-9527-b7161acee49c",
     "AttackCategory": 6,
     "Name": "[強化版]中 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + 中P",
@@ -1485,9 +1516,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "03c790a9-a3a3-4a15-96f1-7cddb026f93f",
     "AttackCategory": 6,
     "Name": "強 花蝶扇",
     "Command": "↓ ↘ → + 強P",
@@ -1533,9 +1565,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "471db510-709a-4b53-8557-cc7850f26820",
     "AttackCategory": 6,
     "Name": "強 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + 強P",
@@ -1581,9 +1614,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "38c62b8f-f85b-489c-b0c5-8f98567ad9d6",
     "AttackCategory": 6,
     "Name": "[強化版]強 花蝶扇",
     "Command": "↓ ↘ → + 強P",
@@ -1629,9 +1663,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9ed598a5-2b17-4bf3-8649-9ed485f22d04",
     "AttackCategory": 6,
     "Name": "[強化版]強 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + 強P",
@@ -1677,9 +1712,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ff18a5dc-c207-42b6-b6e8-6e690251e38c",
     "AttackCategory": 6,
     "Name": "OD 花蝶扇",
     "Command": "↓ ↘ → + P P",
@@ -1725,9 +1761,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c0cea380-193c-4f07-bb6c-ddb418d35579",
     "AttackCategory": 6,
     "Name": "OD 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + P P",
@@ -1773,9 +1810,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b9bbf55d-557a-45ca-86c3-2750f66322f2",
     "AttackCategory": 6,
     "Name": "[強化版]OD 花蝶扇",
     "Command": "↓ ↘ → + P P",
@@ -1821,9 +1859,10 @@
     },
     "AttackType": 3,
     "Notes": "19F以上ホールドすると性能変化ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "06512990-6312-420c-b51d-2b3381c0d855",
     "AttackCategory": 6,
     "Name": "[強化版]OD 花蝶扇（ホールド）",
     "Command": "↓ ↘ → + P P",
@@ -1869,9 +1908,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "55978e9b-677b-4376-be52-e5b2b057b4f5",
     "AttackCategory": 6,
     "Name": "乱れ花蝶扇",
     "Command": "→ + P",
@@ -1917,9 +1957,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "69419b9c-ccd4-412e-a295-da3bd31b39d6",
     "AttackCategory": 6,
     "Name": "[強化版]乱れ花蝶扇",
     "Command": "→ + P",
@@ -1965,9 +2006,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット・ガード時に軌道変化軌道変化後、属性が「上・空弾」に変化空弾属性に対して無敵の技に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "10fe6652-079e-46f0-80af-1077627cf268",
     "AttackCategory": 6,
     "Name": "弱 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + 弱K",
@@ -2013,9 +2055,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵7-37F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e0f8d491-186d-4516-aec2-44b0321f0c5b",
     "AttackCategory": 6,
     "Name": "[強化版]弱 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + 弱K",
@@ -2061,9 +2104,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵7-37F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bd5d5fdc-cc34-45b7-99bb-fab970039e92",
     "AttackCategory": 6,
     "Name": "中 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + 中K",
@@ -2109,9 +2153,10 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵8-37F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9167b982-b2db-430f-ab35-3ffa17462af1",
     "AttackCategory": 6,
     "Name": "[強化版]中 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + 中K",
@@ -2157,9 +2202,10 @@
     },
     "AttackType": 0,
     "Notes": "1-10F\u3000空中判定の打撃・空弾属性に対して無敵8-37F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bdfebf6b-8afe-44ec-9760-20d1cb21089c",
     "AttackCategory": 6,
     "Name": "強 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + 強K",
@@ -2205,9 +2251,10 @@
     },
     "AttackType": 0,
     "Notes": "1-11F\u3000空中判定の打撃・空弾属性に対して無敵9-38F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1993554b-9fdb-4360-8423-aacf1641167e",
     "AttackCategory": 6,
     "Name": "[強化版]強 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + 強K",
@@ -2253,9 +2300,10 @@
     },
     "AttackType": 0,
     "Notes": "1-11F\u3000空中判定の打撃・空弾属性に対して無敵9-38F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0d6a20be-9b8f-481a-9213-e6bc100a5d3d",
     "AttackCategory": 6,
     "Name": "OD 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + K K",
@@ -2301,9 +2349,10 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000完全無敵8-41F\u3000空中判定ガード時硬直7F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3c837dcb-4923-4cc3-847c-96c43cda26ff",
     "AttackCategory": 6,
     "Name": "[強化版]OD 飛翔龍炎陣",
     "Command": "→ ↓ ↘ + K K",
@@ -2349,9 +2398,10 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000完全無敵8-41F\u3000空中判定ガード時硬直7F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8a6667e6-68b2-4bd3-997b-df894f3da963",
     "AttackCategory": 6,
     "Name": "弱 龍炎舞",
     "Command": "↓ ↙ ← + 弱P",
@@ -2397,9 +2447,10 @@
     },
     "AttackType": 0,
     "Notes": "アーマーヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "584d98cc-68f1-42bf-a90b-5d2ff85e6606",
     "AttackCategory": 6,
     "Name": "[強化版]弱 龍炎舞",
     "Command": "↓ ↙ ← + 弱P",
@@ -2445,9 +2496,10 @@
     },
     "AttackType": 0,
     "Notes": "アーマーヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6b271dd6-7756-4f4e-8c88-326ef88d61b8",
     "AttackCategory": 6,
     "Name": "中 龍炎舞",
     "Command": "↓ ↙ ← + 中P",
@@ -2493,9 +2545,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "006e825e-a416-4ccf-b2eb-6de7d45b4334",
     "AttackCategory": 6,
     "Name": "[強化版]中 龍炎舞",
     "Command": "↓ ↙ ← + 中P",
@@ -2541,9 +2594,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d489fdea-4b4b-4124-afc4-51a1919f7441",
     "AttackCategory": 6,
     "Name": "強 龍炎舞",
     "Command": "↓ ↙ ← + 強P",
@@ -2589,9 +2643,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d8ed0433-f7e7-48fd-91da-017ebb665177",
     "AttackCategory": 6,
     "Name": "[強化版]強 龍炎舞",
     "Command": "↓ ↙ ← + 強P",
@@ -2637,9 +2692,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "511d224a-41a8-4263-ba97-d611d9b03e6f",
     "AttackCategory": 6,
     "Name": "OD 龍炎舞",
     "Command": "↓ ↙ ← + P P",
@@ -2685,9 +2741,10 @@
     },
     "AttackType": 0,
     "Notes": "ガード時硬直8F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0083fadb-0ff0-4a2f-8151-992165d88545",
     "AttackCategory": 6,
     "Name": "[強化版]OD 龍炎舞",
     "Command": "↓ ↙ ← + P P",
@@ -2733,9 +2790,10 @@
     },
     "AttackType": 0,
     "Notes": "ガード時硬直8F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "537dad1a-56c4-4f86-b017-9051114a9c3d",
     "AttackCategory": 6,
     "Name": "弱 必殺忍蜂",
     "Command": "↓ ↘ → + 弱K",
@@ -2781,9 +2839,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ef1a208e-9c1f-488e-84b0-1be527d41c2e",
     "AttackCategory": 6,
     "Name": "[強化版]弱 必殺忍蜂",
     "Command": "↓ ↘ → + 弱K",
@@ -2829,9 +2888,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e81c5710-63fc-4398-9523-6a2c5999f23f",
     "AttackCategory": 6,
     "Name": "中 必殺忍蜂",
     "Command": "↓ ↘ → + 中K",
@@ -2877,9 +2937,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9221a736-173b-46e9-8d18-f38d4b52da42",
     "AttackCategory": 6,
     "Name": "[強化版]中 必殺忍蜂",
     "Command": "↓ ↘ → + 中K",
@@ -2925,9 +2986,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4b63b2d2-2abc-4854-8f62-b2329906224a",
     "AttackCategory": 6,
     "Name": "強 必殺忍蜂",
     "Command": "↓ ↘ → + 強K",
@@ -2973,9 +3035,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1bbc01e8-92ab-4388-ad60-49aa6fa58fef",
     "AttackCategory": 6,
     "Name": "[強化版]強 必殺忍蜂",
     "Command": "↓ ↘ → + 強K",
@@ -3021,9 +3084,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "099f2967-9dc1-4222-a55b-0e486e1b11d4",
     "AttackCategory": 6,
     "Name": "OD 必殺忍蜂",
     "Command": "↓ ↘ → + K K",
@@ -3069,9 +3133,10 @@
     },
     "AttackType": 0,
     "Notes": "53Fから行動可31-74F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a7c4305d-9f6a-4c25-88af-184a50d1b6b0",
     "AttackCategory": 6,
     "Name": "[強化版]OD 必殺忍蜂",
     "Command": "↓ ↘ → + K K",
@@ -3117,9 +3182,10 @@
     },
     "AttackType": 0,
     "Notes": "53Fから行動可31-74F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9e3191d5-d5bf-41fa-8204-d96d2b2a7501",
     "AttackCategory": 6,
     "Name": "ムササビの舞",
     "Command": "↓ ↙ ← + P",
@@ -3165,9 +3231,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直7F増加空振りつつ位置が入れ替わった場合硬直10F増加ガードさせた高度によって硬直差が変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "efb6f89a-6aed-4223-ae82-a8830d9a6e07",
     "AttackCategory": 6,
     "Name": "[強化版]ムササビの舞",
     "Command": "↓ ↙ ← + P",
@@ -3213,9 +3280,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直7F増加空振りつつ位置が入れ替わった場合硬直10F増加ガードさせた高度によって硬直差が変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d5865a15-c1cf-47c1-a69a-85e880bf7c86",
     "AttackCategory": 6,
     "Name": "OD ムササビの舞",
     "Command": "↓ ↙ ← + P P",
@@ -3261,9 +3329,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直7F増加空振りつつ位置が入れ替わった場合硬直10F増加ガードさせた高度によって硬直差が変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a9c561f9-b638-4e8f-a57a-c57697229e99",
     "AttackCategory": 6,
     "Name": "[強化版]OD ムササビの舞",
     "Command": "↓ ↙ ← + P P",
@@ -3309,9 +3378,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直7F増加空振りつつ位置が入れ替わった場合硬直10F増加ガードさせた高度によって硬直差が変化空中ヒット時床バウンド",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "81007f7c-fcea-4e71-a997-139c86e09600",
     "AttackCategory": 6,
     "Name": "SA1 陽炎の舞",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -3357,9 +3427,10 @@
     },
     "AttackType": 3,
     "Notes": "1-8F\u3000打撃・投げに対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ae0e4f76-66ca-4d4a-bc91-0736edb74ac6",
     "AttackCategory": 6,
     "Name": "[強化版]SA1 陽炎の舞",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -3405,9 +3476,10 @@
     },
     "AttackType": 3,
     "Notes": "1-6F\u3000打撃・投げに対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "78192ebd-e7cd-462f-9655-e2801ed5d599",
     "AttackCategory": 6,
     "Name": "SA2 超必殺忍蜂",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3453,9 +3525,10 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000完全無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "09c27ddb-3a94-499a-b92d-55a1f7466ff3",
     "AttackCategory": 6,
     "Name": "[強化版]SA2 超必殺忍蜂",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3501,9 +3574,10 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000完全無敵9-12F\u3000飛び道具に対して無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e88b9065-a4f8-4a0b-ba9a-d0a422ce2e33",
     "AttackCategory": 6,
     "Name": "SA2 空中超必殺忍蜂",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3549,9 +3623,10 @@
     },
     "AttackType": 0,
     "Notes": "最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1cb3cd68-b9f3-4226-acd4-95ff51b0d5af",
     "AttackCategory": 6,
     "Name": "[強化版]SA2 空中超必殺忍蜂",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3597,9 +3672,10 @@
     },
     "AttackType": 0,
     "Notes": "最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "127156c7-809e-4049-bbc2-ac9e867cd3f3",
     "AttackCategory": 6,
     "Name": "SA3 不知火流・炎舞仇桜",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -3645,9 +3721,10 @@
     },
     "AttackType": 0,
     "Notes": "1-11F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cfbe2b0b-f30f-4c2d-a0e2-ff2ec8639cac",
     "AttackCategory": 6,
     "Name": "CA 不知火流・炎舞仇桜",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -3693,9 +3770,10 @@
     },
     "AttackType": 0,
     "Notes": "1-11F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "028a909f-f2bc-4efa-8490-7ea38b9cb140",
     "AttackCategory": 6,
     "Name": "不知火剛臨",
     "Command": "N or → + 弱P 弱K",
@@ -3741,9 +3819,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d20484c2-4280-4510-83b6-ae823fbee510",
     "AttackCategory": 6,
     "Name": "風車崩し",
     "Command": "← + 弱P 弱K",
@@ -3789,9 +3868,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "edef1a25-7b4b-4d8d-9275-931cb1c66933",
     "AttackCategory": 6,
     "Name": "夢桜",
     "Command": "弱P 弱K",
@@ -3837,9 +3917,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a9955c21-b4c1-4f97-bde6-a3e961ce8604",
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
@@ -3885,9 +3966,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "547652c8-a68d-4f76-b263-0143fcb045e7",
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
@@ -3933,9 +4015,10 @@
     },
     "AttackType": 7,
     "Notes": "1-15F 投げ無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9812a9e4-0d5c-482b-aab7-50af7d6f441c",
     "AttackCategory": 6,
     "Name": "ドライブインパクト （牡丹一華）",
     "Command": "強P 強K",
@@ -3981,9 +4064,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）ヒットバックでステージ端に到達すると壁やられが発生パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "18e9a595-3a89-4f2c-aa2c-2c8e3ac9ef97",
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（山桜桃）",
     "Command": "→ + 強P 強K",
@@ -4029,9 +4113,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "536edd9d-29f0-4b84-93e7-3fbc2aec728f",
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（山桜桃）",
     "Command": "→ + 強P 強K",
@@ -4077,9 +4162,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "aed7c3f6-6a5f-491e-82a0-fa37d7de5a74",
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
@@ -4125,9 +4211,10 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "fdd99f7b-0c5d-41aa-be27-0f7751b6d689",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
@@ -4173,9 +4260,10 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cdb53c5e-e7f0-4332-a3ee-7bbf2d8029dd",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
@@ -4221,9 +4309,10 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1ce76084-ccf8-476a-8d18-3d553d850719",
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
@@ -4269,9 +4358,10 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "af6fdc35-d476-444a-8acd-944a7d84e4b1",
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ →",
@@ -4317,6 +4407,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   }
 ]

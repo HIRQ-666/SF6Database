@@ -10,6 +10,7 @@
         public string DebugHtmlFileFormat { get; set; } = "debug_{characterName}_framearea.html";
         public string OutputJsonFileFormat { get; set; } = "attackdata_{characterName}.json";
         public string CommandMappingCsvPath { get; set; } = "";
+        public string AttackIdMapsPath { get; set; } = "";
 
         public int GotoTimeout { get; set; }
         public int WaitForSelectorTimeout { get; set; }

@@ -1,10 +1,12 @@
 using SF6CharacterDatabaseModels.Enums;
+using System;
 using System.Text;
 
 namespace SF6CharacterDatabaseModels.Models
 {
     public class AttackData
     {
+        public string AttackId { get; set; } = Guid.NewGuid().ToString();                 // 技のID
         public AttackCategory AttackCategory { get; set; } = AttackCategory.Other;        // 技のカテゴリ（通常技、必殺技、スーパーアーツなど）
         public string Name { get; set; } = string.Empty;                                  // 技名
         public string Command { get; set; } = string.Empty;                               // コマンド
@@ -23,6 +25,7 @@ namespace SF6CharacterDatabaseModels.Models
         public override string ToString()
         {
             var sb = new StringBuilder();
+            sb.AppendLine($"Id: {AttackId}");
             sb.AppendLine($"Name: {Name}");
             sb.AppendLine($"Command: {Command}");
             sb.AppendLine($"Category: {AttackCategory}");

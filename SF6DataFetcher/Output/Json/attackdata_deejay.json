@@ -1,5 +1,6 @@
 [
   {
+    "AttackId": "37e2c2de-277f-4615-8fac-5307821ed584",
     "AttackCategory": 6,
     "Name": "立ち弱P （ジャブ）",
     "Command": "弱P",
@@ -45,9 +46,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3f531e1a-2c59-45f6-a518-e404dfd25fb7",
     "AttackCategory": 6,
     "Name": "立ち弱K （ローキック）",
     "Command": "弱K",
@@ -93,9 +95,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "65971f5e-db19-4a93-a5ac-47996e6565cb",
     "AttackCategory": 6,
     "Name": "立ち中P （フロントフック）",
     "Command": "中P",
@@ -141,9 +144,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f307e86d-2442-4a43-b887-db29f9881d0c",
     "AttackCategory": 6,
     "Name": "立ち中K （ミドルキック）",
     "Command": "中K",
@@ -189,9 +193,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cd7fa62b-2c84-42dc-88ca-3a96a6863b4f",
     "AttackCategory": 6,
     "Name": "立ち強P （ブラストアッパー）",
     "Command": "強P",
@@ -237,9 +242,10 @@
     },
     "AttackType": 0,
     "Notes": "持続の2F目までキャンセル可強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "601ffe67-17d4-4916-92bf-d0cde09e97c8",
     "AttackCategory": 6,
     "Name": "立ち強K （マキシマムキック）",
     "Command": "強K",
@@ -285,9 +291,10 @@
     },
     "AttackType": 0,
     "Notes": "※空振り時硬直4F増加パニッシュカウンター時+18F",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1c58651d-2b31-4f8f-9a56-159e23980427",
     "AttackCategory": 6,
     "Name": "しゃがみ弱P （アンダージャブ）",
     "Command": "↓ + 弱P",
@@ -333,9 +340,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9ec4c2ac-b597-4631-a542-722b3d4f5aa0",
     "AttackCategory": 6,
     "Name": "しゃがみ弱K （アンダーウィップ）",
     "Command": "↓ + 弱K",
@@ -381,9 +389,10 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b60c1e60-11c3-40b7-a974-ee3db68a595f",
     "AttackCategory": 6,
     "Name": "しゃがみ中P （レッグクラッシュエルボー）",
     "Command": "↓ + 中P",
@@ -429,9 +438,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "178da38a-ef5a-40ab-8296-0fa5a69066a5",
     "AttackCategory": 6,
     "Name": "しゃがみ中K （グランドスクラッチ）",
     "Command": "↓ + 中K",
@@ -477,9 +487,10 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "907f31a8-29cf-44bd-b5e9-fb47f9a03c2c",
     "AttackCategory": 6,
     "Name": "しゃがみ強P （バーストフック）",
     "Command": "↓ + 強P",
@@ -525,9 +536,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果パニッシュカウンター時+12F",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a97df247-324a-461d-a86d-2293ac4dd289",
     "AttackCategory": 6,
     "Name": "しゃがみ強K （スライディングヒールアッパー）",
     "Command": "↓ + 強K",
@@ -573,9 +585,10 @@
     },
     "AttackType": 1,
     "Notes": "カウンター/パニッシュカウンター時ダウン時間延長",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e0e7ffad-6103-4659-b4ba-3f83f04a55f1",
     "AttackCategory": 6,
     "Name": "ジャンプ弱P （ファンクストレート）",
     "Command": "弱P",
@@ -621,9 +634,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "72a8729b-4eb0-4c5e-8d6d-bb81a237dc05",
     "AttackCategory": 6,
     "Name": "ジャンプ弱K （ファンクウィップ）",
     "Command": "弱K",
@@ -669,9 +683,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3021c539-8461-4ddf-b38f-6aced8133a96",
     "AttackCategory": 6,
     "Name": "ジャンプ中P （ファンクアッパー）",
     "Command": "中P",
@@ -717,9 +732,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "549e0347-76f6-4457-af05-8425c845ba80",
     "AttackCategory": 6,
     "Name": "ジャンプ中K （フライングムエタイキック）",
     "Command": "中K",
@@ -765,9 +781,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0b6865e2-f499-430c-a659-ec5f7519f2d1",
     "AttackCategory": 6,
     "Name": "ジャンプ強P （ファンクバウンド）",
     "Command": "強P",
@@ -813,9 +830,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時叩き付けダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c4b15b02-c5a3-4165-baf4-aa5dd372408d",
     "AttackCategory": 6,
     "Name": "ジャンプ強K （フライングカリビアンソバット）",
     "Command": "強K",
@@ -861,9 +879,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "47aa1b0d-c3ed-4c49-910c-0f4641f00083",
     "AttackCategory": 6,
     "Name": "ニーショット",
     "Command": "↓ + 弱K",
@@ -909,9 +928,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "fc37d357-6645-4f64-9f2f-a11c6f427fd2",
     "AttackCategory": 6,
     "Name": "サンライズヒール",
     "Command": "→ + 中K",
@@ -957,9 +977,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時叩き付けダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ec3bbc88-9d92-4403-b456-dc4a37f8d2cc",
     "AttackCategory": 6,
     "Name": "フェイスブレイカー",
     "Command": "← + 強K",
@@ -1005,9 +1026,10 @@
     },
     "AttackType": 0,
     "Notes": "2段目空中ヒット時個別ダメージ（800）初段空中ヒット時吹き飛びダウン強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "07da3304-7b2e-4ac0-a743-e2ac330bb3df",
     "AttackCategory": 6,
     "Name": "3ビートコンボ （2段目）",
     "Command": "弱P ⇒ 中K",
@@ -1053,9 +1075,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ae462c0d-9fef-40ca-9732-833c1bb41bd8",
     "AttackCategory": 6,
     "Name": "3ビートコンボ （3段目）",
     "Command": "弱P ⇒ 中K ⇒ 中K",
@@ -1101,9 +1124,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2cea42a7-edc1-468e-90c9-e3b12b965002",
     "AttackCategory": 6,
     "Name": "ディージェイスペシャル （2段目）",
     "Command": "中P ⇒ 強P",
@@ -1149,9 +1173,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "62a126b9-d60a-4373-9610-32489804d4b5",
     "AttackCategory": 6,
     "Name": "ディージェイスペシャル （3段目）",
     "Command": "中P ⇒ 強P ⇒ 強K",
@@ -1197,9 +1222,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d0a3bffe-5d0a-443a-b002-b192ccf915e7",
     "AttackCategory": 6,
     "Name": "ファンキーダンス （2段目）",
     "Command": "中P ⇒ 中P",
@@ -1245,9 +1271,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6cf46862-1413-478a-a6c7-993f117522a6",
     "AttackCategory": 6,
     "Name": "ファンキーダンス （3段目）",
     "Command": "中P ⇒ 中P ⇒ 強P",
@@ -1293,9 +1320,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e860c6df-5cb4-4c72-9de6-93a571ac51a7",
     "AttackCategory": 6,
     "Name": "ファンキーダンス・フェイク",
     "Command": "中P ⇒ 中P ⇒ ← + 強P",
@@ -1341,9 +1369,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1c773725-1c28-43d7-b3e6-331715855811",
     "AttackCategory": 6,
     "Name": "フライングパーティー",
     "Command": "中P ⇒ 強P",
@@ -1389,9 +1418,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時叩き付けダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "994e926b-2d61-4426-9038-f71a2ef022d5",
     "AttackCategory": 6,
     "Name": "マラカスビート",
     "Command": "↓ ↓ + P P",
@@ -1437,9 +1467,10 @@
     },
     "AttackType": 7,
     "Notes": "22F SAゲージ2000増加46F以後1F経過毎にSAゲージ49増加動作中にボタンホールドで動作延長可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "620115b8-8ace-4312-970d-dca0e7741381",
     "AttackCategory": 6,
     "Name": "弱 エアスラッシャー",
     "Command": "←タメ → + 弱P",
@@ -1485,9 +1516,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9a14a7d4-959d-4be5-8338-ca973c751653",
     "AttackCategory": 6,
     "Name": "中 エアスラッシャー",
     "Command": "←タメ → + 中P",
@@ -1533,9 +1565,10 @@
     },
     "AttackType": 7,
     "Notes": "※23F マラカスビートでキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ddaa5672-d3fb-40af-88cd-94693df1be7a",
     "AttackCategory": 6,
     "Name": "強 エアスラッシャー",
     "Command": "←タメ → + 強P",
@@ -1581,9 +1614,10 @@
     },
     "AttackType": 7,
     "Notes": "※35-36F マラカスビートでキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "aba4fffe-9d8f-488d-a7f0-816ccde280fc",
     "AttackCategory": 6,
     "Name": "OD エアスラッシャー",
     "Command": "←タメ → + P P",
@@ -1629,9 +1663,10 @@
     },
     "AttackType": 7,
     "Notes": "※31F マラカスビートでキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ef0851b7-0bba-4292-a04d-46a299257ba1",
     "AttackCategory": 6,
     "Name": "OD エアスラッシャー （射出)",
     "Command": "←タメ → + P P",
@@ -1677,9 +1712,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bc99b05a-5d21-4866-b41f-b1ea563be5ef",
     "AttackCategory": 6,
     "Name": "弱 ジャックナイフマキシマム",
     "Command": "↓タメ ↑ + 弱K",
@@ -1725,9 +1761,10 @@
     },
     "AttackType": 7,
     "Notes": "6-45F 空中判定23-40F ジャンプ中の通常技、特殊技でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "26adfcc9-20f6-4b58-a9b5-c215ce2fadd9",
     "AttackCategory": 6,
     "Name": "中 ジャックナイフマキシマム",
     "Command": "↓タメ ↑ + 中K",
@@ -1773,9 +1810,10 @@
     },
     "AttackType": 0,
     "Notes": "5-44F 空中判定1-5F 空中判定の打撃・空弾属性に対して無敵5-6F\u3000投げに対して無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "abdcd26a-73d4-41a3-a839-cca9a5f83c01",
     "AttackCategory": 6,
     "Name": "強 ジャックナイフマキシマム",
     "Command": "↓タメ ↑ + 強K",
@@ -1821,9 +1859,10 @@
     },
     "AttackType": 0,
     "Notes": "5-51F 空中判定1-9F 空中判定の打撃・空弾属性に対して無敵5-6F\u3000投げに対して無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2b372eea-f2dd-4fa2-b50b-b57dd6439c64",
     "AttackCategory": 6,
     "Name": "OD ジャックナイフマキシマム",
     "Command": "↓タメ ↑ + K K",
@@ -1869,9 +1908,10 @@
     },
     "AttackType": 0,
     "Notes": "3段目以降は初段～3段目ヒット時のみ派生1-11F 完全無敵5-62F 空中判定(ガード、空振り時)",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f0f70ca5-008c-4066-adeb-7ba54e7c16ef",
     "AttackCategory": 6,
     "Name": "フェイクロールステップ",
     "Command": "↓ ↘ → + 弱K",
@@ -1917,9 +1957,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a1f087fa-f083-4627-bd8f-b449eb50ab6b",
     "AttackCategory": 6,
     "Name": "クイックローリングソバット",
     "Command": "↓ ↘ → + 中K",
@@ -1965,9 +2006,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "288c593f-5ea0-400d-88d2-147d5921104f",
     "AttackCategory": 6,
     "Name": "ダブルローリングソバット",
     "Command": "↓ ↘ → + 強K",
@@ -2013,9 +2055,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f6943b3f-199f-417e-8963-072616409f6f",
     "AttackCategory": 6,
     "Name": "OD ダブルローリングソバット",
     "Command": "↓ ↘ → + K K",
@@ -2061,9 +2104,10 @@
     },
     "AttackType": 0,
     "Notes": "2段目のみLv2以上のSAでキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4034ad8a-fd61-4fda-a643-25a6adf38e7d",
     "AttackCategory": 6,
     "Name": "弱 マシンガンアッパー",
     "Command": "↓ ↙ ← + 弱P",
@@ -2109,9 +2153,10 @@
     },
     "AttackType": 0,
     "Notes": "初段以降は初段ヒット時のみ派生",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ee6e46b9-1fac-4b90-a98e-aab2eaf44184",
     "AttackCategory": 6,
     "Name": "中 マシンガンアッパー",
     "Command": "↓ ↙ ← + 中P",
@@ -2157,9 +2202,10 @@
     },
     "AttackType": 0,
     "Notes": "初段以降は初段ヒット時のみ派生",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "91e7691f-d302-41c9-8b17-410a5afc022c",
     "AttackCategory": 6,
     "Name": "強 マシンガンアッパー",
     "Command": "↓ ↙ ← + 強P",
@@ -2205,9 +2251,10 @@
     },
     "AttackType": 0,
     "Notes": "初段以降は初段ヒット時のみ派生",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f0acdaa8-bbcf-4266-b453-b819fb0f8269",
     "AttackCategory": 6,
     "Name": "OD マシンガンアッパー",
     "Command": "↓ ↙ ← + P P",
@@ -2253,9 +2300,10 @@
     },
     "AttackType": 0,
     "Notes": "初段以降は初段ヒット時のみ派生最終段ヒット時ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "764834d3-57f9-4cba-a246-d7c4b9653ed5",
     "AttackCategory": 6,
     "Name": "ジョスクール",
     "Command": "↓ ↙ ← + K",
@@ -2301,9 +2349,10 @@
     },
     "AttackType": 7,
     "Notes": "13-24F 専用技へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "74f2dd1e-dcdc-4e85-ac8f-240dbd4bd406",
     "AttackCategory": 6,
     "Name": "OD ジョスクール",
     "Command": "↓ ↙ ← + K K",
@@ -2349,9 +2398,10 @@
     },
     "AttackType": 0,
     "Notes": "ガード時硬直1F増加25-39F 専用技へ派生可ジャグリンステップのみ19Fから派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c6974292-3bf9-4298-b777-8859da6cc1c6",
     "AttackCategory": 6,
     "Name": "ファンキースライサー",
     "Command": "弱K",
@@ -2397,9 +2447,10 @@
     },
     "AttackType": 1,
     "Notes": "※ガード時硬直2F減少※空振り、アーマーヒット時硬直3F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2dcebb9b-2592-4c69-b183-d0dd88f332d7",
     "AttackCategory": 6,
     "Name": "OD ファンキースライサー",
     "Command": "弱K",
@@ -2445,9 +2496,10 @@
     },
     "AttackType": 1,
     "Notes": "空中ヒット時きりもみダウン※空振り、アーマーヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c459e9c0-2f3f-46d1-b25b-f533cdc295b2",
     "AttackCategory": 6,
     "Name": "ワニングムーン",
     "Command": "中K",
@@ -2493,9 +2545,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時叩き付けダウンパニッシュカウンター時床バウンド",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "468bb6f6-5017-4f14-8fff-89af510808cb",
     "AttackCategory": 6,
     "Name": "OD ワニングムーン",
     "Command": "中K",
@@ -2541,9 +2594,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時床バウンド",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "91a063e9-9bb3-4a05-82a8-98a7b94b07c8",
     "AttackCategory": 6,
     "Name": "マキシマムストライク",
     "Command": "強K",
@@ -2589,9 +2643,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a15cd7b6-ec41-4a0e-af71-36e357c0b3e8",
     "AttackCategory": 6,
     "Name": "OD マキシマムストライク",
     "Command": "強K",
@@ -2637,9 +2692,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3cb3d536-87c0-412b-875a-9b4ae7642b7a",
     "AttackCategory": 6,
     "Name": "ジャグリンステップ",
     "Command": "→ + P",
@@ -2685,9 +2741,10 @@
     },
     "AttackType": 7,
     "Notes": "1-20F 飛び道具に対して無敵17-23F ジャグリンスウェイへ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b99c2537-fdc2-4df8-833a-f89efa8208ff",
     "AttackCategory": 6,
     "Name": "OD ジャグリンステップ",
     "Command": "→ + P",
@@ -2733,9 +2790,10 @@
     },
     "AttackType": 7,
     "Notes": "1-17F 飛び道具に対して無敵16-17F ジャグリンスウェイへ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8001fe32-c5e0-490e-9cb6-34331a067d33",
     "AttackCategory": 6,
     "Name": "ジャグリンスウェイ",
     "Command": "← + P",
@@ -2781,9 +2839,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "855988ad-e2b0-449c-885e-061cdd5a5a92",
     "AttackCategory": 6,
     "Name": "OD ジャグリンスウェイ",
     "Command": "← + P",
@@ -2829,9 +2888,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9fd167dd-98a7-4e78-b2e8-0316e53a3786",
     "AttackCategory": 6,
     "Name": "SA1 グレイテストソバット",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -2877,9 +2937,10 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンターで以下の性能変化・地上ヒット時膝崩れ・空中ヒット時壁バウンド最低保障ダメージ30%カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f9128f48-7890-427b-92b9-88845e580e92",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P",
@@ -2925,9 +2986,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵初段以降は初段ヒット時のみ派生可能18-30F 2段目へ派生可最低保障ダメージ40%カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "782f5362-c23d-44c6-af9b-3ea376d11188",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト （2段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P ⇒ 弱P",
@@ -2973,9 +3035,10 @@
     },
     "AttackType": 0,
     "Notes": "19-24F 3段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a49bb66c-0012-4ced-8d00-43efe3cc3555",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト （3段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P ⇒ 弱P ⇒ 中P",
@@ -3021,9 +3084,10 @@
     },
     "AttackType": 0,
     "Notes": "17-23F 4段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "807e3da3-3353-4541-85f5-c64232f12c27",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト （4段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P ⇒ 弱P ⇒ 中P ⇒ 強P",
@@ -3069,9 +3133,10 @@
     },
     "AttackType": 0,
     "Notes": "1-26F 5段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "82fb26e7-d372-4ccd-938d-f47246b21b88",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト （5段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K",
@@ -3117,9 +3182,10 @@
     },
     "AttackType": 0,
     "Notes": "27-31F 6段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5fe27522-32c8-4a95-9691-1d48ae6ca2d1",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト （6段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K",
@@ -3165,9 +3231,10 @@
     },
     "AttackType": 0,
     "Notes": "31-36F 7段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a06f19d8-c586-4105-9eab-ce3b4247e4c3",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・ライト （7段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K ⇒ 強K",
@@ -3213,9 +3280,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2c3ea195-28ae-4c17-9bca-ecb83fe74aa2",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス",
     "Command": "↓ ↘ → ↓ ↘ → + 中P",
@@ -3261,9 +3329,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵初段以降は初段ヒット時のみ派生可能12-17F 2段目へ派生可2-11F,18-30Fに2段目が入力されると失敗版へ派生する最低保障ダメージ40%カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7711afb8-0501-4888-a0ae-7e7cde817497",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス （2段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 中P ⇒ 弱P",
@@ -3309,9 +3378,10 @@
     },
     "AttackType": 0,
     "Notes": "10-23F 3段目へ派生可2-9F,24-25Fに3段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "30acd8b0-bb33-43d9-8050-e6e5bf1fb88a",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス （3段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 中P ⇒ 弱P ⇒ 中P",
@@ -3357,9 +3427,10 @@
     },
     "AttackType": 0,
     "Notes": "9-20F 4段目へ派生可2-8F,21-23Fに4段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c25b8614-3950-45d5-becc-3c1b100dfa90",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス （4段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 中P ⇒ 弱P ⇒ 中P ⇒ 強P",
@@ -3405,9 +3476,10 @@
     },
     "AttackType": 0,
     "Notes": "11-25F 5段目へ派生可2-10F,26-27Fに5段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ea2e7a4e-6a19-466c-bf92-929c75d8ee06",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス （5段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 中P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K",
@@ -3453,9 +3525,10 @@
     },
     "AttackType": 0,
     "Notes": "12-28F 6段目へ派生可2-11F,29-31Fに6段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b307b483-9701-432e-a143-c0aaad67f9d1",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス （6段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 中P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K",
@@ -3501,9 +3574,10 @@
     },
     "AttackType": 0,
     "Notes": "14-33F 7段目へ派生可2-13F,34-36Fに7段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "90a80f0e-cb1d-4924-a33f-ddab3fe58800",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マーベラス （7段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 中P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K ⇒ 強K",
@@ -3549,9 +3623,10 @@
     },
     "AttackType": 0,
     "Notes": "11-36F 専用技へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "683330dd-a654-4459-9c4f-c76799e72b50",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム",
     "Command": "↓ ↘ → ↓ ↘ → + 強P",
@@ -3597,9 +3672,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵初段以降は初段ヒット時のみ派生可能13-17F 2段目へ派生可2-12F,18-30Fに2段目が入力されると失敗版へ派生する最低保障ダメージ40%カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6f3c66ea-d80d-4df7-bd4b-7a08a1aa2c3a",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム （2段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 強P ⇒ 弱P",
@@ -3645,9 +3721,10 @@
     },
     "AttackType": 0,
     "Notes": "15-20F 3段目へ派生可2-14F,21-25Fに3段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ab13818a-5778-46f3-8298-4ccf23426dc1",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム （3段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 強P ⇒ 弱P ⇒ 中P",
@@ -3693,9 +3770,10 @@
     },
     "AttackType": 0,
     "Notes": "13-18F 4段目へ派生可2-12F,19-23Fに4段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f322049a-8595-4307-99fc-e123bdf9a2d6",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム （4段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 強P ⇒ 弱P ⇒ 中P ⇒ 強P",
@@ -3741,9 +3819,10 @@
     },
     "AttackType": 0,
     "Notes": "16-21F 5段目へ派生可2-15F,22-27Fに5段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4d7edb35-5977-4d88-aa77-95356362afa8",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム （5段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 強P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K",
@@ -3789,9 +3868,10 @@
     },
     "AttackType": 0,
     "Notes": "15-26F 6段目へ派生可2-14F,27-31Fに6段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "63ff738e-9c28-4243-9baa-9a74e28edd50",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム （6段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 強P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K",
@@ -3837,9 +3917,10 @@
     },
     "AttackType": 0,
     "Notes": "17-30F 7段目へ派生可2-16F,31-36Fに7段目が入力されると失敗版へ派生する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "095422ca-00a2-4635-ad74-d8b435084c4c",
     "AttackCategory": 6,
     "Name": "SA2 サンライズフェスティバル・マキシマム （7段目）",
     "Command": "↓ ↘ → ↓ ↘ → + 強P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K ⇒ 強K",
@@ -3885,9 +3966,10 @@
     },
     "AttackType": 0,
     "Notes": "11-36F 専用技へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bea5f911-7ca5-43e8-a37b-529cfab354e6",
     "AttackCategory": 6,
     "Name": "SA2 クライマックスブロー （マーベラス）",
     "Command": "強P",
@@ -3933,9 +4015,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0da64c49-8786-4292-b011-a2db825f559b",
     "AttackCategory": 6,
     "Name": "SA2 クライマックスブロー （マキシマム）",
     "Command": "強P",
@@ -3981,9 +4064,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a6507e97-6470-43b5-9a7b-cc1fe7f8e32b",
     "AttackCategory": 6,
     "Name": "SA2 アンコールビート （マーベラス）",
     "Command": "強K",
@@ -4029,9 +4113,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7db0f2dc-7103-4e13-b8b8-0143240e5381",
     "AttackCategory": 6,
     "Name": "SA2 アンコールビート （マキシマム）",
     "Command": "強K",
@@ -4077,9 +4162,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "eca6cfbd-0399-4a53-8b0d-0587f05b3490",
     "AttackCategory": 6,
     "Name": "（失敗版） SA2 サンライズフェスティバル （2段目）",
     "Command": "↓ ↘ → ↓ ↘ → + P ⇒ 弱P",
@@ -4125,9 +4211,10 @@
     },
     "AttackType": 0,
     "Notes": "19-24F 3段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7ddc6e5d-1881-4d34-a98a-398404b02273",
     "AttackCategory": 6,
     "Name": "（失敗版） SA2 サンライズフェスティバル （3段目）",
     "Command": "↓ ↘ → ↓ ↘ → + P ⇒ 弱P ⇒ 中P",
@@ -4173,9 +4260,10 @@
     },
     "AttackType": 0,
     "Notes": "17-23F 4段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6fa8fbcf-0b88-4db7-aa6b-403a14941aa8",
     "AttackCategory": 6,
     "Name": "（失敗版） SA2 サンライズフェスティバル （4段目）",
     "Command": "↓ ↘ → ↓ ↘ → + P ⇒ 弱P ⇒ 中P ⇒ 強P",
@@ -4221,9 +4309,10 @@
     },
     "AttackType": 0,
     "Notes": "1-26F 5段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2ff9c049-edf3-426c-ad33-57d93fa5f052",
     "AttackCategory": 6,
     "Name": "（失敗版） SA2 サンライズフェスティバル （5段目）",
     "Command": "↓ ↘ → ↓ ↘ → + P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K",
@@ -4269,9 +4358,10 @@
     },
     "AttackType": 0,
     "Notes": "27-31F 6段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "63fbd265-e94a-4eaf-8c72-4b6d253720c9",
     "AttackCategory": 6,
     "Name": "（失敗版） SA2 サンライズフェスティバル （6段目）",
     "Command": "↓ ↘ → ↓ ↘ → + P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K",
@@ -4317,9 +4407,10 @@
     },
     "AttackType": 0,
     "Notes": "31-36F 7段目へ派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f4e99ffc-a60c-474f-b3e4-4a02294513fe",
     "AttackCategory": 6,
     "Name": "（失敗版） SA2 サンライズフェスティバル （7段目）",
     "Command": "↓ ↘ → ↓ ↘ → + P ⇒ 弱P ⇒ 中P ⇒ 強P ⇒ 弱K ⇒ 中K ⇒ 強K",
@@ -4365,9 +4456,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "52ba625e-c4ba-4b3f-8071-968020b1b6cd",
     "AttackCategory": 6,
     "Name": "SA3 サタデーナイト",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -4413,9 +4505,10 @@
     },
     "AttackType": 0,
     "Notes": "1-13F 完全無敵最低保障ダメージ50%カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "44f5d1a4-3ca5-4487-a597-a81559172d65",
     "AttackCategory": 6,
     "Name": "CA サタデーナイト",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -4461,9 +4554,10 @@
     },
     "AttackType": 0,
     "Notes": "1-13F 完全無敵最低保障ダメージ50%カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a42344e6-5d56-4e36-a5a3-aa33492575f0",
     "AttackCategory": 6,
     "Name": "スタンプ・ザ・ビート",
     "Command": "N or → + 弱P 弱K",
@@ -4509,9 +4603,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9aec2430-7161-436b-82f2-4c88949bb041",
     "AttackCategory": 6,
     "Name": "フリップスルー",
     "Command": "← + 弱P 弱K",
@@ -4557,9 +4652,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1eba6c12-a5b4-43d6-a9dc-68f68faee817",
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
@@ -4605,9 +4701,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d21d16c0-3832-4468-a00c-61106f5ea09e",
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
@@ -4653,9 +4750,10 @@
     },
     "AttackType": 7,
     "Notes": "1-15F\u3000投げ無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "37008598-7588-408d-93a5-5dc96eb84f38",
     "AttackCategory": 6,
     "Name": "ドライブインパクト （ワイルドビート）",
     "Command": "強P 強K",
@@ -4701,9 +4799,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）ヒットバックでステージ端に到達すると壁やられが発生パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7dc5e54c-e9db-4322-ab5f-6f8f0e0edc06",
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル （レッグスクラッチ）",
     "Command": "→ + 強P 強K",
@@ -4749,9 +4848,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "872068b9-5c06-43d8-bea8-fc03e94554d8",
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル （レッグスクラッチ）",
     "Command": "→ + 強P 強K",
@@ -4797,9 +4897,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5d519e13-8992-4ffa-a44e-b244ba89d08f",
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
@@ -4845,9 +4946,10 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "803bf93d-9003-45de-b6b5-d5da007cbb4b",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
@@ -4893,9 +4995,10 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "efb5f2f2-43eb-421a-a42a-707622b3329f",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
@@ -4941,9 +5044,10 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "30213c2b-dafb-4d3d-84ea-18221ccb69c2",
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
@@ -4989,9 +5093,10 @@
     },
     "AttackType": 0,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "64d51cb8-0678-4904-a3e5-01fa63868c90",
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ → or N or → + 中P 中K",
@@ -5037,6 +5142,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   }
 ]

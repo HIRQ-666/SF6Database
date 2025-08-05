@@ -6,7 +6,11 @@ namespace SF6DataFetcher.Parsers
 {
     public static class FrameDataParser
     {
-        public static List<AttackData> ParseFrameDataFromHtml(string html, CommandMapper commandMapper,DateTime startTime)
+        public static List<AttackData> ParseFrameDataFromHtml(
+            string html,
+            CommandMapper commandMapper,
+            DateTime startTime,
+            AttackIdMapManager idMapManager)
         {
             var doc = new HtmlDocument();
             doc.LoadHtml(html);
@@ -29,6 +33,8 @@ namespace SF6DataFetcher.Parsers
                     AttackType = FrameCellParser.ParseAttackAttribute(cells[13]),
                     Notes = cells[14].InnerText.Trim()
                 };
+
+                // 技名からCommandNote抽出
                 Console.WriteLine($"[DEBUG] AttackName: {attack.Name}");
                 string innerText = cells[0].InnerText;
                 if (!string.IsNullOrWhiteSpace(attack.Name) && innerText.Contains(attack.Name))
@@ -37,6 +43,10 @@ namespace SF6DataFetcher.Parsers
                 }
                 attack.CommandNote = FrameCellParser.ExtractNotesWithParentheses(innerText);
 
+                // AttackIdの割り当て
+                attack.AttackId = idMapManager.GetOrCreateId(attack.Name);
+
+                // FrameInfo構築
                 int startFrame = FrameCellParser.ParseFrameValue(cells[1].InnerText);
                 int activeFrame = FrameCellParser.ParseActiveFrame(cells[2].InnerText, startFrame);
                 int stiffnessFrame = FrameCellParser.ParseFrameValue(cells[3].InnerText);
@@ -55,12 +65,12 @@ namespace SF6DataFetcher.Parsers
                     All = allFrame
                 };
 
+                // ヒットフレーム
                 HitResult normalHit = FrameCellParser.ParseHitResult(cells[4].InnerText);
                 HitResult counterHit = new HitResult(
                     frame: normalHit.Frame != -999 ? normalHit.Frame + 2 : -999,
                     effect: normalHit.Effect
                 );
-
                 HitResult punishCounterHit = new HitResult(
                     frame: normalHit.Frame != -999 ? normalHit.Frame + 4 : -999,
                     effect: normalHit.Effect
@@ -70,7 +80,7 @@ namespace SF6DataFetcher.Parsers
                     effect: 0
                 );
 
-                HitResults hitResults = new HitResults
+                attack.HitResults = new HitResults
                 {
                     Normal = normalHit,
                     Counter = counterHit,
@@ -78,10 +88,10 @@ namespace SF6DataFetcher.Parsers
                     Guard = guardHit
                 };
 
-                attack.HitResults = hitResults;
-
+                // 補正値
                 attack.Corrections = FrameCellParser.ParseCorrectionValues(cells[8]);
 
+                // ゲージ影響
                 attack.GaugeEffect = new GaugeEffect
                 {
                     DriveIncrease = FrameCellParser.ParseFrameValue(cells[9].InnerText),
@@ -89,6 +99,7 @@ namespace SF6DataFetcher.Parsers
                     DriveDecreasePanish = FrameCellParser.ParseFrameValue(cells[11].InnerText),
                     SAIncrease = FrameCellParser.ParseFrameValue(cells[12].InnerText)
                 };
+
                 attack.LastUpdated = startTime;
 
                 result.Add(attack);
