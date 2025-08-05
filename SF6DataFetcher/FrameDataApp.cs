@@ -105,7 +105,9 @@ namespace SF6DataFetcher
                 Console.WriteLine(FrameDataMessages.ParsingFrameData);
 
                 var commandMapper = new CommandMapper(_settings.CommandMappingCsvPath);
-                var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper, _startTime);
+                var idMapManager = new AttackIdMapManager(urlName, _settings.AttackIdMapsPath);
+                var attacks = FrameDataParser.ParseFrameDataFromHtml(innerHtml, commandMapper, _startTime, idMapManager);
+                idMapManager.Save();
 
                 Console.WriteLine($"{FrameDataMessages.AttackCount}{attacks.Count}");
 

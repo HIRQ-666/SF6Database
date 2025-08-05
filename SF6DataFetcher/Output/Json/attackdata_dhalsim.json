@@ -1,5 +1,6 @@
 [
   {
+    "AttackId": "3d261072-0de1-4944-b21e-6ed693f0f938",
     "AttackCategory": 6,
     "Name": "立ち弱P（手刀チョップ）",
     "Command": "弱P",
@@ -45,9 +46,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4067d9c8-7429-4061-a397-922759164ef4",
     "AttackCategory": 6,
     "Name": "立ち弱K（合掌フロントローキック）",
     "Command": "弱K",
@@ -93,9 +95,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e946fc90-9312-456d-b839-d613ddbea3b0",
     "AttackCategory": 6,
     "Name": "立ち中P（ズームストレート）",
     "Command": "中P",
@@ -141,9 +144,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a306af05-b5ed-43d4-a8dd-12fa487585b6",
     "AttackCategory": 6,
     "Name": "立ち中K（合掌ズームローキック）",
     "Command": "中K",
@@ -189,9 +193,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a24691ee-30bf-4e7e-af7d-e65943a39c4c",
     "AttackCategory": 6,
     "Name": "立ち強P（ダブルズームパンチ）",
     "Command": "強P",
@@ -237,9 +242,10 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "427ca3e9-fda7-42ae-a27f-56c9d5af2184",
     "AttackCategory": 6,
     "Name": "立ち強K（合掌ズームスピンキック）",
     "Command": "強K",
@@ -285,9 +291,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウンパニッシュカウンター時+24F",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e5796707-4bbc-47ce-9918-205bf06a65d1",
     "AttackCategory": 6,
     "Name": "しゃがみ弱P（手刀水平チョップ）",
     "Command": "↓ + 弱P",
@@ -333,9 +340,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c17dd4a8-1a4a-40bc-9978-383bb51b0355",
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（スライディング）",
     "Command": "↓ + 弱K",
@@ -381,9 +389,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b7534b11-7e54-49ff-a401-5ce28604b445",
     "AttackCategory": 6,
     "Name": "しゃがみ中P（しゃがみズームパンチ）",
     "Command": "↓ + 中P",
@@ -429,9 +438,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0dc6b12a-188c-448f-b251-0776eecc761f",
     "AttackCategory": 6,
     "Name": "しゃがみ中K（ヨガスライディング）",
     "Command": "↓ + 中K",
@@ -477,9 +487,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d209a535-e6eb-4027-b794-e2a7e3be9c1c",
     "AttackCategory": 6,
     "Name": "しゃがみ強P（ダブルヨガパンチ）",
     "Command": "↓ + 強P",
@@ -525,9 +536,10 @@
     },
     "AttackType": 1,
     "Notes": "空振り時硬直4F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "902e7880-73b9-49f4-af53-77715f4035d9",
     "AttackCategory": 6,
     "Name": "しゃがみ強K（ロングスライディング）",
     "Command": "↓ + 強K",
@@ -573,9 +585,10 @@
     },
     "AttackType": 1,
     "Notes": "カウンター/パニッシュカウンター時ダウン時間増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d8298e3a-9013-4c74-a8c4-d73485c7a251",
     "AttackCategory": 6,
     "Name": "ジャンプ弱P（ジャンプ掌底）",
     "Command": "弱P",
@@ -621,9 +634,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d1f1910e-f036-48db-8a99-6ab1cc741c79",
     "AttackCategory": 6,
     "Name": "ジャンプ弱K（ジャンプヨガ前蹴り）",
     "Command": "弱K",
@@ -669,9 +683,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9bf36d68-0669-45a1-8c82-0c21c9f8e1bb",
     "AttackCategory": 6,
     "Name": "ジャンプ中P（ジャンプズームサイドパンチ）",
     "Command": "中P",
@@ -717,9 +732,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "efed6757-0010-429e-a711-e34185cadabe",
     "AttackCategory": 6,
     "Name": "ジャンプ中K（合掌ジャンプアンダーキック）",
     "Command": "中K",
@@ -765,9 +781,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e3116e99-5bc7-4502-8b6d-a2e71d3dd259",
     "AttackCategory": 6,
     "Name": "ジャンプ強P（合掌ハンマー）",
     "Command": "強P",
@@ -813,9 +830,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3bde998c-6461-48ac-817e-4895540c1ff0",
     "AttackCategory": 6,
     "Name": "ジャンプ強K（ジャンプズームハイキック）",
     "Command": "強K",
@@ -861,9 +879,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2502e8d4-e348-436a-b17d-a23cc910e5b0",
     "AttackCategory": 6,
     "Name": "ヨガアッパー",
     "Command": "← + 中P",
@@ -909,9 +928,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a63d896e-3427-4197-8566-34adaec45ed2",
     "AttackCategory": 6,
     "Name": "ヨガランス",
     "Command": "← + 強P",
@@ -957,9 +977,10 @@
     },
     "AttackType": 0,
     "Notes": "空中カウンター/パニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "66635283-67d2-431f-8d92-21615d9a4dc9",
     "AttackCategory": 6,
     "Name": "涅槃パンチ",
     "Command": "↙ + 強P",
@@ -1005,9 +1026,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8b0cb8fe-4b5d-4aeb-9aa5-7d87ce0df44a",
     "AttackCategory": 6,
     "Name": "アジャイルキック",
     "Command": "↙ + 弱K",
@@ -1053,9 +1075,10 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2145c38c-aceb-4cbd-ac0e-a6157524f6af",
     "AttackCategory": 6,
     "Name": "合掌キック",
     "Command": "← + 中K",
@@ -1101,9 +1124,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1ff8fcba-09df-4b88-83df-16c9f850669a",
     "AttackCategory": 6,
     "Name": "スラストキック",
     "Command": "↙ + 中K",
@@ -1149,9 +1173,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2486a23e-1a09-4522-b5b5-d6cf74dad064",
     "AttackCategory": 6,
     "Name": "ヨガマウンテン",
     "Command": "← + 強K",
@@ -1197,9 +1222,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果空中カウンター/パニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "13540fc6-e9e8-4851-9eb0-bab4e39f03b4",
     "AttackCategory": 6,
     "Name": "因果キック",
     "Command": "↙ + 強K",
@@ -1245,9 +1271,10 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "20cf06b1-bae6-4374-969c-7c05918af325",
     "AttackCategory": 6,
     "Name": "ドリル頭突き",
     "Command": "↓ + 弱P",
@@ -1293,9 +1320,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "12294a77-0b2b-416a-be40-dc83acaf8771",
     "AttackCategory": 6,
     "Name": "弱 ドリルキック",
     "Command": "↓ + 弱K",
@@ -1341,9 +1369,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "42be319a-454c-4b49-8905-5a9c94194b3a",
     "AttackCategory": 6,
     "Name": "中 ドリルキック",
     "Command": "↓ + 中K",
@@ -1389,9 +1418,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3c7a66fc-2876-46b3-aa05-09c7191bd7bb",
     "AttackCategory": 6,
     "Name": "強 ドリルキック",
     "Command": "↓ + 強K",
@@ -1437,9 +1467,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b2518de1-acc5-4539-852e-2f4035f54412",
     "AttackCategory": 6,
     "Name": "ロングスライディング",
     "Command": "↓ + 強K",
@@ -1485,9 +1516,10 @@
     },
     "AttackType": 1,
     "Notes": "カウンター/パニッシュカウンター時ダウン時間増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8647b951-8acb-47ca-a7ed-9ad3bbb80ef5",
     "AttackCategory": 6,
     "Name": "弱 ヨガファイア",
     "Command": "↓ ↘ → + 弱P",
@@ -1533,9 +1565,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "04eb403b-cc70-48bc-b9a8-0d2b01d45742",
     "AttackCategory": 6,
     "Name": "弱 ヨガファイア（ホールド）",
     "Command": "↓ ↘ → + 弱P",
@@ -1581,9 +1614,10 @@
     },
     "AttackType": 3,
     "Notes": "29Fボタンホールドしているとホールド版が自動で発動",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b2359374-80ef-4efe-bd5c-ec4f863c0dc0",
     "AttackCategory": 6,
     "Name": "中 ヨガファイア",
     "Command": "↓ ↘ → + 中P",
@@ -1629,9 +1663,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ed0b0fa6-65da-444d-a327-4d03e8b22f8d",
     "AttackCategory": 6,
     "Name": "中 ヨガファイア（ホールド）",
     "Command": "↓ ↘ → + 中P",
@@ -1677,9 +1712,10 @@
     },
     "AttackType": 3,
     "Notes": "29Fボタンホールドしているとホールド版が自動で発動",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2163d186-3062-4596-bb96-5246858f68b7",
     "AttackCategory": 6,
     "Name": "強 ヨガファイア",
     "Command": "↓ ↘ → + 強P",
@@ -1725,9 +1761,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "35dc583a-f481-43fa-8807-348646f6c04f",
     "AttackCategory": 6,
     "Name": "強 ヨガファイア（ホールド）",
     "Command": "↓ ↘ → + 強P",
@@ -1773,9 +1810,10 @@
     },
     "AttackType": 3,
     "Notes": "29Fボタンホールドしているとホールド版が自動で発動",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3feffce1-0663-4160-8b09-bd1ab8e3a218",
     "AttackCategory": 6,
     "Name": "OD 弱 ヨガファイア",
     "Command": "↓ ↘ → + 弱P 中P",
@@ -1821,9 +1859,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bc9c4028-ec98-43a7-9833-fca3f156f857",
     "AttackCategory": 6,
     "Name": "OD 中 ヨガファイア",
     "Command": "↓ ↘ → + 弱P 強P",
@@ -1869,9 +1908,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cacbbdfa-7a80-4591-8673-479e5b3dc0ec",
     "AttackCategory": 6,
     "Name": "OD 強 ヨガファイア",
     "Command": "↓ ↘ → + 中P 強P",
@@ -1917,9 +1957,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "52fec880-1329-44f9-8287-37d74f4c18f5",
     "AttackCategory": 6,
     "Name": "弱 ヨガアーチ",
     "Command": "↓ ↘ → + 弱K",
@@ -1965,9 +2006,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0cf655ed-3087-4dfb-87fa-3172b60a9519",
     "AttackCategory": 6,
     "Name": "中 ヨガアーチ",
     "Command": "↓ ↘ → + 中K",
@@ -2013,9 +2055,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cc0647d5-7a84-4b06-bf46-3c8a2951fa93",
     "AttackCategory": 6,
     "Name": "強 ヨガアーチ",
     "Command": "↓ ↘ → + 強K",
@@ -2061,9 +2104,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2a6579bf-bbee-4c8e-8778-c9b59db2a790",
     "AttackCategory": 6,
     "Name": "OD 弱 ヨガアーチ",
     "Command": "↓ ↘ → + 弱K 中K",
@@ -2109,9 +2153,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cdbef8d1-330b-4a37-96ab-44d435bbb471",
     "AttackCategory": 6,
     "Name": "OD 中 ヨガアーチ",
     "Command": "↓ ↘ → + 弱K 強K",
@@ -2157,9 +2202,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "24cf9a87-1626-48bf-b654-9dc730ba2ac9",
     "AttackCategory": 6,
     "Name": "OD 強 ヨガアーチ",
     "Command": "↓ ↘ → + 中K 強K",
@@ -2205,9 +2251,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3ab44a3e-866f-490d-b772-072c8a1d222d",
     "AttackCategory": 6,
     "Name": "弱 ヨガフレイム",
     "Command": "→ ↘ ↓ ↙ ← + 弱P",
@@ -2253,9 +2300,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "46c37c97-5526-4e46-8117-c9029d395919",
     "AttackCategory": 6,
     "Name": "中 ヨガフレイム",
     "Command": "→ ↘ ↓ ↙ ← + 中P",
@@ -2301,9 +2349,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4e715bf6-44a6-4c18-86f6-cb4a8a4b13c5",
     "AttackCategory": 6,
     "Name": "強 ヨガフレイム",
     "Command": "→ ↘ ↓ ↙ ← + 強P",
@@ -2349,9 +2398,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0ae56154-9490-4211-aac5-520e3b065df8",
     "AttackCategory": 6,
     "Name": "OD ヨガフレイム",
     "Command": "→ ↘ ↓ ↙ ← + P P",
@@ -2397,9 +2447,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a99fecc4-d99d-45ac-ac11-90ceb050548a",
     "AttackCategory": 6,
     "Name": "弱 ヨガブラスト",
     "Command": "→ ↘ ↓ ↙ ← + 弱K",
@@ -2445,9 +2496,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7d118ad4-edf3-48cc-8981-726c601d6a97",
     "AttackCategory": 6,
     "Name": "中 ヨガブラスト",
     "Command": "→ ↘ ↓ ↙ ← + 中K",
@@ -2493,9 +2545,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bbe23702-ad20-4ae8-8416-c95c159d2e36",
     "AttackCategory": 6,
     "Name": "強 ヨガブラスト",
     "Command": "→ ↘ ↓ ↙ ← + 強K",
@@ -2541,9 +2594,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8b8c5804-b5a0-4dae-b947-40c1e44c0615",
     "AttackCategory": 6,
     "Name": "OD ヨガブラスト",
     "Command": "→ ↘ ↓ ↙ ← + K K",
@@ -2589,9 +2643,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a43b8b7b-2ac3-406a-b5f8-ba1938de4225",
     "AttackCategory": 6,
     "Name": "弱 ヨガコメット",
     "Command": "→ ↘ ↓ ↙ ← + 弱P",
@@ -2637,9 +2692,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "75acdc2d-14f3-4592-a44c-d95a36595482",
     "AttackCategory": 6,
     "Name": "中 ヨガコメット",
     "Command": "→ ↘ ↓ ↙ ← + 中P",
@@ -2685,9 +2741,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "10d3507b-4d7d-4b0c-bb09-a14a309e9ca8",
     "AttackCategory": 6,
     "Name": "強 ヨガコメット",
     "Command": "→ ↘ ↓ ↙ ← + 強P",
@@ -2733,9 +2790,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0028ad94-9b4d-4498-9106-9778f4ae9040",
     "AttackCategory": 6,
     "Name": "OD ヨガコメット",
     "Command": "→ ↘ ↓ ↙ ← + P P",
@@ -2781,9 +2839,10 @@
     },
     "AttackType": 3,
     "Notes": "50Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "fcc518d2-01f6-41fb-bf7b-97d794e53591",
     "AttackCategory": 6,
     "Name": "ヨガフロート（その場）",
     "Command": "↓ + K K",
@@ -2829,9 +2888,10 @@
     },
     "AttackType": 7,
     "Notes": "13Fから空中判定30Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "70ff17ff-8672-4fe2-9a04-624d2a3d88ed",
     "AttackCategory": 6,
     "Name": "ヨガフロート（前方）",
     "Command": "↘ + K K",
@@ -2877,9 +2937,10 @@
     },
     "AttackType": 7,
     "Notes": "13F空中判定30Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a19d1470-3cf9-438c-aab1-cd1be6bba27c",
     "AttackCategory": 6,
     "Name": "空中ヨガフロート",
     "Command": "↓ + K K",
@@ -2925,9 +2986,10 @@
     },
     "AttackType": 7,
     "Notes": "16Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "69115aa1-f30a-4482-af83-97de85342c8c",
     "AttackCategory": 6,
     "Name": "P ヨガテレポート（前方）",
     "Command": "→ + P P P",
@@ -2973,9 +3035,10 @@
     },
     "AttackType": 7,
     "Notes": "5-15F\u3000完全無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "281bb1fa-f195-4d28-81bc-b52279b5af97",
     "AttackCategory": 6,
     "Name": "K ヨガテレポート（前方）",
     "Command": "→ + K K K",
@@ -3021,9 +3084,10 @@
     },
     "AttackType": 7,
     "Notes": "5-15F\u3000完全無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0738341a-ad39-4afd-a0bd-bc20f1d0e78d",
     "AttackCategory": 6,
     "Name": "P 空中ヨガテレポート（前方）",
     "Command": "→ + P P P",
@@ -3069,9 +3133,10 @@
     },
     "AttackType": 7,
     "Notes": "10-15F\u3000完全無敵30Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7e3ca35e-20d0-4573-b8bf-7651f232a83f",
     "AttackCategory": 6,
     "Name": "K 空中ヨガテレポート（前方）",
     "Command": "→ + K K K",
@@ -3117,9 +3182,10 @@
     },
     "AttackType": 7,
     "Notes": "10-15F\u3000完全無敵30Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e0638e84-029c-4024-a753-82b74faef43e",
     "AttackCategory": 6,
     "Name": "ヨガテレポート（後方）",
     "Command": "← + P P P or ← + K K K",
@@ -3165,9 +3231,10 @@
     },
     "AttackType": 7,
     "Notes": "5-15F\u3000完全無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "da13f8ed-92be-464d-b5fa-396c5858b211",
     "AttackCategory": 6,
     "Name": "P 空中ヨガテレポート（後方）",
     "Command": "← + P P P",
@@ -3213,9 +3280,10 @@
     },
     "AttackType": 7,
     "Notes": "10-15F\u3000完全無敵35Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0191c56a-f85d-4346-9215-836cc8ad3645",
     "AttackCategory": 6,
     "Name": "K 空中ヨガテレポート（後方）",
     "Command": "← + K K K",
@@ -3261,9 +3329,10 @@
     },
     "AttackType": 7,
     "Notes": "10-15F\u3000完全無敵35Fから行動可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "04ec57e7-f52a-4e5e-ab6f-144c87557daf",
     "AttackCategory": 6,
     "Name": "SA1 弱 ヨガインフェルノ",
     "Command": "↓ ↘ → ↓ ↘ → + 弱P",
@@ -3309,9 +3378,10 @@
     },
     "AttackType": 3,
     "Notes": "1-11F\u3000投げに対して無敵最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しないガード時に792のリカバリアブルダメージを与える",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7c5cbaad-6a82-47ba-9bfa-18e7c6496d87",
     "AttackCategory": 6,
     "Name": "SA1 中 ヨガインフェルノ",
     "Command": "↓ ↘ → ↓ ↘ → + 中P",
@@ -3357,9 +3427,10 @@
     },
     "AttackType": 3,
     "Notes": "1-11F\u3000投げに対して無敵最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しないガード時に792のリカバリアブルダメージを与える",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "60e1b657-7211-4619-9ae7-838ebafd164b",
     "AttackCategory": 6,
     "Name": "SA1 強 ヨガインフェルノ",
     "Command": "↓ ↘ → ↓ ↘ → + 強P",
@@ -3405,9 +3476,10 @@
     },
     "AttackType": 3,
     "Notes": "1-11F\u3000投げに対して無敵最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しないガード時に792のリカバリアブルダメージを与える",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0a6a2680-61a8-46f8-b1db-0657885b676a",
     "AttackCategory": 6,
     "Name": "SA2 ヨガサンバースト（Lv1）",
     "Command": "↓ ↙ ← ↓ ↙ ← + K",
@@ -3453,9 +3525,10 @@
     },
     "AttackType": 3,
     "Notes": "1-9F\u3000完全無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない139F以下でボタンホールドをやめるとLv1が発動",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "41cd6b3f-b3b5-4c5d-b52b-5a84ed43a23d",
     "AttackCategory": 6,
     "Name": "SA2 ヨガサンバースト（Lv2）",
     "Command": "↓ ↙ ← ↓ ↙ ← + K",
@@ -3501,9 +3574,10 @@
     },
     "AttackType": 3,
     "Notes": "1-9F\u3000完全無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない140F以上ボタンホールドしているとLv2が発動",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d4061689-4cde-4c9f-8dbb-aef2ce4da4b6",
     "AttackCategory": 6,
     "Name": "SA2 ヨガサンバースト（Lv3）",
     "Command": "↓ ↙ ← ↓ ↙ ← + K",
@@ -3549,9 +3623,10 @@
     },
     "AttackType": 3,
     "Notes": "1-9F\u3000完全無敵最低保障ダメージ40％カウンター/パニッシュカウンターで数値が変動しない188F以上ボタンホールドしているとLv3が発動、また209Fで自動で射出する",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b87922df-e122-47c4-9785-05c6aa276734",
     "AttackCategory": 6,
     "Name": "SA3 ヨガマーシレス",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3597,9 +3672,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0f9a5e53-a5a2-4ac5-ba58-ce8bd155cb4a",
     "AttackCategory": 6,
     "Name": "CA ヨガマーシレス",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3645,9 +3721,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "60ce327e-f62a-4ea2-aa23-46f55fb330af",
     "AttackCategory": 6,
     "Name": "ヨガスマッシュ",
     "Command": "N or → + 弱P 弱K",
@@ -3693,9 +3770,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "73413a1e-2207-4c44-94cc-2d4da369b180",
     "AttackCategory": 6,
     "Name": "ヨガスルー",
     "Command": "← + 弱P 弱K",
@@ -3741,9 +3819,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b27c0017-f83c-4e90-a384-fbe82b4f6747",
     "AttackCategory": 6,
     "Name": "ヨガスプラッシュ",
     "Command": "↓ + 弱P 弱K",
@@ -3789,9 +3868,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8dfbf1c4-348f-457c-9067-547ab179c3f7",
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
@@ -3837,9 +3917,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "95ad68e9-1b34-47aa-855f-2b245e787f12",
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
@@ -3885,9 +3966,10 @@
     },
     "AttackType": 7,
     "Notes": "1-15F 投げ無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3970256b-61dc-40c1-8a47-a5ba0ca365cf",
     "AttackCategory": 6,
     "Name": "ドライブインパクト（ヨガライズ）",
     "Command": "強P 強K",
@@ -3933,9 +4015,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒットきりもみダウン・SAゲージ3000増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "31a4e85e-6b6e-46ec-94a1-6f0cc3aa5923",
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（ヨガイリュージョン）",
     "Command": "→ + 強P 強K",
@@ -3981,9 +4064,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直6F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9a715ab6-8caf-4c06-ac21-40cf358a82b8",
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（ヨガイリュージョン）",
     "Command": "→ + 強P 強K",
@@ -4029,9 +4113,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直6F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "31c725a6-2f3b-4977-8c59-6963f5a7f2ca",
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
@@ -4077,9 +4162,10 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3bec3127-1a2f-4541-afe0-c773c48609fa",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
@@ -4125,9 +4211,10 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "61794f6c-7187-4f1b-92e4-a5f0c64248f0",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
@@ -4173,9 +4260,10 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "af16b910-25d1-4bb0-92d2-11123f8c75a6",
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
@@ -4221,9 +4309,10 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d2df7ca0-2a6d-4824-b268-b0959dc526dc",
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ → or N or → + 中P 中K",
@@ -4269,6 +4358,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   }
 ]

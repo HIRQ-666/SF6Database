@@ -1,5 +1,6 @@
 [
   {
+    "AttackId": "5a170fab-f247-41fb-ab08-94147848b91a",
     "AttackCategory": 6,
     "Name": "立ち弱P（ライトパンチ）",
     "Command": "弱P",
@@ -45,9 +46,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e68e3d2d-8f77-4481-945a-8a2bfe519b88",
     "AttackCategory": 6,
     "Name": "立ち弱K（ティビアブレイク）",
     "Command": "弱K",
@@ -93,9 +95,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c1bfca9f-7cf4-44d2-9388-7c65eeb3cc6b",
     "AttackCategory": 6,
     "Name": "立ち中P（ミドルパンチ）",
     "Command": "中P",
@@ -141,9 +144,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直2F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a3d0bef5-34ab-4cfb-b19f-3e5f258d3c75",
     "AttackCategory": 6,
     "Name": "立ち中K（スターナムブレイク）",
     "Command": "中K",
@@ -189,9 +193,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "352dbcf4-8f13-4c7a-a914-3eeea4f96666",
     "AttackCategory": 6,
     "Name": "立ち強P（ヘビィーパンチ）",
     "Command": "強P",
@@ -237,9 +242,10 @@
     },
     "AttackType": 0,
     "Notes": "18F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0a4a2a2d-de99-417a-be52-0f8ba7c6a6fd",
     "AttackCategory": 6,
     "Name": "立ち強P（ヘビィーパンチ）（ホールド）",
     "Command": "強P",
@@ -285,9 +291,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウンパニッシュカウンター時+15Fヒット・ガード時硬直1F減少",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "71e903bb-fca8-483d-b12e-eeb5068f1adf",
     "AttackCategory": 6,
     "Name": "立ち強K（リブブレイク）",
     "Command": "強K",
@@ -333,9 +340,10 @@
     },
     "AttackType": 0,
     "Notes": "14F以上ホールドすると性能変化空中ヒット時吹き飛びダウンパニッシュカウンター時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "80824aea-958e-4578-83cd-6c72e38af285",
     "AttackCategory": 6,
     "Name": "立ち強K（リブブレイク）（ホールド）",
     "Command": "強K",
@@ -381,9 +389,10 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンター時吹き飛び時間増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a33c7e6a-d2ea-41b4-9ac6-d797f13f2325",
     "AttackCategory": 6,
     "Name": "しゃがみ弱P（アンダーライト）",
     "Command": "↓ + 弱P",
@@ -429,9 +438,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d8ac8961-fc79-42c7-a88c-96b82bc666df",
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（フットバッシュ）",
     "Command": "↓ + 弱K",
@@ -477,9 +487,10 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "81a002ce-5f5c-4e66-a509-baa192baf68b",
     "AttackCategory": 6,
     "Name": "しゃがみ中P（アンダーミドル）",
     "Command": "↓ + 中P",
@@ -525,9 +536,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "72815d2e-2790-4756-a0fc-b7f14be9c73f",
     "AttackCategory": 6,
     "Name": "しゃがみ中K（レッグバッシュ）",
     "Command": "↓ + 中K",
@@ -573,9 +585,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c06af145-7534-42b3-8502-bf4d7d52ef83",
     "AttackCategory": 6,
     "Name": "しゃがみ強P（ハーフハート）",
     "Command": "↓ + 強P",
@@ -621,9 +634,10 @@
     },
     "AttackType": 0,
     "Notes": "17F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "938bba39-8c23-4300-9144-c9ad142dafb4",
     "AttackCategory": 6,
     "Name": "しゃがみ強P（ハーフハート）（ホールド）",
     "Command": "↓ + 強P",
@@ -669,9 +683,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d9756aa4-24b5-4fa9-970c-3ee9ce457abb",
     "AttackCategory": 6,
     "Name": "しゃがみ強K（ガイアバッシュ）",
     "Command": "↓ + 強K",
@@ -717,9 +732,10 @@
     },
     "AttackType": 1,
     "Notes": "16F以上ホールドすると性能変化パニッシュカウンター時ダウン時間増加、ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "23812070-9269-45ad-a745-f0e9ad954d23",
     "AttackCategory": 6,
     "Name": "しゃがみ強K（ガイアバッシュ）（ホールド）",
     "Command": "↓ + 強K",
@@ -765,9 +781,10 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウンヒット・ガード時硬直3F減少",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2c9ba6cc-4d5a-4101-9108-53c6c378fd5e",
     "AttackCategory": 6,
     "Name": "ジャンプ弱P（ノックフィスト）",
     "Command": "弱P",
@@ -813,9 +830,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "54ea6188-9119-4245-9050-1a18d4c3168d",
     "AttackCategory": 6,
     "Name": "ジャンプ弱K（シグナスフォール）",
     "Command": "弱K",
@@ -861,9 +879,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3e69a916-de3c-4d6f-9ca6-ad2c9e5e32d1",
     "AttackCategory": 6,
     "Name": "ジャンプ中P（ヴォラーレフィスト）",
     "Command": "中P",
@@ -909,9 +928,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f459291d-1d46-4a80-92b2-fc56aea4ff76",
     "AttackCategory": 6,
     "Name": "ジャンプ中K（ラブリュスフォール）",
     "Command": "中K",
@@ -957,9 +977,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0c7e6a00-312b-4347-a27c-0bdd32af7baa",
     "AttackCategory": 6,
     "Name": "ジャンプ強P（アイテルフィスト）",
     "Command": "強P",
@@ -1005,9 +1026,10 @@
     },
     "AttackType": 2,
     "Notes": "20F以上ホールドすると性能変化空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "85eb2ad4-4e5d-4c29-a00a-f0dad38358b2",
     "AttackCategory": 6,
     "Name": "ジャンプ強P（アイテルフィスト）（ホールド）",
     "Command": "強P",
@@ -1053,9 +1075,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "61db4bc0-e40a-491b-8fd2-e2fea04ead52",
     "AttackCategory": 6,
     "Name": "ジャンプ強K（ウラノスフォール）",
     "Command": "強K",
@@ -1101,9 +1124,10 @@
     },
     "AttackType": 2,
     "Notes": "20F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "addb11ee-c391-4fa5-b340-0f45cf223151",
     "AttackCategory": 6,
     "Name": "ジャンプ強K（ウラノスフォール）（ホールド）",
     "Command": "強K",
@@ -1149,9 +1173,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a9bf467f-b319-4517-bed1-61d33a73471a",
     "AttackCategory": 6,
     "Name": "ライトワンツー",
     "Command": "弱P ⇒ 弱P",
@@ -1197,9 +1222,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3a6b0083-097c-456e-9f03-26dded80223d",
     "AttackCategory": 6,
     "Name": "ミドルワンツー",
     "Command": "中P ⇒ 中P",
@@ -1245,9 +1271,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "49179ce4-273a-43a5-b76d-00e9d386f99f",
     "AttackCategory": 6,
     "Name": "ヘビィーワンツー",
     "Command": "強P ⇒ 強P",
@@ -1293,9 +1320,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "730cd393-aff3-4536-8d33-fda1261e3626",
     "AttackCategory": 6,
     "Name": "ヴォラーレコンボ",
     "Command": "中P ⇒ 中P",
@@ -1341,9 +1369,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2f21cab2-db9d-4631-aabc-5e90173556b2",
     "AttackCategory": 6,
     "Name": "カエルムアーク",
     "Command": "↓ + 強P",
@@ -1389,9 +1418,10 @@
     },
     "AttackType": 2,
     "Notes": "20F以上ホールドすると性能変化空中ヒット時叩きつけダウンめくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a2f4f3fa-8cae-4721-86c9-fc3dc325272e",
     "AttackCategory": 6,
     "Name": "カエルムアーク（ホールド）",
     "Command": "↓ + 強P",
@@ -1437,9 +1467,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6f5fd08d-1cfb-4541-a248-9f830e5c6937",
     "AttackCategory": 6,
     "Name": "マグナバンカー",
     "Command": "← + 強P",
@@ -1485,9 +1516,10 @@
     },
     "AttackType": 0,
     "Notes": "17F以上ホールドすると性能変化空振り時硬直3F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8ed38191-3732-46b7-8e13-a5b486eb2432",
     "AttackCategory": 6,
     "Name": "マグナバンカー（ホールド）",
     "Command": "← + 強P",
@@ -1533,9 +1565,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直6F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "07edbb2f-f9e6-440a-9274-675b6db2ccaa",
     "AttackCategory": 6,
     "Name": "ノバキュラスワイプ/ノバキュラシュート（1段目）",
     "Command": "→ + 中P",
@@ -1581,9 +1614,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "01e230c9-0782-4b9e-87fc-1550fded4140",
     "AttackCategory": 6,
     "Name": "ノバキュラスワイプ",
     "Command": "→ + 中P ⇒ 強P",
@@ -1629,9 +1663,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "14e5246e-9891-4bea-9511-add68e154435",
     "AttackCategory": 6,
     "Name": "ノバキュラシュート",
     "Command": "→ + 中P ⇒ 強K",
@@ -1677,9 +1712,10 @@
     },
     "AttackType": 0,
     "Notes": "しゃがみ状態の相手に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "71ec927d-43be-4f39-adeb-b2692ed4351a",
     "AttackCategory": 6,
     "Name": "マレウスビート（1段目）",
     "Command": "↘ + 強P",
@@ -1725,9 +1761,10 @@
     },
     "AttackType": 2,
     "Notes": "14F以上ホールドすると性能変化空中ヒット時床バウンド",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8434a02e-fe99-48c7-ac3f-98140c1eaf8b",
     "AttackCategory": 6,
     "Name": "マレウスビート（1段目）（ホールド）",
     "Command": "↘ + 強P",
@@ -1773,9 +1810,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時床バウンド",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "dd100184-84a7-4601-9286-b7030acfb3b1",
     "AttackCategory": 6,
     "Name": "マレウスビート（2段目）",
     "Command": "↘ + 強P ⇒ ↘ + 強P",
@@ -1821,9 +1859,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a8964fce-9519-463d-9a79-4cc7863816cf",
     "AttackCategory": 6,
     "Name": "ファルクスクラッシュ（1段目）",
     "Command": "→ + 強K",
@@ -1869,9 +1908,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果21F以上ホールドすると性能変化",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "effcb99b-5a69-4803-b3c6-6dbe1364e23e",
     "AttackCategory": 6,
     "Name": "ファルクスクラッシュ（1段目）（ホールド）",
     "Command": "→ + 強K",
@@ -1917,9 +1957,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7d04922b-b0a3-44ad-9412-f0f0e6cc80c6",
     "AttackCategory": 6,
     "Name": "ファルクスクラッシュ（2段目）",
     "Command": "→ + 強K ⇒ → + 強K",
@@ -1965,9 +2006,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "88d03358-9b82-4269-95a7-da75e7446a23",
     "AttackCategory": 6,
     "Name": "弱 グラディウス",
     "Command": "↓ ↘ → + 弱P",
@@ -2013,9 +2055,10 @@
     },
     "AttackType": 0,
     "Notes": "26F以上ホールドすると性能変化5-10F\u3000上半身アーマー判定(1回)",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "25df11bd-54ac-41bc-a7e5-3c54af86c1ab",
     "AttackCategory": 6,
     "Name": "弱 グラディウス（ホールド）",
     "Command": "↓ ↘ → + 弱P",
@@ -2061,9 +2104,10 @@
     },
     "AttackType": 0,
     "Notes": "5-26F\u3000上半身アーマー判定(1回)アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e9c96f8f-fc46-435c-96c1-2d37f0168b71",
     "AttackCategory": 6,
     "Name": "中 グラディウス",
     "Command": "↓ ↘ → + 中P",
@@ -2109,9 +2153,10 @@
     },
     "AttackType": 0,
     "Notes": "29F以上ホールドすると性能変化5-12F\u3000上半身アーマー判定(1回)",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d7c60c5b-fc4b-4b3c-a855-c3c5a92181e9",
     "AttackCategory": 6,
     "Name": "中 グラディウス（ホールド）",
     "Command": "↓ ↘ → + 中P",
@@ -2157,9 +2202,10 @@
     },
     "AttackType": 0,
     "Notes": "5-29F\u3000上半身アーマー判定(1回)アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a5610f84-b0dc-4b7f-91ae-ac7e446ea049",
     "AttackCategory": 6,
     "Name": "強 グラディウス",
     "Command": "↓ ↘ → + 強P",
@@ -2205,9 +2251,10 @@
     },
     "AttackType": 0,
     "Notes": "35F以上ホールドすると性能変化5-15F 上半身アーマー判定(1回)",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c95984d9-ebf1-4c09-ab62-7f4d1f4da02b",
     "AttackCategory": 6,
     "Name": "強 グラディウス（ホールド）",
     "Command": "↓ ↘ → + 強P",
@@ -2253,9 +2300,10 @@
     },
     "AttackType": 0,
     "Notes": "5-35F\u3000上半身アーマー判定(1回)アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9099973a-c920-46bd-a368-f1332f4b637e",
     "AttackCategory": 6,
     "Name": "OD グラディウス",
     "Command": "↓ ↘ → + P P",
@@ -2301,9 +2349,10 @@
     },
     "AttackType": 0,
     "Notes": "29F以上ホールドすると性能変化1-22F\u3000上半身アーマー判定(2回)アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "95099331-243f-4267-bfcd-95a0d49def03",
     "AttackCategory": 6,
     "Name": "OD グラディウス（ホールド）",
     "Command": "↓ ↘ → + P P",
@@ -2349,9 +2398,10 @@
     },
     "AttackType": 0,
     "Notes": "1-38F\u3000上半身アーマー判定(2回)アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b3f2af99-867c-45fc-9f3f-8b50d43c5e83",
     "AttackCategory": 6,
     "Name": "弱 ディマカイルス（1段目）",
     "Command": "↓ ↙ ← + 弱P",
@@ -2397,9 +2447,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果5-15F\u3000空中判定の打撃・空弾属性に対して無敵22-32F\u3000ヒット時専用技に派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c479936a-bb2e-4ad6-a51a-0be0c87f72ce",
     "AttackCategory": 6,
     "Name": "弱 ディマカイルス（2段目）",
     "Command": "↓ ↙ ← + 弱P ⇒ → + P",
@@ -2445,9 +2496,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "28be3d3e-c290-438f-a12a-a7f3399091c5",
     "AttackCategory": 6,
     "Name": "中 ディマカイルス（1段目）",
     "Command": "↓ ↙ ← + 中P",
@@ -2493,9 +2545,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果27-36F\u3000ヒット時専用技に派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7a89ddc1-3638-4eb4-a562-c3af08c0ce26",
     "AttackCategory": 6,
     "Name": "中 ディマカイルス（2段目）",
     "Command": "↓ ↙ ← + 中P ⇒ → + P",
@@ -2541,9 +2594,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0d3ccaaa-4ac4-445e-9e43-cb9ad1c7b334",
     "AttackCategory": 6,
     "Name": "強 ディマカイルス（1段目）",
     "Command": "↓ ↙ ← + 強P",
@@ -2589,9 +2643,10 @@
     },
     "AttackType": 0,
     "Notes": "35-42F\u3000ヒット時専用技に派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "98594298-daf3-4d52-b8d5-722b2e39256a",
     "AttackCategory": 6,
     "Name": "強 ディマカイルス（2段目）",
     "Command": "↓ ↙ ← + 強P ⇒ → + P",
@@ -2637,9 +2692,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "13c39b55-8a97-4279-97cd-b72868ae40b8",
     "AttackCategory": 6,
     "Name": "OD ディマカイルス（1段目）",
     "Command": "↓ ↙ ← + P P",
@@ -2685,9 +2741,10 @@
     },
     "AttackType": 0,
     "Notes": "5-19F\u3000空中判定の打撃・空弾属性に対して無敵31-39F\u3000ヒット時専用技に派生可アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "38615ecc-4213-4acb-b99d-2e3182c9abfb",
     "AttackCategory": 6,
     "Name": "OD ディマカイルス（2段目）",
     "Command": "↓ ↙ ← + P P ⇒ → + P",
@@ -2733,9 +2790,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b2efe88e-7dd4-4903-a7e7-05a764e9ed9c",
     "AttackCategory": 6,
     "Name": "弱 ファランクス",
     "Command": "→ ↓ ↘ + 弱P",
@@ -2781,9 +2839,10 @@
     },
     "AttackType": 0,
     "Notes": "7-11F\u3000上半身アーマー判定12-27F\u3000下半身飛び道具無敵11-30F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bfc17a05-fd9d-421a-b714-ca2bfb41f46a",
     "AttackCategory": 6,
     "Name": "中 ファランクス",
     "Command": "→ ↓ ↘ + 中P",
@@ -2829,9 +2888,10 @@
     },
     "AttackType": 0,
     "Notes": "7- 13F\u3000上半身アーマー判定(1回)12-30F\u3000下半身飛び道具無敵14-33F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "092e405e-6f2c-404b-9ce5-6a74161f5b4e",
     "AttackCategory": 6,
     "Name": "強 ファランクス",
     "Command": "→ ↓ ↘ + 強P",
@@ -2877,9 +2937,10 @@
     },
     "AttackType": 0,
     "Notes": "10-15F\u3000上半身アーマー判定12-34F\u3000下半身飛び道具無敵17-37F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a653ed60-3271-44dc-9388-7932866b3f5a",
     "AttackCategory": 6,
     "Name": "OD ファランクス",
     "Command": "→ ↓ ↘ + P P",
@@ -2925,9 +2986,10 @@
     },
     "AttackType": 0,
     "Notes": "6-12F\u3000上半身アーマー判定12-30F\u3000下半身飛び道具無敵14-33F\u3000空中判定壁到達時に壁やられアーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5436be28-dba4-486f-b03a-1355de8c301e",
     "AttackCategory": 6,
     "Name": "弱 クアドリガ",
     "Command": "↓ ↘ → + 弱K",
@@ -2973,9 +3035,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c09fb889-6081-4424-a126-52a6a636b415",
     "AttackCategory": 6,
     "Name": "中 クアドリガ",
     "Command": "↓ ↘ → + 中K",
@@ -3021,9 +3084,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a6a59151-0312-420c-85ec-51c70f57d7a6",
     "AttackCategory": 6,
     "Name": "強 クアドリガ",
     "Command": "↓ ↘ → + 強K",
@@ -3069,9 +3133,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0455705d-ae47-46ef-b416-abd260fe8f38",
     "AttackCategory": 6,
     "Name": "OD クアドリガ",
     "Command": "↓ ↘ → + K K",
@@ -3117,9 +3182,10 @@
     },
     "AttackType": 0,
     "Notes": "ヒット時壁やられアーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ea232fb3-78fa-4179-a7d6-ab056b9e3c9c",
     "AttackCategory": 6,
     "Name": "スクトゥム",
     "Command": "↓ ↙ ← + K",
@@ -3165,9 +3231,10 @@
     },
     "AttackType": 7,
     "Notes": "動作中常に被パニッシュカウンター判定3-28\u3000上半身アーマー判定(1回)アーマー判定で攻撃を受け止めた際、専用技に自動派生9-14F\u3000各派生技に移行可ボタンホールドで動作延長可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "39dd994d-af9e-46fd-8dd2-7c52f40825ca",
     "AttackCategory": 6,
     "Name": "スクトゥム(当身派生版)",
     "Command": "",
@@ -3213,9 +3280,10 @@
     },
     "AttackType": 0,
     "Notes": "動作中常に被パニッシュカウンター判定ボタンホールド時、スクトゥムの構え動作を継続アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0f4e420c-7efa-40c8-a178-7f6f19e8141a",
     "AttackCategory": 6,
     "Name": "OD スクトゥム",
     "Command": "↓ ↙ ← + K K",
@@ -3261,9 +3329,10 @@
     },
     "AttackType": 7,
     "Notes": "動作中常に被パニッシュカウンター判定1-28F\u3000アーマー判定(2回)アーマー判定で攻撃を受け止めた際、専用技に自動派生9-14F\u3000各派生技に移行可ボタンホールドで動作延長可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d2661784-e639-4cfc-90f0-1e6d99ba383b",
     "AttackCategory": 6,
     "Name": "OD スクトゥム(当身派生版)",
     "Command": "",
@@ -3309,9 +3378,10 @@
     },
     "AttackType": 0,
     "Notes": "動作中常に被パニッシュカウンター判定ボタンホールド時、スクトゥムの構え動作を継続アーマーブレイク属性",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5cc9c392-cf66-4808-a3a2-f141674c2d1d",
     "AttackCategory": 6,
     "Name": "トニトルス（1段目）",
     "Command": "P",
@@ -3357,9 +3427,10 @@
     },
     "AttackType": 2,
     "Notes": "動作中常に被パニッシュカウンター判定空振り/アーマーヒット時硬直2F増加ヒット・ガード時、専用技に派生可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "85ba67e6-afda-4253-b36a-63350308e991",
     "AttackCategory": 6,
     "Name": "トニトルス（2段目）",
     "Command": "P ⇒ P",
@@ -3405,9 +3476,10 @@
     },
     "AttackType": 0,
     "Notes": "動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6aa2f010-f266-4faa-b041-3ee397b49e39",
     "AttackCategory": 6,
     "Name": "プロケッラ",
     "Command": "K",
@@ -3453,9 +3525,10 @@
     },
     "AttackType": 1,
     "Notes": "動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "863fccd2-f98c-4e0d-bb1e-537f927b8cf0",
     "AttackCategory": 6,
     "Name": "エンフォルド",
     "Command": "弱P 弱K",
@@ -3501,9 +3574,10 @@
     },
     "AttackType": 7,
     "Notes": "動作中常に被パニッシュカウンター判定■クラシック操作パニッシュカウンター時個別ダメージ（2875）■モダン操作時パニッシュカウンター時個別ダメージ（2300）",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "90d451f6-838f-43f3-8c02-3123349dcfba",
     "AttackCategory": 6,
     "Name": "SA1 マリーザジャベリン",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -3549,9 +3623,10 @@
     },
     "AttackType": 0,
     "Notes": "27F以上ホールドすると性能変化1-23F\u3000全身アーマー判定(2回)最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "59bdda93-01d1-4f96-8a47-615a4fc6cf51",
     "AttackCategory": 6,
     "Name": "SA1 マリーザジャベリン（ホールド）",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -3597,9 +3672,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000打撃/投げ当身、当身時派生技に移行28-47F\u3000全身アーマー判定(2回)最低保障ダメージ30％カウンター/パニッシュカウンターで数値が変動しない46-47Fでヒット時、以下の性能変化・ダメージ2600・非ロック演出",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c47b84e7-c554-41a5-9435-3994c8c08dfe",
     "AttackCategory": 6,
     "Name": "SA1 マリーザジャベリン(当身派生版)",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -3645,9 +3721,10 @@
     },
     "AttackType": 0,
     "Notes": "1-10F 完全無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ce3f51d2-0f54-49df-97b5-48554f9c30dc",
     "AttackCategory": 6,
     "Name": "SA2 メテオリティス",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -3693,9 +3770,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F\u3000完全無敵最低保障ダメージ40％16-48F\u3000空中判定カウンター/パニッシュカウンターで数値が変動しない49-51F目ヒット時、以下の性能変化・ダメージ2500・非ロック演出",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "60a09881-ed5a-464a-8911-c2bee33b64c9",
     "AttackCategory": 6,
     "Name": "SA3 アポロウーサ",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3741,9 +3819,10 @@
     },
     "AttackType": 0,
     "Notes": "1-19F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "11ea4b3d-e954-4b60-a881-fe906b469313",
     "AttackCategory": 6,
     "Name": "CA アポロウーサ",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3789,9 +3868,10 @@
     },
     "AttackType": 0,
     "Notes": "1-19F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5a244809-8bda-44ca-855a-b12dea02e3e4",
     "AttackCategory": 6,
     "Name": "マウントグレイズ",
     "Command": "N or → + 弱P 弱K",
@@ -3837,9 +3917,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6bd4b854-aec1-4ce7-a5b7-62d19fd7ceea",
     "AttackCategory": 6,
     "Name": "ミルヴィオブリッジ",
     "Command": "← + 弱P 弱K",
@@ -3885,9 +3966,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "04db7dea-6a28-4d03-bd2a-de08ab60c88c",
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
@@ -3933,9 +4015,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4fd2c1a8-e96d-4eff-8413-5d15fd5a7cfc",
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
@@ -3981,9 +4064,10 @@
     },
     "AttackType": 7,
     "Notes": "1-15F\u3000投げ無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "36b219ad-92bf-453f-b785-033d0dd29f1e",
     "AttackCategory": 6,
     "Name": "ドライブインパクト（セクトール）",
     "Command": "強P 強K",
@@ -4029,9 +4113,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f8cbf43b-a92b-446c-97b3-d70755765ec4",
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（アモルショック）",
     "Command": "→ + 強P 強K",
@@ -4077,9 +4162,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1d64225c-79bb-4cf6-a5f5-36d5a0ea2ef4",
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（アモルショック）",
     "Command": "→ + 強P 強K",
@@ -4125,9 +4211,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6501ccff-03d3-438d-be39-dadf57e3ca09",
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
@@ -4173,9 +4260,10 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "96f65d7c-365c-4941-825b-31aa17aab2bc",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
@@ -4221,9 +4309,10 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6c636527-d795-4ce5-80de-6ebf6d4808d4",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
@@ -4269,9 +4358,10 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5aa5b0e2-9a8a-46b0-9da1-e5adca067335",
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
@@ -4317,9 +4407,10 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "15fc880b-90d1-43ae-9327-7f3e8ac2aaff",
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ → or N or → + 中P 中K",
@@ -4365,6 +4456,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   }
 ]

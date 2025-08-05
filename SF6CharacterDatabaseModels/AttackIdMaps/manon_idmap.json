@@ -1,0 +1,238 @@
+[
+  {
+    "Name": "\u7ACB\u3061\u5F31P\uFF08\u30CF\u30B8\u30E1\uFF09",
+    "AttackId": "da70bf56-d489-405c-9fc6-0a187e0542bd"
+  },
+  {
+    "Name": "\u7ACB\u3061\u5F31K\uFF08\u30BF\u30F3\u30B8\u30E5\uFF09",
+    "AttackId": "cd3d20bc-876d-4fd6-a982-1a4c8606daac"
+  },
+  {
+    "Name": "\u7ACB\u3061\u4E2DP\uFF08\u30C4\u30EA\u30C6\uFF09",
+    "AttackId": "860ad592-4f95-4213-87da-9d545d21054a"
+  },
+  {
+    "Name": "\u7ACB\u3061\u4E2DK\uFF08\u30E9\u30FB\u30B7\u30A7\u30FC\u30CC\uFF09",
+    "AttackId": "e91858ca-176b-44cd-bf5b-6abedc3f575b"
+  },
+  {
+    "Name": "\u7ACB\u3061\u5F37P\uFF08\u30E9\u30F3\u30C9\u30EA\uFF09",
+    "AttackId": "a2783fac-ab29-4c54-aa7d-3904b5c3edf3"
+  },
+  {
+    "Name": "\u7ACB\u3061\u5F37K\uFF08\u30D4\u30A8\u30FB\u30C9\u30F3\u30B8\u30E5\uFF09",
+    "AttackId": "298ce9ac-a916-46f2-9d83-e0e83f0ecfd5"
+  },
+  {
+    "Name": "\u3057\u3083\u304C\u307F\u5F31P\uFF08\u30BD\u30C7\u30AD\u30EA\uFF09",
+    "AttackId": "ca7d4222-57cf-4196-b132-49400dbfc119"
+  },
+  {
+    "Name": "\u3057\u3083\u304C\u307F\u5F31K\uFF08\u30B7\u30FC\u30CB\u30E5\u30FB\u30CA\u30B8\u30A7\uFF09",
+    "AttackId": "3ebfd1ba-e888-4468-82e2-c115899e00d7"
+  },
+  {
+    "Name": "\u3057\u3083\u304C\u307F\u4E2DP\uFF08\u30D2\u30AD\u30C6\uFF09",
+    "AttackId": "e613c2a4-572d-4fa2-ab85-a4ebc45b9b59"
+  },
+  {
+    "Name": "\u3057\u3083\u304C\u307F\u4E2DK\uFF08\u30B9\u30C8\u30A5\u30CB\u30E5\u30FC\uFF09",
+    "AttackId": "76fd8ffb-f38c-4d79-9870-0b7ed73b8808"
+  },
+  {
+    "Name": "\u3057\u3083\u304C\u307F\u5F37P\uFF08\u30F4\u30A3\u30AF\u30C8\u30EF\u30FC\u30EB\u30FB\u30DD\u30FC\u30E0\uFF09",
+    "AttackId": "76f1a030-50f4-42a1-942b-89788c4aa3d9"
+  },
+  {
+    "Name": "\u3057\u3083\u304C\u307F\u5F37K\uFF08\u30AF\u30ED\u30EF\u30BC\uFF09",
+    "AttackId": "87e0c1cf-c70b-4725-ad97-39dcb4a25ffd"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30F3\u30D7\u5F31P\uFF08\u30B7\u30A8\u30EB\u30FB\u30AF\u30FC\u30C7\uFF09",
+    "AttackId": "815820bb-da6f-4486-9cea-7aac1d9eccec"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30F3\u30D7\u5F31K\uFF08\u30B7\u30A8\u30EB\u30FB\u30D1\u30C3\u30BB\uFF09",
+    "AttackId": "0d7124d3-ff08-4b26-9c06-4dfac4f4e4cb"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30F3\u30D7\u4E2DP\uFF08\u30AF\u30ED\u30EF\u30BC\u30FB\u30C9\u30A5\u30F4\u30A1\u30F3\uFF09",
+    "AttackId": "5587e3b0-2cd7-4a9d-b8b7-a6406ed4c8f1"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30F3\u30D7\u4E2DK\uFF08\u30A2\u30EC\u30B0\u30ED\uFF09",
+    "AttackId": "d1ef853f-6808-4455-a369-94e517b45023"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30F3\u30D7\u5F37P\uFF08\u30B0\u30ED\u30EF\u30FC\u30EB\u30FB\u30DD\u30FC\u30E0\uFF09",
+    "AttackId": "c96ba706-a9f2-4998-8a35-adb34da1256c"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30F3\u30D7\u5F37K\uFF08\u30AB\u30D6\u30EA\u30AA\u30FC\u30EB\uFF09",
+    "AttackId": "c0491d0b-8810-4221-9363-8a7ce5843904"
+  },
+  {
+    "Name": "\u30EC\u30D9\u30E9\u30F3\u30B9",
+    "AttackId": "d6c76ad2-aa9c-43da-afe0-a08cd353482e"
+  },
+  {
+    "Name": "\u30C8\u30E2\u30A8\u30FB\u30C7\u30EA\u30A8\u30FC\u30EB",
+    "AttackId": "04b5fa7a-e213-43c6-8913-40500a208672"
+  },
+  {
+    "Name": "\u30A2\u30FB\u30C6\u30FC\u30EB",
+    "AttackId": "50a08e2c-69cb-42fe-a3f0-e499ac326415"
+  },
+  {
+    "Name": "\u30A2\u30F3\u30FB\u30AA\u30FC\uFF081\u6BB5\u76EE\uFF09",
+    "AttackId": "25000020-6ba0-491b-b0c0-310491376413"
+  },
+  {
+    "Name": "\u30A2\u30F3\u30FB\u30AA\u30FC\uFF082\u6BB5\u76EE\uFF09",
+    "AttackId": "aef6a392-79eb-49f8-929f-3b8bbd86c0b8"
+  },
+  {
+    "Name": "\u30BF\u30F3\u30FB\u30EA\u30A8",
+    "AttackId": "bf74d8a4-fd38-4254-9d35-776534377e9a"
+  },
+  {
+    "Name": "\u30A2\u30ED\u30F3\u30B8\u30A7",
+    "AttackId": "19362bf5-3b15-42a5-84e4-9db1c175de73"
+  },
+  {
+    "Name": "\u5F31 \u30DE\u30CD\u30FC\u30B8\u30E5\u30FB\u30C9\u30EC\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "19c94846-6230-40a9-bbb4-6fc29e23cc8b"
+  },
+  {
+    "Name": "\u4E2D \u30DE\u30CD\u30FC\u30B8\u30E5\u30FB\u30C9\u30EC\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "67f98909-95a1-4fb5-83dd-9b319e97ee73"
+  },
+  {
+    "Name": "\u5F37 \u30DE\u30CD\u30FC\u30B8\u30E5\u30FB\u30C9\u30EC\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "03144d7c-c6ac-4ef5-9697-aa9fe3826b91"
+  },
+  {
+    "Name": "OD \u30DE\u30CD\u30FC\u30B8\u30E5\u30FB\u30C9\u30EC\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "ed8f7caf-b88c-4c16-8cfe-416797640886"
+  },
+  {
+    "Name": "\u5F31 \u30ED\u30F3\u30FB\u30DD\u30EF\u30F3",
+    "AttackId": "85ba992c-4acf-4fd6-81fe-ed745975032a"
+  },
+  {
+    "Name": "\u4E2D \u30ED\u30F3\u30FB\u30DD\u30EF\u30F3",
+    "AttackId": "0ff57e77-c0ef-4d45-a574-7b82d626dddb"
+  },
+  {
+    "Name": "\u5F37 \u30ED\u30F3\u30FB\u30DD\u30EF\u30F3",
+    "AttackId": "570ca565-d1b7-47aa-90ba-0c728e6cad92"
+  },
+  {
+    "Name": "OD \u30ED\u30F3\u30FB\u30DD\u30EF\u30F3",
+    "AttackId": "506d6b08-f365-400c-a9bf-4ea1e24a03dd"
+  },
+  {
+    "Name": "\u5F31 \u30C7\u30AC\u30B8\u30A7",
+    "AttackId": "120e27bf-e69e-42fd-8082-b40fa97fd369"
+  },
+  {
+    "Name": "\u4E2D \u30C7\u30AC\u30B8\u30A7",
+    "AttackId": "8ba528d9-d330-405d-b426-65492f470533"
+  },
+  {
+    "Name": "\u5F37  \u30C7\u30AC\u30B8\u30A7",
+    "AttackId": "503bd4af-b051-43d9-b812-2cc1865d9c49"
+  },
+  {
+    "Name": "OD \u30C7\u30AC\u30B8\u30A7",
+    "AttackId": "e75a4d23-2384-4975-a32b-4ee642035aa8"
+  },
+  {
+    "Name": "\u5F31 \u30E9\u30F3\u30F4\u30A7\u30EB\u30BB\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "0a8ccf46-5dc0-453c-a4aa-638c89c94f1b"
+  },
+  {
+    "Name": "\u4E2D \u30E9\u30F3\u30F4\u30A7\u30EB\u30BB\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "265441c2-37b3-44ba-a74c-192938e43957"
+  },
+  {
+    "Name": "\u5F37 \u30E9\u30F3\u30F4\u30A7\u30EB\u30BB\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "e5b68d60-2ea8-4bff-884a-86cb364f5443"
+  },
+  {
+    "Name": "OD \u30E9\u30F3\u30F4\u30A7\u30EB\u30BB\uFF08\u30E1\u30C0\u30EBLv\u306B\u5FDC\u3058\u3066\u52D5\u4F5C\u304C\u5909\u5316\uFF09",
+    "AttackId": "f27b4a07-b6b6-424b-9ce5-2ea8bcde925f"
+  },
+  {
+    "Name": "\u30B0\u30E9\u30F3\u30FB\u30D5\u30A7\u30C3\u30C6",
+    "AttackId": "6aed77be-2c30-441c-9163-a986ca0774ad"
+  },
+  {
+    "Name": "OD \u30B0\u30E9\u30F3\u30FB\u30D5\u30A7\u30C3\u30C6",
+    "AttackId": "6ba7e8b8-9c7d-40ee-aae3-3feaf92cd001"
+  },
+  {
+    "Name": "SA1 \u30A2\u30E9\u30D9\u30B9\u30AF",
+    "AttackId": "ae3d96c5-4e40-4ec2-841e-495e84fb85c3"
+  },
+  {
+    "Name": "SA2 \u30A8\u30C8\u30EF\u30FC\u30EB",
+    "AttackId": "00733776-10a9-4578-ae67-ff4edd2a9ea3"
+  },
+  {
+    "Name": "SA3 \u30D1\u30FB\u30C9\u30FB\u30C9\u30A5",
+    "AttackId": "86576755-48d8-416d-9ce6-fe2309d27b46"
+  },
+  {
+    "Name": "CA \u30D1\u30FB\u30C9\u30FB\u30C9\u30A5",
+    "AttackId": "4e916f0b-8f48-4538-a166-f473e568e369"
+  },
+  {
+    "Name": "\u30AA\u30FC\u30A6\u30C1\u30AC\u30EA",
+    "AttackId": "c1dab770-303f-4177-b96d-a6d439141004"
+  },
+  {
+    "Name": "\u30A6\u30C1\u30DE\u30BF",
+    "AttackId": "4213bdfd-c085-4da4-b47d-7c9c02bdb950"
+  },
+  {
+    "Name": "\u524D\u65B9\u30B9\u30C6\u30C3\u30D7",
+    "AttackId": "88d374f5-9b37-4580-8f86-9e6f3ab8d58a"
+  },
+  {
+    "Name": "\u5F8C\u65B9\u30B9\u30C6\u30C3\u30D7",
+    "AttackId": "7088ad16-e9b9-4f41-8191-4c47940571dc"
+  },
+  {
+    "Name": "\u30C9\u30E9\u30A4\u30D6\u30A4\u30F3\u30D1\u30AF\u30C8\uFF08\u30B0\u30EA\u30C3\u30B5\u30FC\u30C9\uFF09",
+    "AttackId": "e0ba6fd2-ea07-4352-abba-1a7845762996"
+  },
+  {
+    "Name": "[\u30AC\u30FC\u30C9\u6642]\u30C9\u30E9\u30A4\u30D6\u30EA\u30D0\u30FC\u30B5\u30EB\uFF08\u30A8\u30AB\u30EB\u30C6\uFF09",
+    "AttackId": "48053750-0d1c-4f1d-92f3-2bcef6237c5f"
+  },
+  {
+    "Name": "[\u8D77\u304D\u4E0A\u304C\u308A\u6642]\u30C9\u30E9\u30A4\u30D6\u30EA\u30D0\u30FC\u30B5\u30EB\uFF08\u30A8\u30AB\u30EB\u30C6\uFF09",
+    "AttackId": "dbb7c326-1399-4af9-86c7-55d4183345d4"
+  },
+  {
+    "Name": "\u30C9\u30E9\u30A4\u30D6\u30D1\u30EA\u30A3",
+    "AttackId": "3c61080f-74dd-458b-85be-e8099fbc2c57"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30B9\u30C8\u30D1\u30EA\u30A3\uFF08\u6253\u6483\uFF09",
+    "AttackId": "6975d9bf-367d-4b6e-baaf-2030825ed58c"
+  },
+  {
+    "Name": "\u30B8\u30E3\u30B9\u30C8\u30D1\u30EA\u30A3\uFF08\u98DB\u3073\u9053\u5177\uFF09",
+    "AttackId": "fc27d854-27d1-4dc3-9540-d4c772fa7662"
+  },
+  {
+    "Name": "\u30D1\u30EA\u30A3\u30C9\u30E9\u30A4\u30D6\u30E9\u30C3\u30B7\u30E5",
+    "AttackId": "60ee1343-dc0a-460d-bf85-132b45b73ab3"
+  },
+  {
+    "Name": "\u30AD\u30E3\u30F3\u30BB\u30EB\u30C9\u30E9\u30A4\u30D6\u30E9\u30C3\u30B7\u30E5",
+    "AttackId": "e8df5a00-1896-4120-a9a4-f99c90d0e6a7"
+  }
+]

@@ -1,5 +1,6 @@
 [
   {
+    "AttackId": "e2e7915a-ce80-4bd8-888e-d34ea039eecf",
     "AttackCategory": 6,
     "Name": "立ち弱P（ジャブ）",
     "Command": "弱P",
@@ -45,9 +46,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6d4a8ecd-460e-441f-bd8e-d62ac6e8a3ee",
     "AttackCategory": 6,
     "Name": "立ち弱K（フリッカー）",
     "Command": "弱K",
@@ -93,9 +95,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "55890e82-c1f7-4c5a-98bf-a1889f13e751",
     "AttackCategory": 6,
     "Name": "立ち中P（ボディブロー）",
     "Command": "中P",
@@ -141,9 +144,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "69dbe047-cdd1-4f18-aa10-1b5a53c3e273",
     "AttackCategory": 6,
     "Name": "立ち中K（ヒットマンフリッカー）",
     "Command": "中K",
@@ -189,9 +193,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直4F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "002036bb-0951-4679-9337-88c55fd00629",
     "AttackCategory": 6,
     "Name": "立ち強P（ソリッドナックル）",
     "Command": "強P",
@@ -237,9 +242,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果ボタンをホールドする事でサイコナックルに移行ホールド中、キルステップ（前方）にキャンセル可能30F以上ボタンを押して離すとLv1が発動60F以上ボタンを押して離すとLv2が発動",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8c6b27cd-37a2-409e-b14b-8f64f0760cc6",
     "AttackCategory": 6,
     "Name": "立ち強K（ライジングフリッカー）",
     "Command": "強K",
@@ -285,9 +291,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "49918583-ef4b-4d4a-aac5-7e8f029d21f9",
     "AttackCategory": 6,
     "Name": "しゃがみ弱P（アンダーブロー）",
     "Command": "↓ + 弱P",
@@ -333,9 +340,10 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7fe7b7d6-3436-4e4b-85fe-585bf0d1ae26",
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（ジャブフリッカー）",
     "Command": "↓ + 弱K",
@@ -381,9 +389,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4e9c2828-09ca-476b-9d8f-219b58e26e9b",
     "AttackCategory": 6,
     "Name": "しゃがみ中P（アンダーフック）",
     "Command": "↓ + 中P",
@@ -429,9 +438,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7ed9a1d6-38e8-432d-b801-859eaa1ebd30",
     "AttackCategory": 6,
     "Name": "しゃがみ中K（オーバーフリッカー）",
     "Command": "↓ + 中K",
@@ -477,9 +487,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f0024e33-321a-4e45-90e4-355c1e2b28ac",
     "AttackCategory": 6,
     "Name": "しゃがみ強P（ローフックパンチ）",
     "Command": "↓ + 強P",
@@ -525,9 +536,10 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c3db1f70-45f3-4a3b-8ce9-fde99646fb20",
     "AttackCategory": 6,
     "Name": "しゃがみ強K（ローフリッカー）",
     "Command": "↓ + 強K",
@@ -573,9 +585,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bfd27a0c-a10f-4d22-b471-3dd54ca672f9",
     "AttackCategory": 6,
     "Name": "ジャンプ弱P（エアナックル）",
     "Command": "弱P",
@@ -621,9 +634,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "12a01007-e915-444f-ac8e-251925c33d4c",
     "AttackCategory": 6,
     "Name": "ジャンプ弱K（アンダーフリッカー）",
     "Command": "弱K",
@@ -669,9 +683,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3f718b30-1164-4c07-a076-7dd817220d64",
     "AttackCategory": 6,
     "Name": "ジャンプ中P（バーティカルナックル）",
     "Command": "中P",
@@ -717,9 +732,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ff2acabd-6001-4fe5-bfd0-5282ad09041c",
     "AttackCategory": 6,
     "Name": "ジャンプ中K（ミドルフリッカー）",
     "Command": "中K",
@@ -765,9 +781,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8ef960a8-c90b-4373-bc27-1cf0368361cb",
     "AttackCategory": 6,
     "Name": "ジャンプ強P（ソリッドダイブ）",
     "Command": "強P",
@@ -813,9 +830,10 @@
     },
     "AttackType": 2,
     "Notes": "空中カウンター/パニッシュカウンター時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "01d9a685-d05d-432b-8efb-4d3216ebadfd",
     "AttackCategory": 6,
     "Name": "ジャンプ強K（ハイフリッカー）",
     "Command": "強K",
@@ -861,9 +879,10 @@
     },
     "AttackType": 2,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3c1717b5-ef2c-4a51-afd0-413ea94f725c",
     "AttackCategory": 6,
     "Name": "サイコナックル(Lv1)",
     "Command": "強P",
@@ -909,9 +928,10 @@
     },
     "AttackType": 0,
     "Notes": "ヒット時に膝崩れダウンに＋41※画面端でガードさせた時は+2",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4ef93ae8-4e76-4bc2-8523-61df41162204",
     "AttackCategory": 6,
     "Name": "サイコナックル(Lv2)",
     "Command": "強P",
@@ -957,9 +977,10 @@
     },
     "AttackType": 0,
     "Notes": "ヒット時に膝崩れダウンに＋41飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "46830f04-898b-47f4-8fe6-a84660bce661",
     "AttackCategory": 6,
     "Name": "コブラパンチ",
     "Command": "→ + 強P",
@@ -1005,9 +1026,10 @@
     },
     "AttackType": 0,
     "Notes": "7-19F 足元無敵空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d60b9796-666d-4c8a-8350-4fec5742bffe",
     "AttackCategory": 6,
     "Name": "フリッカーコンビネーション（2段目）",
     "Command": "弱K ⇒ 弱K",
@@ -1053,9 +1075,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "28627eb3-0691-4dc2-954c-0fae97a574f0",
     "AttackCategory": 6,
     "Name": "フリッカーコンビネーション（3段目）",
     "Command": "弱K ⇒ 弱K ⇒ 弱K",
@@ -1101,9 +1124,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "57d2b225-28ee-4f01-b5b7-f3cc106dadc4",
     "AttackCategory": 6,
     "Name": "ボディブローコンビネーション",
     "Command": "中P ⇒ 強P",
@@ -1149,9 +1173,10 @@
     },
     "AttackType": 0,
     "Notes": "※キルステップ（後方）のみキャンセル不可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b462aa00-56c4-410f-9651-057cd489a13c",
     "AttackCategory": 6,
     "Name": "ヒットマンコンビネーション（2段目）",
     "Command": "中K ⇒ 中K",
@@ -1197,9 +1222,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "35386bcf-78d8-4504-a444-e0ce7e93c48e",
     "AttackCategory": 6,
     "Name": "ヒットマンコンビネーション（3段目）",
     "Command": "中K ⇒ 中K ⇒ 強P",
@@ -1245,9 +1271,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "731e70f8-f6d2-4ae3-af3c-3124bfe2e2b7",
     "AttackCategory": 6,
     "Name": "ロースマッシュコンビネーション",
     "Command": "↓ + 強K ⇒ 強P",
@@ -1293,9 +1320,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9ac6db84-00d2-494e-8c50-8bbed33d9129",
     "AttackCategory": 6,
     "Name": "サイコスパーク",
     "Command": "↓ ↘ → + P",
@@ -1341,9 +1369,10 @@
     },
     "AttackType": 3,
     "Notes": "22-28F サイコシュートに派生可能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c0d87056-f1e7-4026-a867-2a5a28bef17a",
     "AttackCategory": 6,
     "Name": "OD サイコスパーク",
     "Command": "↓ ↘ → + P P",
@@ -1389,9 +1418,10 @@
     },
     "AttackType": 3,
     "Notes": "18-28F サイコシュートに派生可能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a1ca6e34-0346-4f58-945c-0a46e3206297",
     "AttackCategory": 6,
     "Name": "弱 サイコシュート",
     "Command": "→ + 弱P",
@@ -1437,9 +1467,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0b892205-887d-453e-bf8c-ad397fc52fda",
     "AttackCategory": 6,
     "Name": "中 サイコシュート",
     "Command": "→ + 中P",
@@ -1485,9 +1516,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "72c5e322-3a7b-4f93-a2b2-18a7e6e28547",
     "AttackCategory": 6,
     "Name": "強 サイコシュート",
     "Command": "→ + 強P",
@@ -1533,9 +1565,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8af7baab-9e70-4385-9830-17433ad00cc4",
     "AttackCategory": 6,
     "Name": "OD 弱 サイコシュート",
     "Command": "→ + 弱P",
@@ -1581,9 +1614,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "33155ede-3142-424d-b983-2c99dc90d3c0",
     "AttackCategory": 6,
     "Name": "OD 中 サイコシュート",
     "Command": "→ + 中P",
@@ -1629,9 +1663,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4d3db4ac-4d66-4217-a9bc-7125be0dbf1f",
     "AttackCategory": 6,
     "Name": "OD 強 サイコシュート",
     "Command": "→ + 強P",
@@ -1677,9 +1712,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "eceb9c08-d582-4f25-8d56-c065705acc2d",
     "AttackCategory": 6,
     "Name": "弱 サイコアッパー",
     "Command": "→ ↓ ↘ + 弱P",
@@ -1725,9 +1761,10 @@
     },
     "AttackType": 0,
     "Notes": "1-15F\u3000空中判定の打撃・空弾属性に対して無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "0202dbc4-a18c-4384-b538-f42b7442b46e",
     "AttackCategory": 6,
     "Name": "中 サイコアッパー",
     "Command": "→ ↓ ↘ + 中P",
@@ -1773,9 +1810,10 @@
     },
     "AttackType": 0,
     "Notes": "1-19F\u3000空中判定の打撃・空弾属性に対して無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "653e7866-8a50-4d8e-b86d-b96902242007",
     "AttackCategory": 6,
     "Name": "強 サイコアッパー",
     "Command": "→ ↓ ↘ + 強P",
@@ -1821,9 +1859,10 @@
     },
     "AttackType": 0,
     "Notes": "1-19F\u3000空中判定の打撃・空弾属性に対して無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1151b73a-5822-4508-bbff-48ed52ba9421",
     "AttackCategory": 6,
     "Name": "OD サイコアッパー",
     "Command": "→ ↓ ↘ + P P",
@@ -1869,9 +1908,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F\u3000完全無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9bb3d0cf-eb1e-4321-82e4-801d5ded4baa",
     "AttackCategory": 6,
     "Name": "弱 サイコブリッツ",
     "Command": "↓ ↙ ← + 弱P",
@@ -1917,9 +1957,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "56109ec2-d285-4ba3-bca1-695573824366",
     "AttackCategory": 6,
     "Name": "中 サイコブリッツ",
     "Command": "↓ ↙ ← + 中P",
@@ -1965,9 +2006,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e9cfc206-8250-4775-91d0-beecb32cde49",
     "AttackCategory": 6,
     "Name": "強 サイコブリッツ",
     "Command": "↓ ↙ ← + 強P",
@@ -2013,9 +2055,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4436a260-02ca-4a0c-b937-cb1850c56a04",
     "AttackCategory": 6,
     "Name": "OD サイコブリッツ",
     "Command": "↓ ↙ ← + P P",
@@ -2061,9 +2104,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "fc3b832a-10cf-43c2-9373-f3a37474adf2",
     "AttackCategory": 6,
     "Name": "弱 サイコフリッカー",
     "Command": "↓ ↘ → + 弱K",
@@ -2109,9 +2153,10 @@
     },
     "AttackType": 3,
     "Notes": "26F以上ボタンホールドすると性能変化ホールド中キルステップ（前方）、キルステップ（後方）にキャンセル可能ヒット時キルステップ（前方）、キルステップ（後方）にキャンセル可能パニッシュカウンター時膝崩れダウン+21ヒット時硬直2F減少",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ec11232f-ed38-4264-9e3c-f509f9855114",
     "AttackCategory": 6,
     "Name": "弱 サイコフリッカー（ホールド）",
     "Command": "↓ ↘ → + 弱K",
@@ -2157,9 +2202,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット/ガード時相手を引き寄せる地上ヒット時打ち上げ効果空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5700a233-bc31-4db2-a3ed-566815c842e2",
     "AttackCategory": 6,
     "Name": "中 サイコフリッカー",
     "Command": "↓ ↘ → + 中K",
@@ -2205,9 +2251,10 @@
     },
     "AttackType": 3,
     "Notes": "30F以上ホールドすると性能変化ホールド中キルステップ（前方）、キルステップ（後方）にキャンセル可能ヒット時キルステップ（前方）、キルステップ（後方）にキャンセル可能パニッシュカウンター時膝崩れダウン+23ヒット時硬直1F減少",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "43dd9be2-ece0-4fc0-88a8-16d424cb1698",
     "AttackCategory": 6,
     "Name": "中 サイコフリッカー（ホールド）",
     "Command": "↓ ↘ → + 中K",
@@ -2253,9 +2300,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット/ガード時相手を引き寄せる地上ヒット時打ち上げ効果空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "24647100-2588-4707-9bb5-ad72ed5cf433",
     "AttackCategory": 6,
     "Name": "強 サイコフリッカー",
     "Command": "↓ ↘ → + 強K",
@@ -2301,9 +2349,10 @@
     },
     "AttackType": 3,
     "Notes": "30F以上ホールドすると性能変化ホールド中キルステップ（前方）、キルステップ（後方）にキャンセル可能ヒット時キルステップ（前方）、キルステップ（後方）にキャンセル可能地上の相手に当たらない",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8b3e616a-a0f3-43f1-8e5c-1ceda0bbda8b",
     "AttackCategory": 6,
     "Name": "強 サイコフリッカー（ホールド）",
     "Command": "↓ ↘ → + 強K",
@@ -2349,9 +2398,10 @@
     },
     "AttackType": 3,
     "Notes": "地上の相手に当たらない空中ヒット時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d7a2ba7b-0a37-4d99-a98f-68ee9e0256d9",
     "AttackCategory": 6,
     "Name": "OD サイコフリッカー",
     "Command": "↓ ↘ → + K K",
@@ -2397,9 +2447,10 @@
     },
     "AttackType": 3,
     "Notes": "ヒット/ガード時相手を引き寄せる地上ヒット時打ち上げ効果空中ヒット時叩きつけダウン※空中ヒット時のダメージは1200",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d7cf6d32-46fd-4fe4-b650-7cc722fb88e9",
     "AttackCategory": 6,
     "Name": "キルステップ（前方）",
     "Command": "K K",
@@ -2445,9 +2496,10 @@
     },
     "AttackType": 7,
     "Notes": "11-12F キルスイッチ・ブレイクに派生可能13-24F キルスイッチ・チェイスに派生可能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f5813140-7168-4673-b4bd-b7a31c08868f",
     "AttackCategory": 6,
     "Name": "キルスイッチ・ブレイク",
     "Command": "→ + P",
@@ -2493,9 +2545,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b81b9f9b-b8ca-4739-ae52-458681311bfa",
     "AttackCategory": 6,
     "Name": "キルスイッチ・チェイス",
     "Command": "→ + P",
@@ -2541,9 +2594,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3f521956-c2b3-4204-b9cc-e657af2ec9ba",
     "AttackCategory": 6,
     "Name": "キルステップ（後方）",
     "Command": "← + K K",
@@ -2589,9 +2643,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6ea07b72-47a5-48d1-a938-c1f82ef513ba",
     "AttackCategory": 6,
     "Name": "SA1 サイコストーム",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -2637,9 +2692,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000打撃・投げに対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f04cd19c-1c48-4f80-ba5f-a1eaeaee22e4",
     "AttackCategory": 6,
     "Name": "SA2 サイコキャノン",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2685,9 +2741,10 @@
     },
     "AttackType": 3,
     "Notes": "カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d6e595f0-56e1-45f0-aa5c-34f4e5a71c6d",
     "AttackCategory": 6,
     "Name": "SA3 サイコチェンバー",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -2733,9 +2790,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用※弱/中版サイコフリッカーからキャンセル時は即時補正30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "02b1f089-acbd-4891-a52b-8d50a7aa0ebd",
     "AttackCategory": 6,
     "Name": "CA サイコチェンバー",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -2781,9 +2839,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用※弱/中版サイコフリッカーからキャンセル時は即時補正30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8dc381af-7af3-490b-bc08-b7b00f990411",
     "AttackCategory": 6,
     "Name": "フェイスバスター",
     "Command": "N or → + 弱P 弱K",
@@ -2829,9 +2888,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "738af508-07bb-4418-8c00-35037688d94f",
     "AttackCategory": 6,
     "Name": "リブクラッシャー",
     "Command": "← + 弱P 弱K",
@@ -2877,9 +2937,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9069f21e-cb6b-436a-9b1c-0cf17cc7759d",
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
@@ -2925,9 +2986,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ffbe7051-baa4-4489-8967-66672c7c6cec",
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
@@ -2973,9 +3035,10 @@
     },
     "AttackType": 7,
     "Notes": "1-15F 投げ無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2e090c2e-fa61-42ea-9936-d80be7e3fb8f",
     "AttackCategory": 6,
     "Name": "ドライブインパクト（ターンパンチ）",
     "Command": "強P 強K",
@@ -3021,9 +3084,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）ヒットバックでステージ端に到達すると壁やられが発生パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d68bde4e-82c7-4d2f-8010-bd97d0704356",
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（ハンマーブロー）",
     "Command": "→ + 強P 強K",
@@ -3069,9 +3133,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cfff0dfb-b54b-4cfc-86ca-d06b251278a5",
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（ハンマーブロー）",
     "Command": "→ + 強P 強K",
@@ -3117,9 +3182,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ab63f1e3-c910-4e06-acdb-ba49399dbf74",
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
@@ -3165,9 +3231,10 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "132b4257-64af-4678-8b52-a3913670a6d4",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
@@ -3213,9 +3280,10 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5107e5ec-1f5b-48aa-9760-503443cffa8c",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
@@ -3261,9 +3329,10 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "336a7bbe-b518-4e2c-a0d8-c7209e95fd98",
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
@@ -3309,9 +3378,10 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "29af146c-0eb9-4eb0-aebd-d4784b8e298c",
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ →",
@@ -3357,6 +3427,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   }
 ]

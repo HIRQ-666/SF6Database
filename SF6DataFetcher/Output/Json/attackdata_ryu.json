@@ -1,5 +1,6 @@
 [
   {
+    "AttackId": "7692134f-a6b4-4975-bcad-2c6d133c1ceb",
     "AttackCategory": 6,
     "Name": "立ち弱P（ジャブ）",
     "Command": "弱P",
@@ -45,9 +46,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "065728cb-258b-4d63-b9ba-d13dba74de81",
     "AttackCategory": 6,
     "Name": "立ち弱K（ローキック）",
     "Command": "弱K",
@@ -93,9 +95,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3f68cd9c-14df-475e-8c80-ed57ee6f1896",
     "AttackCategory": 6,
     "Name": "立ち中P（鉤突き）",
     "Command": "中P",
@@ -141,9 +144,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "14e23285-e372-4b45-bda7-10695be9de7c",
     "AttackCategory": 6,
     "Name": "立ち中K（横蹴り）",
     "Command": "中K",
@@ -189,9 +193,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "62bfbe63-e7df-43b1-8edc-d85e0701e828",
     "AttackCategory": 6,
     "Name": "立ち強P（正拳突き）",
     "Command": "強P",
@@ -237,9 +242,10 @@
     },
     "AttackType": 0,
     "Notes": "強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "58d44f62-50d0-451b-9aa0-591997ce8089",
     "AttackCategory": 6,
     "Name": "立ち強K（後ろ回し蹴り）",
     "Command": "強K",
@@ -285,9 +291,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウンパニッシュカウンター時に膝崩れダウンに+36F空中パニッシュカウンター時吹き飛び時間延長",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d940ad33-ed24-4620-8bc7-6228cd89115c",
     "AttackCategory": 6,
     "Name": "しゃがみ弱P（ジャブ）",
     "Command": "↓ + 弱P",
@@ -333,9 +340,10 @@
     },
     "AttackType": 0,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5fa1fa54-053b-4e5d-b5da-5020904cffdb",
     "AttackCategory": 6,
     "Name": "しゃがみ弱K（キック）",
     "Command": "↓ + 弱K",
@@ -381,9 +389,10 @@
     },
     "AttackType": 1,
     "Notes": "連打キャンセル対応",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b1b395bb-cde3-49e8-b6ad-287c3e16188a",
     "AttackCategory": 6,
     "Name": "しゃがみ中P（ストレート）",
     "Command": "↓ + 中P",
@@ -429,9 +438,10 @@
     },
     "AttackType": 0,
     "Notes": "空振り時硬直2F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9af788bb-1ae5-4b46-850d-92c75ab8dc51",
     "AttackCategory": 6,
     "Name": "しゃがみ中K（くるぶしキック）",
     "Command": "↓ + 中K",
@@ -477,9 +487,10 @@
     },
     "AttackType": 1,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "f38b58b7-8a7a-4d29-b10c-df2b236a3cb4",
     "AttackCategory": 6,
     "Name": "しゃがみ強P（突き上げアッパー）",
     "Command": "↓ + 強P",
@@ -525,9 +536,10 @@
     },
     "AttackType": 0,
     "Notes": "キャンセルは持続の1F目がヒットした時のみ強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "5396b1b1-c9b5-4356-8d24-9a0e0eb74ac6",
     "AttackCategory": 6,
     "Name": "しゃがみ強K（回転足払い）",
     "Command": "↓ + 強K",
@@ -573,9 +585,10 @@
     },
     "AttackType": 1,
     "Notes": "パニッシュカウンター時ダウン時間増加、ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "a127b9c0-b3d6-4527-bdc3-e4956482e2ba",
     "AttackCategory": 6,
     "Name": "ジャンプ弱P（肘落とし）",
     "Command": "弱P",
@@ -621,9 +634,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "72643e17-d41a-4368-97f1-a4956c7aff94",
     "AttackCategory": 6,
     "Name": "ジャンプ弱K（ひざ蹴り）",
     "Command": "弱K",
@@ -669,9 +683,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "afa8f919-f07d-404a-b31f-bef629fd4d9b",
     "AttackCategory": 6,
     "Name": "ジャンプ中P（すくい突き）",
     "Command": "中P",
@@ -717,9 +732,10 @@
     },
     "AttackType": 0,
     "Notes": "空中ヒット時吹き飛びダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "21b68208-5d1d-4ea1-8149-9aa9f8370040",
     "AttackCategory": 6,
     "Name": "ジャンプ中K（飛び蹴り）",
     "Command": "中K",
@@ -765,9 +781,10 @@
     },
     "AttackType": 2,
     "Notes": "めくり性能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "19f9cf96-1b1c-4a6e-9aab-7430ee6a2105",
     "AttackCategory": 6,
     "Name": "ジャンプ強P（ストレート）",
     "Command": "強P",
@@ -813,9 +830,10 @@
     },
     "AttackType": 2,
     "Notes": "空中カウンター/パニッシュカウンター時叩きつけダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cb5bb9f7-e0e4-4e11-b118-0c794f2c92c7",
     "AttackCategory": 6,
     "Name": "ジャンプ強K（跳び前蹴り）",
     "Command": "強K",
@@ -861,9 +879,10 @@
     },
     "AttackType": 2,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "85e69f46-37c7-435f-8b26-e057ae664db7",
     "AttackCategory": 6,
     "Name": "鎖骨割り",
     "Command": "→ + 中P",
@@ -909,9 +928,10 @@
     },
     "AttackType": 0,
     "Notes": "※初段が空振り時のみ2段目が中段判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bd3d2a2b-73f5-4d1f-85a3-8b974ba18630",
     "AttackCategory": 6,
     "Name": "鳩尾砕き",
     "Command": "→ + 強P",
@@ -957,9 +977,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "228eb65f-7573-4f84-8b1c-60b8b65188e9",
     "AttackCategory": 6,
     "Name": "上げ突き",
     "Command": "← + 強P",
@@ -1005,9 +1026,10 @@
     },
     "AttackType": 0,
     "Notes": "キャンセルは持続の1F目がヒットした時のみ強制立ち効果",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "9717b928-453d-4e43-8699-d612725109cb",
     "AttackCategory": 6,
     "Name": "かかと落とし",
     "Command": "← + 強K",
@@ -1053,9 +1075,10 @@
     },
     "AttackType": 0,
     "Notes": "1段目強制立ち効果2段目空中ヒット時床バウンド",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "e6b4c1be-f1fc-48c3-ab02-7b48c2edef8f",
     "AttackCategory": 6,
     "Name": "旋風脚",
     "Command": "→ + 強K",
@@ -1101,9 +1124,10 @@
     },
     "AttackType": 0,
     "Notes": "※空中竜巻旋風脚(OD版を含む)でキャンセル可能",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cef285b4-16c3-4b39-b971-a755cb8a4c8a",
     "AttackCategory": 6,
     "Name": "上段二連撃",
     "Command": "強P ⇒ 強K",
@@ -1149,9 +1173,10 @@
     },
     "AttackType": 0,
     "Notes": "※ヒット時、電刃錬気でのみキャンセル可能クラシック操作:↓+P、モダン操作:↓＋攻撃",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "8318f8a6-5c71-43c2-9676-67004ed78b7d",
     "AttackCategory": 6,
     "Name": "不破三連撃（2段目）",
     "Command": "中P ⇒ 弱K",
@@ -1197,9 +1222,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "03d2f4d9-087a-49a7-aba1-6f3bf4d48c13",
     "AttackCategory": 6,
     "Name": "不破三連撃（3段目）",
     "Command": "中P ⇒ 弱K ⇒ 強K",
@@ -1245,9 +1271,10 @@
     },
     "AttackType": 0,
     "Notes": "※ヒット時、電刃錬気でのみキャンセル可能クラシック操作:↓+P、モダン操作:↓＋攻撃",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "624bea2a-6717-42fb-bca8-4f31ae07e1c9",
     "AttackCategory": 6,
     "Name": "弱 波動拳",
     "Command": "↓ ↘ → + 弱P",
@@ -1293,9 +1320,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c8c5b574-3fa8-4ed6-a55b-9470de93c308",
     "AttackCategory": 6,
     "Name": "中 波動拳",
     "Command": "↓ ↘ → + 中P",
@@ -1341,9 +1369,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "61c2d078-b5cf-4daa-94cf-7b28ca1ee51a",
     "AttackCategory": 6,
     "Name": "強 波動拳",
     "Command": "↓ ↘ → + 強P",
@@ -1389,9 +1418,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c6f72f36-196a-4dfc-9c37-edc7a4bbb07b",
     "AttackCategory": 6,
     "Name": "[電刃錬気]波動拳",
     "Command": "↓ ↘ → + P",
@@ -1437,9 +1467,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "56c1d2a4-e62c-4309-9689-d0ac21fe93d1",
     "AttackCategory": 6,
     "Name": "OD 波動拳",
     "Command": "↓ ↘ → + P P",
@@ -1485,9 +1516,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "86027b5d-3d47-4567-8fb2-027a0a2a8d37",
     "AttackCategory": 6,
     "Name": "[電刃錬気]OD 波動拳",
     "Command": "↓ ↘ → + P P",
@@ -1533,9 +1565,10 @@
     },
     "AttackType": 3,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "78541e01-eaff-4647-9ba3-bc83627ae5fc",
     "AttackCategory": 6,
     "Name": "弱 昇龍拳",
     "Command": "→ ↓ ↘ + 弱P",
@@ -1581,9 +1614,10 @@
     },
     "AttackType": 0,
     "Notes": "1-14F\u3000空中判定の打撃・空弾属性に対して無敵7-34F\u3000空中判定※持続の3F目以降は個別ダメージ（800）",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c3ddeba2-d5be-4f01-a674-6216c27bf7c5",
     "AttackCategory": 6,
     "Name": "中 昇龍拳",
     "Command": "→ ↓ ↘ + 中P",
@@ -1629,9 +1663,10 @@
     },
     "AttackType": 0,
     "Notes": "1-9F\u3000空中判定の打撃・空弾属性に対して無敵8-44F\u3000空中判定※持続の3F目以降は個別ダメージ（800）",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c0bab42f-0462-4124-be69-53165760cad9",
     "AttackCategory": 6,
     "Name": "強 昇龍拳",
     "Command": "→ ↓ ↘ + 強P",
@@ -1677,9 +1712,10 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000空中判定の打撃・空弾属性に対して無敵9-49F\u3000空中判定※持続の2F目以降は個別ダメージ（800）",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "43ca7f95-6048-4e91-90bf-e1cff9bf107e",
     "AttackCategory": 6,
     "Name": "OD 昇龍拳",
     "Command": "→ ↓ ↘ + P P",
@@ -1725,9 +1761,10 @@
     },
     "AttackType": 0,
     "Notes": "1-8F\u3000完全無敵8-51F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2c7adbf9-d42b-4047-a38d-32be1d65b586",
     "AttackCategory": 6,
     "Name": "弱 竜巻旋風脚",
     "Command": "↓ ↙ ← + 弱K",
@@ -1773,9 +1810,10 @@
     },
     "AttackType": 0,
     "Notes": "5-28F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "56512496-7b3b-4f58-adc5-a3461a986600",
     "AttackCategory": 6,
     "Name": "中 竜巻旋風脚",
     "Command": "↓ ↙ ← + 中K",
@@ -1821,9 +1859,10 @@
     },
     "AttackType": 0,
     "Notes": "8-41F\u3000空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "606d4353-2a57-43ee-a0a8-92e9adad3482",
     "AttackCategory": 6,
     "Name": "強 竜巻旋風脚",
     "Command": "↓ ↙ ← + 強K",
@@ -1869,9 +1908,10 @@
     },
     "AttackType": 0,
     "Notes": "10-61F 空中判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "83411ddd-4107-422e-bae8-0a0cf7cc80d7",
     "AttackCategory": 6,
     "Name": "OD 竜巻旋風脚",
     "Command": "↓ ↙ ← + K K",
@@ -1917,9 +1957,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b228e7a0-6c19-4c5a-be92-0f350ddef0b6",
     "AttackCategory": 6,
     "Name": "空中竜巻旋風脚",
     "Command": "↓ ↙ ← + K",
@@ -1965,9 +2006,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6789195f-3134-4f7b-b181-68d84e45137d",
     "AttackCategory": 6,
     "Name": "OD 空中竜巻旋風脚",
     "Command": "↓ ↙ ← + K K",
@@ -2013,9 +2055,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6cccd0fe-b936-49a4-adff-d6ce07759488",
     "AttackCategory": 6,
     "Name": "弱 上段足刀蹴り",
     "Command": "↓ ↘ → + 弱K",
@@ -2061,9 +2104,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3b5b7e2c-18ce-4123-bdc1-29f1abca4fc2",
     "AttackCategory": 6,
     "Name": "中 上段足刀蹴り",
     "Command": "↓ ↘ → + 中K",
@@ -2109,9 +2153,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "821eac0b-b5f0-4e3f-9aed-49f3ab3be506",
     "AttackCategory": 6,
     "Name": "強 上段足刀蹴り",
     "Command": "↓ ↘ → + 強K",
@@ -2157,9 +2202,10 @@
     },
     "AttackType": 0,
     "Notes": "パニッシュカウンター時吹き飛び時間延長",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bdaef1a3-f00a-4343-946f-a469aa64cd82",
     "AttackCategory": 6,
     "Name": "OD 上段足刀蹴り",
     "Command": "↓ ↘ → + K K",
@@ -2205,9 +2251,10 @@
     },
     "AttackType": 0,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "6e1a620d-7ea4-492c-b731-3226e2a7d466",
     "AttackCategory": 6,
     "Name": "弱 波掌撃",
     "Command": "↓ ↙ ← + 弱P",
@@ -2253,9 +2300,10 @@
     },
     "AttackType": 0,
     "Notes": "カウンター/パニッシュカウンター時吹き飛びダウン飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cac80037-f658-4dbe-bb75-854db2ece8a9",
     "AttackCategory": 6,
     "Name": "中 波掌撃",
     "Command": "↓ ↙ ← + 中P",
@@ -2301,9 +2349,10 @@
     },
     "AttackType": 0,
     "Notes": "カウンター/パニッシュカウンター時吹き飛びダウン飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "374f2dc5-0c43-4794-859c-ac05a4e89187",
     "AttackCategory": 6,
     "Name": "強 波掌撃",
     "Command": "↓ ↙ ← + 強P",
@@ -2349,9 +2398,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bb66d605-a07e-4245-98c0-7304745e1b51",
     "AttackCategory": 6,
     "Name": "[電刃錬気]波掌撃",
     "Command": "↓ ↙ ← + P",
@@ -2397,9 +2447,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c8bd5202-6829-4bb1-bbd8-4d2b41ce40ea",
     "AttackCategory": 6,
     "Name": "OD 波掌撃",
     "Command": "↓ ↙ ← + P P",
@@ -2445,9 +2496,10 @@
     },
     "AttackType": 0,
     "Notes": "飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "10a64a9e-bb3e-4baf-b303-dd7ba875b5f2",
     "AttackCategory": 6,
     "Name": "[電刃錬気]OD 波掌撃",
     "Command": "↓ ↙ ← + P P",
@@ -2493,9 +2545,10 @@
     },
     "AttackType": 0,
     "Notes": "ヒット時に膝崩れダウンに＋39飛び道具相殺判定あり",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "130fb934-8d26-4fa6-95e4-1046f8e86fd0",
     "AttackCategory": 6,
     "Name": "電刃錬気",
     "Command": "↓ ↓ + P",
@@ -2541,9 +2594,10 @@
     },
     "AttackType": 7,
     "Notes": "51F目で電刃錬気を1つストック（1つまでストック可能）波動拳、波掌撃、真空波動拳、真波掌撃の性能が強化される",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "d9ede47f-35d3-4a23-931a-5909095b0169",
     "AttackCategory": 6,
     "Name": "SA1 真空波動拳",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -2589,9 +2643,10 @@
     },
     "AttackType": 3,
     "Notes": "1-8F\u3000打撃・投げに対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "2e743d47-7241-4f09-981f-c326bb04d6f6",
     "AttackCategory": 6,
     "Name": "[電刃錬気]SA1 真空波動拳",
     "Command": "↓ ↘ → ↓ ↘ → + P",
@@ -2637,9 +2692,10 @@
     },
     "AttackType": 3,
     "Notes": "1-8F\u3000打撃・投げに対して無敵カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ30％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "97a80f54-f876-4379-82ce-c24ce3fc40c9",
     "AttackCategory": 6,
     "Name": "SA2 真波掌撃（Lv1）",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2685,9 +2741,10 @@
     },
     "AttackType": 0,
     "Notes": "1-13F 完全無敵ボタンをホールドする事で性能変化7F以上ボタンを押して離すとLv2が発動39F以上ボタンを押して離すとLv3が発動カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7e776760-f563-4657-85ac-b12cabf8ceba",
     "AttackCategory": 6,
     "Name": "SA2 真波掌撃（Lv2）",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2733,9 +2790,10 @@
     },
     "AttackType": 0,
     "Notes": "1-9F\u3000完全無敵ボタンをホールドする事で性能変化7F以上ボタンを押して離すとLv2が発動39F以上ボタンを押して離すとLv3が発動カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "cfcd74b2-a00c-4e0b-821e-fb7e1b62ce9c",
     "AttackCategory": 6,
     "Name": "SA2 真波掌撃（Lv3）",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2781,9 +2839,10 @@
     },
     "AttackType": 0,
     "Notes": "1-9F 完全無敵ボタンをホールドする事で性能変化7F以上ボタンを押して離すとLv2が発動39F以上ボタンを押して離すとLv3が発動カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "1cf9970e-d0f3-4fce-88ad-bbf1d5d1cec4",
     "AttackCategory": 6,
     "Name": "[電刃錬気]SA2 真波掌撃（Lv1）",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2829,9 +2888,10 @@
     },
     "AttackType": 0,
     "Notes": "1-13F 完全無敵ボタンをホールドする事で性能変化7F以上ボタンを押して離すとLv2が発動39F以上ボタンを押して離すとLv3が発動カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b12e9e92-eca4-40aa-918b-dc2ce600b507",
     "AttackCategory": 6,
     "Name": "[電刃錬気]SA2 真波掌撃（Lv2）",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2877,9 +2937,10 @@
     },
     "AttackType": 0,
     "Notes": "1-9F 完全無敵ボタンをホールドする事で性能変化7F以上ボタンを押して離すとLv2が発動39F以上ボタンを押して離すとLv3が発動カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b18218c7-02c2-4081-b208-dd7d69af4bbd",
     "AttackCategory": 6,
     "Name": "[電刃錬気]SA2 真波掌撃（Lv3）",
     "Command": "↓ ↙ ← ↓ ↙ ← + P",
@@ -2925,9 +2986,10 @@
     },
     "AttackType": 0,
     "Notes": "1-9F 完全無敵ボタンをホールドする事で性能変化7F以上ボタンを押して離すとLv2が発動39F以上ボタンを押して離すとLv3が発動カウンター/パニッシュカウンターで数値が変動しない最低保障ダメージ40％",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "4b762055-343b-479e-a30a-80b7197235a5",
     "AttackCategory": 6,
     "Name": "SA3 真・昇龍拳",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -2973,9 +3035,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "df153d6a-aa89-4fca-a731-4b9eff2b3732",
     "AttackCategory": 6,
     "Name": "CA 真・昇龍拳",
     "Command": "↓ ↘ → ↓ ↘ → + K",
@@ -3021,9 +3084,10 @@
     },
     "AttackType": 0,
     "Notes": "1-16F 完全無敵最低保障ダメージ50％カウンター/パニッシュカウンターで数値が変動しない※必殺技キャンセル時のみ適用",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "75898e74-68ee-46c2-a187-c9dcad6fd75a",
     "AttackCategory": 6,
     "Name": "背負い投げ",
     "Command": "N or → + 弱P 弱K",
@@ -3069,9 +3133,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "3d01023b-df0d-497a-8dac-3cc99b7db208",
     "AttackCategory": 6,
     "Name": "巴投げ",
     "Command": "← + 弱P 弱K",
@@ -3117,9 +3182,10 @@
     },
     "AttackType": 7,
     "Notes": "パニッシュカウンター時以下の性能変化・ダメージ2040・SAゲージ4000増加・ハードノックダウン",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "bfadabd1-908b-4026-b5da-2289e8912d0f",
     "AttackCategory": 6,
     "Name": "前方ステップ",
     "Command": "→ →",
@@ -3165,9 +3231,10 @@
     },
     "AttackType": 7,
     "Notes": "",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "87a55d44-9c14-4ef6-a749-0c7e803126e5",
     "AttackCategory": 6,
     "Name": "後方ステップ",
     "Command": "← ←",
@@ -3213,9 +3280,10 @@
     },
     "AttackType": 7,
     "Notes": "1-15F 投げ無敵",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "377d6f61-6db6-40f5-ae7d-9ac8d5f7bbd0",
     "AttackCategory": 6,
     "Name": "ドライブインパクト（震撃）",
     "Command": "強P 強K",
@@ -3261,9 +3329,10 @@
     },
     "AttackType": 0,
     "Notes": "1-27F\u3000 アーマー判定（2回）ヒットバックでステージ端に到達すると壁やられが発生パニッシュカウンター、もしくはアーマー成立後にヒットで以下の性能変化・地上ヒット膝崩れ・空中ヒット吹き飛び時間増加・SAゲージ3000増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "c601ebba-d4fb-415a-9a9f-6c2af708725a",
     "AttackCategory": 6,
     "Name": "[ガード時]ドライブリバーサル（胸尖打ち）",
     "Command": "→ + 強P 強K",
@@ -3309,9 +3378,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-22F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "ff6fa95c-9564-4e95-a4da-900b1db3efe4",
     "AttackCategory": 6,
     "Name": "[起き上がり時]ドライブリバーサル（胸尖打ち）",
     "Command": "→ + 強P 強K",
@@ -3357,9 +3427,10 @@
     },
     "AttackType": 0,
     "Notes": "リカバリアブルダメージ1-20F 完全無敵ヒット時硬直5F増加",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "507d1fc4-c51b-4d54-ac97-7e370f85d18a",
     "AttackCategory": 6,
     "Name": "ドライブパリィ",
     "Command": "中P 中K",
@@ -3405,9 +3476,10 @@
     },
     "AttackType": 7,
     "Notes": "※1 動作の4F目からドライブラッシュでキャンセル可※2 ボタンホールドでパリィの持続を延長可硬直部分はガードのみ可動作中常に被パニッシュカウンター判定",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "26597b6c-caab-43c5-8fc8-f47cd94a74bd",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（打撃）",
     "Command": "+ 中P 中K",
@@ -3453,9 +3525,10 @@
     },
     "AttackType": 7,
     "Notes": "相手の攻撃に対応した方向入力を行った状態でパリィを入力し、入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する（上段/中段攻撃に対して←方向、下段攻撃に対しては↙方向)方向が正しくなかった場合は通常のドライブパリィとなり、追加でDゲージが3000増加する硬直終了から5Fの間完全無敵 （パリィを継続した場合は無敵にならない）ジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "7d14d65d-6e24-4973-9904-cdc6586f719b",
     "AttackCategory": 6,
     "Name": "ジャストパリィ（飛び道具）",
     "Command": "中P 中K",
@@ -3501,9 +3574,10 @@
     },
     "AttackType": 7,
     "Notes": "パリィを入力したフレーム、もしくはその次のフレームで攻撃を受けると成立する暗転演出が入らないジャストパリィを取られた側はキャンセルが出来なくなり、動作終了まで強制パニッシュカウンター",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "847a9f16-18d4-40a7-becf-783815f5a5a8",
     "AttackCategory": 6,
     "Name": "パリィドライブラッシュ",
     "Command": "→ →",
@@ -3549,9 +3623,10 @@
     },
     "AttackType": 7,
     "Notes": "暗転10F※動作9F目から攻撃行動にキャンセル可\u300024F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   },
   {
+    "AttackId": "b7cf9557-13c2-48cd-9faf-49a5a560d2d6",
     "AttackCategory": 6,
     "Name": "キャンセルドライブラッシュ",
     "Command": "→ → or N or → + 中P 中K",
@@ -3597,6 +3672,6 @@
     },
     "AttackType": 7,
     "Notes": "暗転9F※動作10F目から攻撃行動にキャンセル可\u300025F目からパリィ以外の行動でキャンセル可",
-    "LastUpdated": "2025-08-03T21:54:11.4020887+09:00"
+    "LastUpdated": "2025-08-06T00:16:36.1177372+09:00"
   }
 ]
